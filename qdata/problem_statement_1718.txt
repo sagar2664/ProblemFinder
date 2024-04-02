@@ -1,0 +1,1 @@
+G. Six Characterstime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputAenar should go to the string's home.InputA string consisting of only $$$6$$$ letters.OutputA string consisting of only $$$6$$$ characters.NoteIf many answers are possible, the jury will still only accept one!

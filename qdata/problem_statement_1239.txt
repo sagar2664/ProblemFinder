@@ -1,0 +1,7 @@
+E1. Divisible Numbers (easy version)time limit per test4 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputThis is an easy version of the problem. The only difference between an easy and a hard version is the constraints on $$$a$$$, $$$b$$$, $$$c$$$ and $$$d$$$.You are given $$$4$$$ positive integers $$$a$$$, $$$b$$$, $$$c$$$, $$$d$$$ with $$$a < c$$$ and $$$b < d$$$. Find any pair of numbers $$$x$$$ and $$$y$$$ that satisfies the following conditions: $$$a < x \leq c$$$, $$$b < y \leq d$$$, $$$x \cdot y$$$ is divisible by $$$a \cdot b$$$.Note that required $$$x$$$ and $$$y$$$ may not exist.InputThe first line of the input contains a single integer $$$t$$$ $$$(1 \leq t \leq 10$$$), the number of test cases.The descriptions of the test cases follow.The only line of each test case contains four integers $$$a$$$, $$$b$$$, $$$c$$$ and $$$d$$$ ($$$1 \leq a < c \leq 10^5$$$, $$$1 \leq b < d \leq 10^5$$$).OutputFor each test case print a pair of numbers $$$a < x \leq c$$$ and $$$b < y \leq d$$$ such that $$$x \cdot y$$$ is divisible by $$$a \cdot b$$$. If there are multiple answers, print any of them. If there is no such pair of numbers, then print -1 -1.ExampleInput
+51 1 2 23 4 5 78 9 15 1812 21 14 2436 60 48 66Output
+2 2
+4 6
+12 12
+-1 -1
+-1 -1

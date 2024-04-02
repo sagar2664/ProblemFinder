@@ -1,0 +1,16 @@
+D. Cute numbertime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputRan is especially skilled in computation and mathematics. It is said that she can do unimaginable calculation work in an instant.—Perfect Memento in Strict SenseRan Yakumo is a cute girl who loves creating cute Maths problems.Let $$$f(x)$$$ be the minimal square number strictly greater than $$$x$$$, and $$$g(x)$$$ be the maximal square number less than or equal to $$$x$$$. For example, $$$f(1)=f(2)=g(4)=g(8)=4$$$.A positive integer $$$x$$$ is cute if $$$x-g(x)<f(x)-x$$$. For example, $$$1,5,11$$$ are cute integers, while $$$3,8,15$$$ are not. Ran gives you an array $$$a$$$ of length $$$n$$$. She wants you to find the smallest non-negative integer $$$k$$$ such that $$$a_i + k$$$ is a cute number for any element of $$$a$$$.InputThe first line contains one integer $$$n$$$ ($$$1 \leq n \leq 10^6$$$) — the length of $$$a$$$.The second line contains $$$n$$$ intergers $$$a_1,a_2,\ldots,a_n$$$ ($$$1 \leq a_1 \leq a_2 \leq \ldots \leq a_n \leq 2\cdot 10^6$$$) — the array $$$a$$$.OutputPrint a single interger $$$k$$$ — the answer.ExamplesInput
+4
+1 3 8 10
+Output
+1
+Input
+5
+2 3 8 9 11
+Output
+8
+Input
+8
+1 2 3 4 5 6 7 8
+Output
+48
+NoteTest case 1:$$$3$$$ is not cute integer, so $$$k\ne 0$$$.$$$2,4,9,11$$$ are cute integers, so $$$k=1$$$.

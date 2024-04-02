@@ -1,0 +1,10 @@
+H. Sum of Digits of Sumstime limit per test6 secondsmemory limit per test512 megabytesinputstandard inputoutputstandard outputYou are given an array $$$[a_1, a_2, \dots, a_n]$$$, consisting of positive integers.For every $$$i$$$ from $$$1$$$ to $$$n$$$, calculate $$$\sum \limits_{j=1}^{n} F(a_i + a_j)$$$, where $$$F(x)$$$ is the sum of digits of $$$x$$$.InputThe first line contains one integer $$$n$$$ ($$$2 \le n \le 2 \cdot 10^5$$$).The second line contains $$$n$$$ integers $$$a_1, a_2, \dots, a_n$$$ ($$$1 \le a_i < 10^9$$$).OutputPrint $$$n$$$ integers. The $$$i$$$-th of them should be equal to $$$\sum \limits_{j=1}^{n} F(a_i + a_j)$$$.ExamplesInput
+4
+1 3 3 7
+Output
+18 17 17 15 
+Input
+3
+42 1337 999
+Output
+38 53 47 

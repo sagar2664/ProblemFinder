@@ -1,0 +1,15 @@
+H. Keep XOR Lowtime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given an array $$$a_1, a_2, \ldots, a_n$$$ and an integer $$$x$$$.Find the number of non-empty subsets of indices of this array $$$1 \leq b_1 < b_2 < \ldots < b_k \leq n$$$, such that for all pairs $$$(i, j)$$$ where $$$1 \leq i < j \leq k$$$, the inequality $$$a_{b_i} \oplus a_{b_j} \leq x$$$ is held. Here, $$$\oplus$$$ denotes the bitwise XOR operation. As the answer may be very large, output it modulo $$$998\,244\,353$$$.InputThe first line of the input contains two integers $$$n$$$ and $$$x$$$ ($$$1 \leq n \leq 150\,000$$$, $$$0 \leq x < 2^{30}$$$). Here, $$$n$$$ is the size of the array.The next line contains $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$ ($$$0 \leq a_i < 2^{30}$$$): the array itself.OutputPrint one integer: the number of non-empty subsets such that the bitwise XOR of every pair of elements is at most $$$x$$$, modulo $$$998\,244\,353$$$.ExamplesInput
+4 2
+0 1 2 3
+Output
+8
+Input
+3 6
+4 2 2
+Output
+7
+Input
+4 0
+1 1 2 2
+Output
+6

@@ -1,0 +1,5000 @@
+G. Shuffling Songs
+F. 0, 1, 2, Tree!
+E. Nearly Shortest Repeating Substring
+D. Product of Binary Decimals
+C. Clock Conversion
+B. Upscaling
+A. Stair, Peak, or Neither?
+K. Make Triangle
+J. Amanda the Amoeba
+I. Disks
+H. Division Avoidance
+G. Scooter
+F. Dating
+E. Damage per Second
+D. Funny or Scary?
+C. Annual Ants' Gathering
+B. Charming Meals
+A. Grove
+G. MST with Matching
+F. Rare Coins
+E. Clique Partition
+D. Tandem Repeats?
+C. Arrow Path
+B. Array Fix
+A. Special Characters
+F. Nobody is needed
+E. Girl Permutation
+D. Birthday Gift
+C. Tree Cutting
+B. Maximum Sum
+A. Median of an Array
+H. GCD is Greater
+G. Cook and Porridge
+F. Kirill and Mushrooms
+E. Binary Search
+D. Seraphim the Owl
+C. Left and Right Houses
+B. Fireworks
+A. Setting up Camp
+B. Equal XOR
+A. Destroying Bridges
+F. Minimum Hamming Distance
+E2. MEX Game 2 (Hard Version)
+E1. MEX Game 2 (Easy Version)
+D2. Counting Is Fun (Hard Version)
+D1. Counting Is Fun (Easy Version)
+C. Tree Compass
+B. Non-Palindromic Substring
+A. MEX Game 1
+H. Farmer John's Favorite Intern
+G. Bessie and Cards
+F. Farmer John's Favorite Function
+E. Farm Game
+D. Learning to Paint
+C2. Bessie's Birthday Cake (Hard Version)
+C1. Bessie's Birthday Cake (Easy Version)
+B. Bessie and MEX
+A. Farmer John's Challenge
+G. Rudolf and Subway
+F. Rudolf and Imbalance
+E. Rudolf and k Bridges
+D. Rudolf and the Ball Game
+C. Rudolf and the Ugly String
+B. Rudolf and 121
+A. Rudolf and the Ticket
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B. Binary Path
+A. Shuffle Party
+F. Grand Finale: Circles
+E. Yet Yet Another Permutation Problem
+D. Bitwise Paradox
+C. Pokémon Arena
+B. Pinball
+A. Bitwise Operation Wizard
+F. Andrey's Tree
+E. Distance Learning Courses in MAC
+D. Exam in MAC
+C. Messenger in MAC
+B. Informatics in MAC
+A. Entertainment in MAC
+E. Weird LCM Operations
+D2. XOR Break — Game Version
+D1. XOR Break — Solo Version
+C. Find a Mine
+B. Yet Another Coin Problem
+A. Too Min Too Max
+G. Turtle Magic: Royal Turtle Shell Pattern
+F. Turtle Mission: Robot and the Earthquake
+E. Turtle vs. Rabbit Race: Optimal Trainings
+D. Turtle Tenacity: Continual Mods
+C. Turtle Fingers: Count the Values of k
+B. Turtle Math: Fast Three Task
+A. Turtle Puzzle: Rearrange and Negate
+G. Moving Platforms
+F. Feed Cats
+E. Final Countdown
+D. Card Game
+C. LR-remainders
+B. Chaya Calendar
+A. Thorns and Coins
+G. One-Dimensional Puzzle
+F. Chat Screenshots
+E. Anna and the Valentine's Day Gift
+D. Divisible Pairs
+C. Make Equal Again
+B. Make Equal
+A. Recovering a Small String
+I. Counting Is Fun
+H. Interactive Mex Tree
+G. Prefix Max Set Counting
+F. Maximize the Difference
+E. 2..3...4.... Wonderful! Wonderful!
+D2. Sum over all Substrings (Hard Version)
+D1. Sum over all Substrings (Easy Version)
+C. Lexicographically Largest
+B. Permutation Printing
+A. Maximise The Score
+F. Sasha and the Wedding Binary Search Tree
+E. Sasha and the Happy Tree Cutting
+D. Sasha and a Walk in the City
+C. Sasha and the Casino
+B. Sasha and the Drawing
+A. Sasha and the Beautiful Array
+F. Digital Patterns
+E. Modular Sequence
+D. Lonely Mountain Dungeons
+C. Physical Education Lesson
+B. Equalize
+A. Rectangle Cutting
+G. Paint Charges
+F. Microcycle
+E. Klever Permutation
+D. Find the Different Ones!
+C. Choose the Different Ones!
+B. Following the String
+A. Make it White
+G. Vlad and Trouble at MIT
+F. Vlad and Avoiding X
+E. Vlad and an Odd Ordering
+D. Vlad and Division
+C. Vlad and a Sum of Sum of Digits
+B. Vlad and Shapes
+A. Vlad and the Best of Five
+D. Good Trip
+B. A Balanced Problemset?
+A. We Got Everything Covered!
+F. Anti-Proxy Attendance
+E. Paper Cutting Again
+D. Balanced Subsequences
+C. Fractal Origami
+B. Space Harbour
+A. Did We Get Everything Covered?
+F. Shrink-Reverse
+E. Count Paths
+D. Slimes
+C. Find B
+B. Monsters Attack!
+A. Moving Chips
+F. Replace on Segment
+E. Increasing Subsequences
+D. Berserk Monsters
+C. Closest Cities
+B. Forming Triangles
+A. Tricky Template
+G. Mischievous Shooter
+F. Sum of Progression
+E. Eat the Chip
+D. Very Different Array
+C. Sending Messages
+B. Arranging Cats
+A. Square
+F2. Smooth Sailing (Hard Version)
+F1. Smooth Sailing (Easy Version)
+E. Counting Binary Strings
+D. Array Repetition
+C. Partitioning the Array
+B. Summation Game
+A. Satisfying Constraints
+H. Tree Diameter
+G. Tree LGM
+F2. Wine Factory (Hard Version)
+F1. Wine Factory (Easy Version)
+E. Counting Prefixes
+D. 01 Tree
+C. Grouping Increases
+B. Plus-Minus Split
+A. Wallet Exchange
+G. Permutation of Given
+F. Caterpillar on a Tree
+E. ace5 and Task Order
+D. Blocking Elements
+C. XOR-distance
+B. Minimize Inversions
+A. Brick Wall
+F. Construct Tree
+E. Construct Matrix
+D. Yet Another Inversions Problem
+C. Watering an Array
+B. Erase First or Second Letter
+A. Least Product
+H2. Matrix Rank (Hard Version)
+H1. Matrix Rank (Easy Version)
+G. Optimizations From Chelsu
+F. Group Division
+E. Happy Life in University
+D. Mathematical Problem
+C. Training Before the Olympiad
+B. Two Divisors
+A. 2023
+G. Bicycles
+F. Greetings
+E. Romantic Glasses
+D. Unnatural Language Processing
+C. Can I Square?
+B. Not Quite Latin Square
+A. Odd One Out
+G2. Light Bulbs (Hard Version)
+G1. Light Bulbs (Easy Version)
+F. Programming Competition
+E2. Game with Marbles (Hard Version)
+E1. Game with Marbles (Easy Version)
+D. Three Activities
+C. Quests
+B. Preparing for the Contest
+A. Problemsolving Log
+F. Palindromic Problem
+E. Matrix Problem
+D. Array Collapse
+C. Game with Multiset
+B. Swap and Delete
+A. Rating Increase
+L. LOL Lovers
+K. Kim's Quest
+
+
+H. Hypercatapult Commute
+
+F. Fugitive Frenzy
+E. Evaluate It and Back Again
+D. Divisibility Test
+
+B. Blueprint for Seating
+A. Accumulator Apex
+J. Two Colors
+I. Inverse Problem
+H. Sum of Digits of Sums
+G. Pool Records
+F. Build Railway Stations
+E. Maximum Sum Subarrays
+D. Remove and Add
+C. Poisonous Swamp
+B. Security Guard
+A. Username
+I. Short Permutation Problem
+H. Parallel Swaps Sort
+G. Pumping Lemma
+F2. Small Permutation Problem (Hard Version)
+F1. Small Permutation Problem (Easy Version)
+E. Multiple Lamps
+D. Split Plus K
+C. Heavy Intervals
+B. Make Almost Equal With Mod
+A. Distinct Buttons
+G. Lights
+F. Shift and Reverse
+E. Good Triples
+D. Jumping Through Segments
+C. Removal of Unattractive Pairs
+B. YetnotherrokenKeoard
+A. Rook
+M. Triangle Construction
+L. Palindromic Parentheses
+K. Deck-Building Game
+J. Count BFS Graph
+I. Contingency Plan 2
+H. Twin Friends
+G. Grid Game 2
+F. Maximize The Value
+E. Merge Not Sort
+D. Spaceship Exploration
+C. Cursed Game
+B. Button Pressing
+A. Easy As ABC
+F. Field Should Not Be Empty
+E. One-X
+D. Cyclic MEX
+C. Largest Subsequence
+B. Begginer's Zelda
+A. Constructive Problems
+F. Beautiful Tree
+E. Tree Queries
+D2. Set To Max (Hard Version)
+D1. Set To Max (Easy Version)
+C. Array Game
+B. Collecting Game
+A. Forked!
+F. Babysitting
+E. Geo Game
+D2. Maximum And Queries (hard version)
+D1. Maximum And Queries (easy version)
+C. Theofanis' Nightmare
+B. StORage room
+A. Halloumi Boxes
+F. Trees and XOR Queries Again
+E. Collapsing Strings
+D. Robot Queries
+C. Insert and Equalize
+B. Getting Points
+A. Binary Imbalance
+F. Landscaping
+E. Compressed Tree
+D. Yet Another Monster Fight
+C. Add, Divide and Floor
+B. Chip and Ribbon
+A. Line Trip
+F. Local Deletions
+E. Transitive Graph
+D. Small GCD
+C. Anji's Binary Tree
+B. Laura and Operations
+A. Cover in Water
+G. Unusual Entertainment
+F. Alex's whims
+E. Queue Sort
+D. Yarik and Musical Notes
+C. Yarik and Array
+B. 250 Thousand Tons of TNT
+A. Game with Integers
+F. Vova Escapes the Matrix
+E. Sofia and Strings
+D. Absolute Beauty
+C. Colorful Grid
+B. Milena and Admirer
+A. Milica and String
+H2. Cyclic Hamming (Hard Version)
+H1. Cyclic Hamming (Easy Version)
+G. Pepe Racing
+F. Bracket Xoring
+E. Permutation Sorting
+D. Ones and Twos
+C. Matching Arrays
+B. AB Flipping
+A. Jagged Swaps
+G. Two Characters, Two Colors
+F. Fancy Arrays
+E. Infinite Card Game
+D. XOR Construction
+C. Torn Lucky Ticket
+B. Points and Minimum Distance
+A. Treasure Chest
+B. Two Out of Three
+A. Secret Sport
+E. Cacti Symphony
+D. Colorful Constructive
+C. Freedom of Choice
+B. Neutral Tonality
+A. Anonymous Informant
+F. A Growing Tree
+E. Brukhovich and Exams
+D. Suspicious logarithms
+C. Smilo and Monsters
+B. Deja Vu
+A. Sorting with Twos
+B. Qingshan Loves Strings
+A. Doremy's Paint 3
+F. Doremy's Average Tree
+E. Doremy's Swapping Trees
+D. Game of Stacks
+C2. Doremy's Drying Plan (Hard Version)
+C1. Doremy's Drying Plan (Easy Version)
+B. Doremy's Connecting Plan
+A. Qingshan Loves Strings 2
+F. Minimum Segments
+E. Good Colorings
+D. Split
+C. Minimum Array
+B. Time Travel
+F. Diamond Theft
+E. I Wanna be the Team Leader
+D. Monocarp and the Set
+C. Decreasing String
+B. Fear of the Dark
+A. Sum of Three
+A. Deterministic Scheduling for Extended Reality over 5G and Beyond
+E. Hard Design
+D. Counting Rhyme
+C. Medium Design
+B. Haunted House
+A. Simple Design
+G2. Dances (Hard Version)
+G1. Dances (Easy version)
+F. You Are So Beautiful
+E. Look Back
+D. In Love
+C. Raspberries
+B. Chemistry
+A. Morning
+E2. Two Permutations (Hard Version)
+E1. Two Permutations (Easy Version)
+D. Tree XOR
+C. Card Game
+B. Sets and Union
+A. Increasing Sequence
+G. Anya and the Mysterious String
+F. Minimum Maximum Distance
+E. Block Sequence
+D. Divide and Equalize
+C. Perfect Square
+B. Three Threadlets
+A. Don't Try to Count
+F. Last Man Standing
+E. Interactive Game with Coloring
+D. Sum of XOR Functions
+C. Make it Alternating
+B. Chips on the Board
+A. Rigged!
+G. wxhtzdy ORO Tree
+F. Vasilije Loves Number Theory
+E. Iva & Pav
+D. Reverse Madness
+C. Vasilije in Cacak
+B. Aleksa and Stack
+A. How Much Does Daytona Cost?
+C. Joyboard
+A. Goals of Victory
+G. Clubstep
+F. Indefinite Clownfish
+E. Ball-Stackable
+D. Lexichromatography
+C. Autosynthesis
+B. Effects of Anti Pimples
+A. Helmets in Night Light
+D. Jellyfish and Mex
+C. Jellyfish and Green Apple
+A. Jellyfish and Undertale
+G. Jellyfish and Inscryption
+F. Jellyfish and OEIS
+E. Jellyfish and Hack
+D. Jellyfish and Miku
+C. Jellyfish and EVA
+B. Jellyfish and Math
+A. Jellyfish and Game
+H. Mad City
+G. ABBC or BACB
+F. Money Trees
+E. Building an Aquarium
+D. 1D Eraser
+C. Target Practice
+B. Good Kid
+A. Short Sort
+G. Replace With Product
+F. Selling a Menagerie
+E. Data Structures Fan
+D. Plus Minus Permutation
+C. Non-coprime Split
+B. The Corridor or There and Back Again
+A. Two Vessels
+H. Standard Graph Problem
+G. MEXanization
+F. Lazy Numbers
+E. Another MEX Problem
+D. Prefix Purchase
+C. Colorful Table
+B. Friendly Arrays
+A. MEXanized Array
+B. 2D Traveling
+A. Make It Zero
+F. LIS?
+E. Min-Sum-Max
+D. Flower-like Pseudotree
+C. Travel Plan
+B2. Candy Party (Hard Version)
+B1. Candy Party (Easy Version)
+A. Fill in the Matrix
+F. Most Different Tree
+E2. Salyg1n and Array (hard version)
+E1. Salyg1n and Array (simple version)
+D. Cyclic Operations
+C. Salyg1n and the MEX Game
+B. XOR Palindromes
+A. green_gold_dog, array and permutation
+M. Mighty Rock Tower
+L. Lihmuf Balling
+K. Keen Tree Calculation
+J. Jackets and Packets
+I. Imagination Castle
+H. Happy Sets
+G. Grouped Carriages
+F. Freak Joker Process
+E. Elevators of Tamem
+D. Digital Wallet
+C. Completely Searching for Inversions
+B. Battling with Numbers
+A. Ambitious Kid
+I. Future Dominators
+H. Asterism Stream
+G. Magic Square
+F. Exotic Queries
+E. Guess Game
+D. Matrix Cascade
+C. Divisor Chain
+B. Swap and Reverse
+A. Increasing and Decreasing
+I. Redundant Routes
+H. Goldberg Machine 3
+G. Swaps
+F. Divide, XOR, and Conquer
+E. Speedrun
+D. Two-Colored Dominoes
+C. MEX Repetition
+B. Split Sort
+A. Channel
+G. The Great Equalizer
+F. Magic Will Save the World
+E. Kolya and Movie Theatre
+D. Ice Cream Balls
+C. Flower City Fence
+B. Sequence Game
+A. Gift Carpet
+F. Four Suits
+E. Non-Intersecting Subpermutations
+
+C. Queries for the Array
+B. Two Binary Strings
+A. Prime Deletion
+F. Evaluate RBS
+E. Fast Travel Text Editor
+D. Balanced String
+C. Game on Permutation
+B. Fancy Coins
+A. Not a Substring
+F. Teleportation in Byteland
+E. Maximum Monogonosity
+D. Andrey and Escape from Capygrad
+C. Another Permutation Problem
+B. Olya and Game with Arrays
+A. United We Stand
+E2. Rollbacks (Hard Version)
+E1. Rollbacks (Easy Version)
+D. Trees and Segments
+C. Yet Another Permutation Problem
+B. The Walkway
+A. Buttons
+G. Counting Graphs
+F. Sum and Product
+E. Power of Points
+D. Strong Vertices
+C. Assembly via Minimums
+B. Maximum Rounding
+A. Array Coloring
+E2. PermuTree (hard version)
+E1. PermuTree (easy version)
+D. More Wrong
+C. To Become Max
+B. Good Arrays
+A. Tales of a Sort
+B. Longest Divisors Interval
+A. Dalton the Teacher
+F. Mark and Spaceship
+E. Game Bundles
+D. Michael and Hotel
+C. Expected Destruction
+B. Earn or Unlock
+A2. Dual (Hard Version)
+A1. Dual (Easy Version)
+B. Fibonaccharsis
+A. Desorting
+F. Panda Meetups
+E. Rivalries
+D. Miriany and Matchstick
+C. Ina of the Mountain
+B. Imbalanced Arrays
+A. Ntarsis' Set
+G. Vlad and the Mountains
+F. Lisa and the Martians
+E. Nastya and Potions
+D. Prefix Permutation Sums
+C. Tiles Comeback
+B. Parity Sort
+A. Escalator Conversations
+H. The Third Letter
+G. The Morning Star
+F. We Were Both Children
+E. Cardboard for Pictures
+D. Balanced Round
+C. Word on the Paper
+B. Ten Words of Wisdom
+A. To My Critics
+F. XOR Partition
+E. Max to the Right of Min
+D. Array Painting
+C. Binary String Copying
+B. Monsters
+A. Morning Sandwich
+F. Vika and Wiki
+E. Vika and Stone Skipping
+D. Vika and Bonuses
+C. Vika and Price Tags
+B. Vika and the Bridge
+A. Vika and Her Friends
+F. The Boss's Identity
+E. Triangle Platinum?
+D. Professor Higashikata
+C. Vampiric Powers, anyone?
+B. Hamon Odyssey
+A. The Man who became a God 
+G. Rudolf and CodeVid-23
+F. Rudolph and Mimic
+E2. Rudolf and Snowflakes (hard version)
+E1. Rudolf and Snowflakes (simple version)
+D. Rudolph and Christmas Tree
+C. Rudolf and the Another Competition
+B. Rudolph and Tic-Tac-Toe
+A. Rudolph and Cut the Rope 
+F. Swimmers in the Pool
+E. Boxes and Balls
+D. Rating System
+C. Strong Password
+B. Come Together
+A. Forbidden Integer
+H. Multiple of Three Cycles
+G. Tree Weights
+F2. Min Cost Permutation (Hard Version)
+F1. Min Cost Permutation (Easy Version)
+E. Great Grids
+D. Row Major
+C. Particles
+B. Permutations & Primes
+A. Subtraction Game
+F2. Omsk Metro (hard version)
+F1. Omsk Metro (simple version)
+E. Tracking Segments
+D. Apple Tree
+C. Sum in Binary Tree
+B. Long Long
+A. Sasha and Array Coloring
+I. Tenzing and Necklace
+H. Tenzing and Random Real Numbers
+G. Tenzing and Random Operations
+F. Tenzing and Tree
+E. Tenzing and Triangle
+D. Tenzing and His Animal Friends 
+C. Tenzing and Balls
+B. Tenzing and Books
+A. Tenzing and Tsondu
+F. Monocarp and a Strategic Game
+E. Fill the Matrix
+D. Pairs of Segments
+C. Ranom Numbers
+B. Keep it Beautiful
+A. Game with Board
+G2. In Search of Truth (Hard Version)
+G1. In Search of Truth (Easy Version)
+F. Railguns
+E. Character Blocking
+D. Wooden Toy Festival
+C. Ski Resort
+B. Binary Cafe
+A. Cipher Shifer
+E. Decreasing Game
+D. Ball Sorting
+C. Insert Zero and Invert Prefix
+B. Lamps
+A. The Good Array
+F. Stuck Conveyor
+E. Count Supersequences
+D. Bracket Walk
+C. No Prime Differences
+B. Minimize Permutation Subarrays
+A. Blackboard List
+F. Editorial for Two
+E. Playoff Fixing
+D. Bracket Coloring
+C. Best Binary String
+B. Comparison String
+A. Grasshopper on a Line
+B. Astrophysicists
+A. Destroyer
+F. Good Graph
+E. Old Mobile
+D. Doctor's Brown Hypothesis
+C. Twin Clusters
+B. Lottery
+A. k-th equality
+F. Typewriter
+E. MEX of LCM
+D. Survey in Class
+C. Game with Reversing
+B. Maximum Strength
+A. Unit Array
+G. Ksyusha and Chinchilla
+F. Ira and Flamenco
+E. Round Dance
+D. Flipper
+C. Vlad Building Beautiful Array
+B. Restore the Weather
+A. Musical Puzzle
+F. Zombies
+E. Combinatorics Problem
+D2. Red-Blue Operations (Hard Version)
+D1. Red-Blue Operations (Easy Version)
+C. Contrast Value
+B. Maximum Sum
+A. New Palindrome
+B. Array merging
+A. Twin Permutations
+F. The Third Grace
+E. Bully Sort
+D. Mex Tree
+C. Hyperregular Bracket Strings
+B. The BOSS Can Count Pairs
+A. Copil Copac Draws Trees
+H. Don't Blame Me
+G. Hits Different
+F. Forever Winter
+E. The Lakes
+D. Gold Rush
+C. Mr. Perfectly Fine
+B. Blank Space
+A. Love Story
+B. Permutation Swap
+A. Divisible Array
+F. Copium Permutation
+E. Bus Routes
+D. Two Centroids
+C. Palindrome Partition
+B2. Range Sorting (Hard Version)
+B1. Range Sorting (Easy Version)
+A. Counting Orders
+F. Fading into Fog
+E. Walk the Runway
+D. Running Miles
+C. Dreaming of Freedom
+B. Lunatic Never Content
+A. Trust Nobody
+B. LuoTianyi and the Table
+A. LuoTianyi and the Palindrome String
+E. LuoTianyi and Cartridge
+D. LuoTianyi and the Function
+C. LuoTianyi and XOR-Tree
+B2. LuoTianyi and the Floating Islands (Hard Version)
+B1. LuoTianyi and the Floating Islands (Easy Version)
+A. LuoTianyi and the Show
+F. Random Walk
+E. Removing Graph
+D. Unique Palindromes
+C. Strongly Composite
+B. Sort with Step
+A. A-characteristic
+G2. Magic Triples (Hard Version)
+G1. Magic Triples (Easy Version)
+F. Gardening Friends
+E. Making Anti-Palindromes
+D. Super-Permutation
+C. Bun Lover
+B. Karina and Array
+A. TubeTube Feed
+F. Timber
+E. Rearrange Brackets
+D. Black Cells
+C. Tear It Apart
+B. Sort the Subarray
+A. Matching
+B. JoJo's Incredible Adventures
+A. Yura's New Name
+F. Willy-nilly, Crack, Into Release!
+E. Roads in E City
+D. Misha and Apples
+C. The Fox and the Complete Tree Traversal
+B. The Butcher
+A. Constructive Problem
+B. Indivisible
+A. Politics
+F. Entangled Substrings
+E. Half-sum
+D. Toy Machine
+C. Similar Polynomials
+B. Fish Graph
+A. Almost Increasing Subsequence
+B. Grid Reconstruction
+A. Ian Visits Mary
+F. OH NO1 (-2-3-4)
+E. Bosco and Particle
+D. XOR Counting
+C. Between
+B. Sum Graph
+A. Ian and Array Sorting
+F. Communication Towers
+E. Chain Chips
+D. Balancing Weapons
+C. Search in Parallel
+B. Long Legs
+A. Coins
+J. Unmysterious Language
+I. Mountain Climber
+H. Expected Twist
+G. Colour Vision
+F. Factorization
+E. Not a Geometry Problem
+D. Trivial Conjecture
+C. Digits
+B. Was it Rated?
+A. Are You a Robot?
+G2. Vlad and the Nice Paths (hard version)
+G1. Vlad and the Nice Paths (easy version)
+F. Is It Flower?
+E. Living Sequence
+D. Umka and a Long Flight
+C. Restore the Array
+B. Conveyor Belts
+A. Insert Digit
+H. Last Number
+G. The Maximum Prefix
+F. M-tree
+E. Monsters
+D. Climbing the Tree
+C. Make It Permutation
+B. Candies
+A. Beautiful Sequence
+G. Prediction
+F. Traveling in Berland
+E. Two Tanks
+D. Binary String Sorting
+C. Sum on Subarrays
+B. Points on Plane
+A. Garland
+E3. Minibuses on Venus (hard version)
+E2. Minibuses on Venus (medium version)
+E1. Minibuses on Venus (easy version)
+D. Petya, Petya, Petr, and Palindromes
+C. Unlucky Numbers
+B. Playing in a Casino
+A. Lucky Numbers
+G2. Subsequence Addition (Hard Version)
+G1. Subsequence Addition (Easy Version)
+F. Bouncy Ball
+E. Interview
+D. Odd Queries
+C. Find and Replace
+B. Grab the Candies
+A. Plus or Minus
+F2. GCD Master (hard version)
+F1. GCD Master (easy version)
+E. Tree Master
+D. DSU Master
+C. Sequence Master
+B. Mex Master
+A. Walking Master
+F2. Survival of the Weakest (hard version)
+F1. Survival of the Weakest (easy version)
+E. There Should Be a Lot of Maximums
+D. A Wide, Wide Graph
+C. Place for a Selfie
+B. The String Has a Target
+A. We Need the Zero
+H. Code Lock
+G. Flow Control
+F. Approximate Diameter
+E. Routing
+D. Accommodation
+C. Pull Your Luck
+B. Vaccination
+A. Lame King
+B. Settlement of Guinea Pigs
+A. Likes
+G. A task for substrings
+F. Another n-dimensional chocolate bar
+E. Gasoline prices
+D. The way home
+C. Music Festival
+B. Buying gifts
+A. The Very Beautiful Blanket
+G. Symmetree
+F. Dasha and Nightmares
+E2. Unforgivable Curse (hard version)
+E1. Unforgivable Curse (easy version)
+D. Remove Two Letters
+C2. Powering the Hero (hard version)
+C1. Powering the Hero (easy version)
+B. Count the Number of Pairs
+A. Is It a Cat?
+H. Tree Cutting
+G. Count Voting
+F. Halve or Subtract
+E. City Union
+D2. Hot Start Up (hard version)
+D1. Hot Start Up (easy version)
+C. Double Lexicographically Minimum
+B. Equalize by Divide
+A. Recent Actions
+F. Gifts from Grandfather Ahmed
+E. Multitest Generator
+D. Shocking Arrangement
+C. Candy Store
+B. Three Sevens
+A. Showstopper
+F. Li Hua and Path
+E. Li Hua and Array
+D. Li Hua and Tree
+C. Li Hua and Chess
+B. Li Hua and Pattern
+A. Li Hua and Maze
+F. Strange Triples
+E. Colored Subgraphs
+D. Maximum Subarray
+C. Maximum Set
+B. Asterisk-Minor Template
+A. Typical Interview Problem
+G. Removal Sequences
+F. Blocking Chips
+E. Explosions?
+D. Triangle Coloring
+C. Tea Tasting
+B. Ideal Point
+A. Two Towers
+E. Labeling the Tree with Distances
+D. Counting Factorizations
+C. Scoring Subsequences
+B. Not Dividing
+A. Prefix and Suffix Array
+F. Rebrending
+E. Velepin and Marketing
+D. Moscow Gorillas
+C. Dora and Search
+B. Fedya and Array
+A. Yet Another Promotion
+F2. Graph Coloring (hard version)
+F1. Graph Coloring (easy version)
+E. Divisors and Table
+D. Fixed Prefix Permutations
+C. Min Max Sort
+B. Stand-up Comedian
+A. GamingForces
+G2. Teleporters (Hard Version)
+G1. Teleporters (Easy Version)
+F. Range Update Point Query
+E. Negatives and Positives
+D. Distinct Split
+C. Prepend and Append
+B. Following Directions
+A. Codeforces Checking
+G. Tokens on Graph
+F. Timofey and Black-White Tree
+E. Vlad and a Pair of Numbers
+D. Matryoshkas
+C. Premutation
+B. Taisia and Dice
+A. Polycarp and the Day of Pi
+F. Serval and Brain Power
+E. Serval and Music Game
+D. Serval and Shift-Shift-Shift
+C. Serval and Toxel's Arrays
+B. Serval and Inversion Magic
+A. Serval and Mocha's Array
+F. XOR, Tree, and Queries
+E. Sum Over Zero
+D. Moving Dots
+C. Matching Numbers
+B. Sum of Two Numbers
+A. One and Two
+I. Treasure Hunt
+H. Codeforces Scoreboard
+G. Colorful Tree Again
+F. Inverse Transformation
+E. The Harmonization of XOR
+D. Game on Axis
+C. Remove the Bracket
+B. Number Factorization
+A. Exponential Equation
+B. Cake Assembly Line
+A2. Alternating Deck (hard version)
+A1. Non-alternating Deck (easy version)
+F. Minimums or Medians
+E. Infinite Game
+D. Wooden Spoon
+C. Monsters (hard version)
+B. Letter Exchange
+A. Monsters (easy version)
+G. Weighed Tree Radius
+F. Double Sort II
+E. Game of the Year
+D. Different Arrays
+C. Yet Another Tournament
+B. Matrix of Differences
+A. Make it Beautiful
+H2. Window Signals (hard version)
+H1. Window Signals (easy version)
+G. Diverse Coloring
+F. Bracket Insertion
+E. Rectangle Shrinking
+D. Many Perfect Squares
+C. Equal Frequencies
+B. Going to the Cinema
+A. Parallel Projection
+G. Delicious Dessert
+F. Three Chairs
+E. Josuke and Complete Graph
+D. Bit Guessing Game
+B. GCD Partition
+A. Hayato and School
+H. Olympic Team Building
+G. The Game of the Century
+F. Xorcerer's Stones
+E. Anya's Simultaneous Exhibition
+D. Boris and His Amazing Haircut
+C. Least Prefix Sum
+B. MKnez's ConstructiveForces Task
+A. Hall of Fame
+F. Maximizing Root
+E. The Tree Has Fallen!
+D. Flexible String Revisit
+C. Flexible String
+B. The Forbidden Permutation
+A. Flip Flop Sum
+F. Comfortably Numb
+E. Edge Reverse
+D. Score of a Tree
+C. Quiz Master
+B. Emordnilap
+A. Everybody Likes Good Arrays!
+N. Count Permutations
+M. Parmigiana With Seafood
+L. Controllers
+K. Uniform Chemistry
+J. Italian Data Centers
+I. Spinach Pizza
+H. Beppa and SwerChat
+G. Another Wine Tasting Event
+F. Train Splitting
+E. Crossing the Railways
+D. Teamwork
+C. Library game
+B. Vittorio Plays with LEGO Bricks
+A. Walking Boy
+F. Laboratory on Pluto
+E. The Human Equation
+D. Friendly Spiders
+C. Interesting Sequence
+B. Gardener and the Array
+A2. Gardener and the Capybaras (hard version)
+A1. Gardener and the Capybaras (easy version)
+H. Maximum Permutation
+G. Segment Covering
+F2. Magician and Pigs (Hard Version)
+F1. Magician and Pigs (Easy Version)
+E. Two Chess Pieces
+D. Same Count One
+C. Ice and Fire
+B. Coloring
+A. Add Plus Minus Sign
+L. Lisa's Sequences
+
+J. Jumbled Trees
+I. Interactive Factorial Guessing
+H. Hot and Cold
+G. Game of Questions
+F. Football
+E. Easy Assembly
+D. Dominoes
+
+B. BinCoin
+A. Amazing Trick
+G. Gaining Rating
+F. Copy of a Copy of a Copy
+E. Permutation Game
+D. Absolute Sorting
+C. Different Differences
+B. Matrix Rotation
+A. A+B?
+F. Hossam and Range Minimum Query
+E. Hossam and a Letter
+D. Hossam and (sub-)palindromic tree
+C. Hossam and Trainees
+B. Hossam and Friends
+A. Hossam and Combinatorics
+H. Koxia, Mahiru and Winter Festival
+G. Koxia and Bracket
+F. Koxia and Sequence
+E. Koxia and Tree
+D. Koxia and Game
+C. Koxia and Number Theory
+B. Koxia and Permutation
+A. Koxia and Whiteboards
+D3. Игра в Девятку IIIограничение по времени на тест5 секундограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВ этой версии задачи нужно найти $$$26$$$ раскладов с различными значениями важности первого хода.Алиса и Боб решили сыграть в карточную игру «Девятка». Пожалуйста, внимательно прочитайте условие задачи, поскольку правила могут отличаться от известных вам.Для игры нужна стандартная колода из $$$36$$$ карт — по девять карт (от шестёрки до туза) каждой из четырёх мастей (трефы, бубны, пики и черви). Карты по достоинству от младшей к старшей идут следующим образом: шестёрка, семёрка, восьмёрка, девятка, десятка, валет, дама, король, туз.Перед игрой колода перемешивается, и каждому игроку раздаётся по $$$18$$$ карт. Карты нужно выкладывать из руки на стол по определённым правилам. Выигрывает игрок, который первым выложит все карты из своей руки.Игроки ходят по очереди. Ход игрока имеет один из следующих видов: выложить на стол из своей руки девятку любой масти; выложить на стол шестёрку, семёрку или восьмёрку любой масти, если на столе уже лежит карта той же масти достоинством на единицу выше; выложить на стол десятку, валета, даму, короля или туза любой масти, если на столе уже лежит карта той же масти достоинством на единицу ниже. Например, девятку пик можно выложить на стол в любой момент, для выкладывания семёрки треф необходимо наличие на столе восьмёрки треф, а для выкладывания туза червей необходимо наличие на столе короля червей.Если игрок не может выложить на стол ни одну карту из своей руки, то ход переходит к сопернику. Обратите внимание: нельзя пропустить ход просто так — всегда необходимо выложить карту на стол корректным образом, если это возможно.Помимо того, что каждый игрок стремится избавиться от карт в своей руке, Алиса и Боб также хотят, чтобы в конце игры в руке у их соперника карт осталось как можно больше, а в их руке — как можно меньше. Напомним, что игра заканчивается, как только один из игроков выкладывает на стол последнюю карту из своей руки.Результатом игры назовём совокупность из информации о том, кто из двух игроков выиграет при оптимальной игре, а также о том, сколько карт останется в руке у проигравшего.Пусть Алиса и Боб уже взяли в руки свои $$$18$$$ карт каждый, но ещё не решили, кто из них будет ходить первым. Величиной важности первого хода для данного расклада назовём абсолютную разность между результатами игры в случае, если первой будет ходить Алиса, и в случае, если первым будет ходить Боб.Например, если в обоих случаях выиграет Боб, но в одном случае у Алисы останется $$$6$$$ карт в руке в конце игры, а во втором — всего $$$2$$$, то величина важности первого хода равна $$$4$$$. Если же в одном случае выиграет Алиса и у Боба останется $$$5$$$ карт в руке, а во втором случае выиграет Боб и у Алисы останется $$$3$$$ карты в руке, то величина важности первого хода равна $$$8$$$.Ребята хотят узнать, насколько разной бывает величина важности первого хода для разных раскладов. По заданному числу $$$k \le 26$$$ помогите им найти такие $$$k$$$ раскладов, что величины важности первого хода для всех них — различные целые числа.Входные данныеВ единственной строке задано целое число $$$k$$$ ($$$2 \le k \le 26$$$) — число необходимых раскладов.В задаче три теста. В первом тесте $$$k = 2$$$, во втором тесте $$$k = 13$$$, в третьем тесте $$$k = 26$$$.Выходные данныеВыведите $$$k$$$ пар строк. Каждая пара строк должна соответствовать некоторому раскладу. Величины важности первого хода для всех выведенных раскладов должны быть различными целыми числами.В первой строке каждой пары выведите $$$18$$$ строк длины $$$2$$$ через пробел, описывающих карты Алисы в любом порядке. Первый символ строки должен обозначать достоинство карты — символ из набора 6, 7, 8, 9, T, J, Q, K, A, обозначающий шестёрку, семёрку, восьмёрку, девятку, десятку, валета, даму, короля и туза соответственно. Второй символ строки должен обозначать масть карты — символ из набора C, D, S, H, обозначающий трефы, бубны, пики и черви соответственно.Во второй строке выведите $$$18$$$ строк длины $$$2$$$ через пробел, описывающих карты Боба в том же формате.Каждая из $$$36$$$ возможных карт должна находиться в руке одного из двух игроков в единственном экземпляре.ПримерВходные данные 2 Выходные данные KS QD 8D QC 8S 8C JD 9H AC TH 9S 9D QH 7H 8H TS 7S 9C 6D JS 7D KH QS TC AD AS KC 6C 7C TD AH KD 6S JC JH 6H JC JS 8S TD JD KH 7D 9C KC TH QD 8D 7H TC KD 9H 8C 6D 7S AC QH AD 8H TS 6H JH 6C AH 7C 6S 9D QC AS QS KS 9S ПримечаниеВ первом выведенном раскладе все девятки находятся в руке у Алисы. Даже если Боб будет ходить первым, ему всё равно придётся пропустить первый же свой ход. Следовательно, первый ход при таком раскладе имеет важность $$$0$$$.Во втором выведенном раскладе вне зависимости от того, чьим будет первый ход, выиграет Алиса. Однако если Алиса будет ходить первой, то у Боба в конце игры в руке останется одна карта, а если же она будет ходить второй, то у Боба останется пять карт. Соответственно, величина важности первого хода при таком раскладе равна $$$4$$$. 
+D2. Игра в Девятку IIограничение по времени на тест5 секундограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВ этой версии задачи игроки начинают играть не только на победу, но и на оптимизацию результата игры для них. Вводится понятие величины важности первого хода, и нужно найти $$$13$$$ раскладов с различными значениями этой величины.Алиса и Боб решили сыграть в карточную игру «Девятка». Пожалуйста, внимательно прочитайте условие задачи, поскольку правила могут отличаться от известных вам.Для игры нужна стандартная колода из $$$36$$$ карт — по девять карт (от шестёрки до туза) каждой из четырёх мастей (трефы, бубны, пики и черви). Карты по достоинству от младшей к старшей идут следующим образом: шестёрка, семёрка, восьмёрка, девятка, десятка, валет, дама, король, туз.Перед игрой колода перемешивается, и каждому игроку раздаётся по $$$18$$$ карт. Карты нужно выкладывать из руки на стол по определённым правилам. Выигрывает игрок, который первым выложит все карты из своей руки.Игроки ходят по очереди. Ход игрока имеет один из следующих видов: выложить на стол из своей руки девятку любой масти; выложить на стол шестёрку, семёрку или восьмёрку любой масти, если на столе уже лежит карта той же масти достоинством на единицу выше; выложить на стол десятку, валета, даму, короля или туза любой масти, если на столе уже лежит карта той же масти достоинством на единицу ниже. Например, девятку пик можно выложить на стол в любой момент, для выкладывания семёрки треф необходимо наличие на столе восьмёрки треф, а для выкладывания туза червей необходимо наличие на столе короля червей.Если игрок не может выложить на стол ни одну карту из своей руки, то ход переходит к сопернику. Обратите внимание: нельзя пропустить ход просто так — всегда необходимо выложить карту на стол корректным образом, если это возможно.Помимо того, что каждый игрок стремится избавиться от карт в своей руке, Алиса и Боб также хотят, чтобы в конце игры в руке у их соперника карт осталось как можно больше, а в их руке — как можно меньше. Напомним, что игра заканчивается, как только один из игроков выкладывает на стол последнюю карту из своей руки.Результатом игры назовём совокупность из информации о том, кто из двух игроков выиграет при оптимальной игре, а также о том, сколько карт останется в руке у проигравшего.Пусть Алиса и Боб уже взяли в руки свои $$$18$$$ карт каждый, но ещё не решили, кто из них будет ходить первым. Величиной важности первого хода для данного расклада назовём абсолютную разность между результатами игры в случае, если первой будет ходить Алиса, и в случае, если первым будет ходить Боб.Например, если в обоих случаях выиграет Боб, но в одном случае у Алисы останется $$$6$$$ карт в руке в конце игры, а во втором — всего $$$2$$$, то величина важности первого хода равна $$$4$$$. Если же в одном случае выиграет Алиса и у Боба останется $$$5$$$ карт в руке, а во втором случае выиграет Боб и у Алисы останется $$$3$$$ карты в руке, то величина важности первого хода равна $$$8$$$.Ребята хотят узнать, насколько разной бывает величина важности первого хода для разных раскладов. По заданному числу $$$k \le 13$$$ помогите им найти такие $$$k$$$ раскладов, что величины важности первого хода для всех них — различные целые числа.Входные данныеВ единственной строке задано целое число $$$k$$$ ($$$2 \le k \le 13$$$) — число необходимых раскладов.В задаче два теста. В первом тесте $$$k = 2$$$, во втором тесте $$$k = 13$$$.Выходные данныеВыведите $$$k$$$ пар строк. Каждая пара строк должна соответствовать некоторому раскладу. Величины важности первого хода для всех выведенных раскладов должны быть различными целыми числами.В первой строке каждой пары выведите $$$18$$$ строк длины $$$2$$$ через пробел, описывающих карты Алисы в любом порядке. Первый символ строки должен обозначать достоинство карты — символ из набора 6, 7, 8, 9, T, J, Q, K, A, обозначающий шестёрку, семёрку, восьмёрку, девятку, десятку, валета, даму, короля и туза соответственно. Второй символ строки должен обозначать масть карты — символ из набора C, D, S, H, обозначающий трефы, бубны, пики и черви соответственно.Во второй строке выведите $$$18$$$ строк длины $$$2$$$ через пробел, описывающих карты Боба в том же формате.Каждая из $$$36$$$ возможных карт должна находиться в руке одного из двух игроков в единственном экземпляре.ПримерВходные данные 2 Выходные данные KS QD 8D QC 8S 8C JD 9H AC TH 9S 9D QH 7H 8H TS 7S 9C 6D JS 7D KH QS TC AD AS KC 6C 7C TD AH KD 6S JC JH 6H JC JS 8S TD JD KH 7D 9C KC TH QD 8D 7H TC KD 9H 8C 6D 7S AC QH AD 8H TS 6H JH 6C AH 7C 6S 9D QC AS QS KS 9S ПримечаниеВ первом выведенном раскладе все девятки находятся в руке у Алисы. Даже если Боб будет ходить первым, ему всё равно придётся пропустить первый же свой ход. Следовательно, первый ход при таком раскладе имеет важность $$$0$$$.Во втором выведенном раскладе вне зависимости от того, чьим будет первый ход, выиграет Алиса. Однако если Алиса будет ходить первой, то у Боба в конце игры в руке останется одна карта, а если же она будет ходить второй, то у Боба останется пять карт. Соответственно, величина важности первого хода при таком раскладе равна $$$4$$$. 
+D1. Игра в Девятку Iограничение по времени на тест5 секундограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВ этой версии задачи нужно определить, кто выиграет в карточной игре для двух игроков в заданном раскладе при оптимальной игре обоих соперников.Алиса и Боб решили сыграть в карточную игру «Девятка». Пожалуйста, внимательно прочитайте условие задачи, поскольку правила могут отличаться от известных вам.Для игры нужна стандартная колода из $$$36$$$ карт — по девять карт (от шестёрки до туза) каждой из четырёх мастей (трефы, бубны, пики и черви). Карты по достоинству от младшей к старшей идут следующим образом: шестёрка, семёрка, восьмёрка, девятка, десятка, валет, дама, король, туз.Перед игрой колода перемешивается, и каждому игроку раздаётся по $$$18$$$ карт. Карты нужно выкладывать из руки на стол по определённым правилам. Выигрывает игрок, который первым выложит все карты из своей руки.Игроки ходят по очереди. Ход игрока имеет один из следующих видов: выложить на стол из своей руки девятку любой масти; выложить на стол шестёрку, семёрку или восьмёрку любой масти, если на столе уже лежит карта той же масти достоинством на единицу выше; выложить на стол десятку, валета, даму, короля или туза любой масти, если на столе уже лежит карта той же масти достоинством на единицу ниже. Например, девятку пик можно выложить на стол в любой момент, для выкладывания семёрки треф необходимо наличие на столе восьмёрки треф, а для выкладывания туза червей необходимо наличие на столе короля червей.Если игрок не может выложить на стол ни одну карту из своей руки, то ход переходит к сопернику. Обратите внимание: нельзя пропустить ход просто так — всегда необходимо выложить карту на стол корректным образом, если это возможно.Вам дан расклад карт в начале игры. Алиса будет ходить первой. Определите, кто первым избавится от всех своих карт и выиграет, если оба игрока будут пытаться победить и играть оптимально.Входные данныеВ первой строке задано $$$18$$$ строк длины $$$2$$$ через пробел, описывающих карты Алисы в случайном порядке. Первый символ строки обозначает достоинство карты — символ из набора 6, 7, 8, 9, T, J, Q, K, A, обозначающий шестёрку, семёрку, восьмёрку, девятку, десятку, валета, даму, короля и туза, соответственно. Второй символ строки обозначает масть карты — символ из набора C, D, S, H, обозначающий трефы, бубны, пики и черви, соответственно.Во второй строке задано $$$18$$$ строк длины $$$2$$$ через пробел, описывающих карты Боба в том же формате.Каждая из $$$36$$$ возможных карт находится в руке одного из двух игроков в единственном экземпляре.В задаче $$$100$$$ тестов. Все тесты сгенерированы случайным образом.Выходные данныеВыведите Alice, если при оптимальной игре выиграет Алиса, и Bob в противном случае.ПримерыВходные данные JD 7S 9S JS 8S 9D 6D 8C 8D TH KS QD QH TD 6C AD KD AC KH QC 9H 6H KC 9C JC TS 6S QS TC JH 7D 7H AS AH 7C 8H Выходные данные Alice Входные данные 7S KD 8C AH QS AC KS JC 6C 7D 9H TS 7C 6D JH JD 6S KC 8D QD AS TD AD TH KH 9S JS 9C QC 8S 8H 7H TC QH 9D 6H Выходные данные Bob Входные данные 6C 7S 6H KS 9C 6S QS 7C TS JD 8H KC 9D 8C 7H KD JC QC 6D TH TD AD JS 9H TC QD 8D AC JH AH KH AS 7D 8S 9S QH Выходные данные Alice Входные данные JS KS JD TH KH JC KC QD AS JH 6H 9H 7H 6C 9D AC 6D 9S 8D 8H 7C 7S KD 7D 6S QH 8C TS AD TD TC 9C QC 8S QS AH Выходные данные Bob Входные данные 6S KC TD 8S AC 9S KD TS TH 7D 7C KH TC QC JH QD JC JD QH AS 9H 6C 8C 9C 6D AH AD KS JS 7H 6H 8H 9D QS 7S 8D Выходные данные Bob 
+C2. Подкрутка IIограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВ этой версии задачи $$$n \le 2 \cdot 10^5$$$ и $$$a_i \le 10^6$$$ (а также есть ограничение на сумму $$$n$$$ по наборам входных данных внутри одного теста).Вика за время работы в компании VK уже сделала $$$n$$$ коммитов в системе контроля версий. $$$i$$$-й коммит был сделан в $$$a_i$$$-й день работы Вики в компании. В некоторые дни Вика могла сделать несколько коммитов, а в другие — не сделать ни одного.Вику интересуют такие отрезки подряд идущих дней, что в каждый из этих дней у неё есть хотя бы один коммит. Чем длиннее будет самый длинный такой отрезок, тем более продуктивным сотрудником она будет себя ощущать.Недавно Вика нашла способ подкрутить время любого коммита вперёд, но не более чем на сутки. Таким образом, $$$i$$$-й коммит теперь может быть «сделан» либо в $$$a_i$$$-й, либо в $$$(a_i + 1)$$$-й день. Время каждого коммита можно подкрутить независимо от других — в частности, можно как оставить всем коммитам исходное время, так и перенести все коммиты ровно на день вперёд.Найдите длину самого длинного возможного отрезка подряд идущих дней, в каждый из которых у Вики в профиле будет отображаться хотя бы один коммит, после возможной подкрутки времени некоторых коммитов.Входные данныеКаждый тест состоит из нескольких наборов входных данных. В первой строке находится одно целое число $$$t$$$ ($$$1 \le t \le 100$$$) — количество наборов входных данных. Далее следует описание наборов входных данных.Первая строка каждого набора входных данных содержит одно целое число $$$n$$$ ($$$1 \le n \le 2 \cdot 10^5$$$) — число коммитов.Вторая строка содержит $$$n$$$ целых чисел $$$a_1, a_2, \ldots, a_n$$$ в неубывающем порядке ($$$1 \le a_1 \le a_2 \le \ldots \le a_n \le 10^6$$$) — номера дней, в которые были сделаны коммиты.Гарантируется, что сумма $$$n$$$ по всем наборам входных данных не превосходит $$$2 \cdot 10^5$$$.Выходные данныеДля каждого набора входных данных выведите одно целое число — максимальную возможную длину отрезка дней, в каждый из которых у Вики в профиле будет отображаться хотя бы один коммит, после возможной подкрутки времени некоторых коммитов вперёд не более чем на сутки.ПримерВходные данные 391 1 3 4 6 6 6 8 1061 2 3 4 5 6510 10 10 10 10Выходные данные 5 6 2 ПримечаниеВ первом наборе входных данных можно поменять дату коммита в день $$$3$$$ на день $$$4$$$, дату коммита в день $$$4$$$ — на день $$$5$$$, а дату любого из коммитов в день $$$6$$$ — на день $$$7$$$. Тогда в каждый из дней $$$4$$$, $$$5$$$, $$$6$$$, $$$7$$$ и $$$8$$$ в профиле Вики будет отображаться хотя бы один коммит, и наибольший отрезок из подряд идущих дней с коммитами — $$$[4; 8]$$$ — будет иметь длину $$$5$$$.Во втором наборе входных данных можно либо оставить все коммиты как есть, либо перенести каждый коммит на день вперёд. В любом случае длина отрезка дней составит $$$6$$$.В третьем наборе входных данных Вика сделала много коммитов, но все в один и тот же день с номером $$$10$$$. В лучшем случае отрезок дней достигнет длины $$$2$$$ — если какие-то коммиты оставить на день $$$10$$$, а другие перенести на день $$$11$$$. 
+C1. Подкрутка Iограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВ этой версии задачи $$$n \le 50$$$ и $$$a_i \le 100$$$.Вика за время работы в компании VK уже сделала $$$n$$$ коммитов в системе контроля версий. $$$i$$$-й коммит был сделан в $$$a_i$$$-й день работы Вики в компании. В некоторые дни Вика могла сделать несколько коммитов, а в другие — не сделать ни одного.Вику интересуют такие отрезки подряд идущих дней, что в каждый из этих дней у неё есть хотя бы один коммит. Чем длиннее будет самый длинный такой отрезок, тем более продуктивным сотрудником она будет себя ощущать.Недавно Вика нашла способ подкрутить время любого коммита вперёд, но не более чем на сутки. Таким образом, $$$i$$$-й коммит теперь может быть «сделан» либо в $$$a_i$$$-й, либо в $$$(a_i + 1)$$$-й день. Время каждого коммита можно подкрутить независимо от других — в частности, можно как оставить всем коммитам исходное время, так и перенести все коммиты ровно на день вперёд.Найдите длину самого длинного возможного отрезка подряд идущих дней, в каждый из которых у Вики в профиле будет отображаться хотя бы один коммит, после возможной подкрутки времени некоторых коммитов.Входные данныеКаждый тест состоит из нескольких наборов входных данных. В первой строке находится одно целое число $$$t$$$ ($$$1 \le t \le 100$$$) — количество наборов входных данных. Далее следует описание наборов входных данных.Первая строка каждого набора входных данных содержит одно целое число $$$n$$$ ($$$1 \le n \le 50$$$) — число коммитов.Вторая строка содержит $$$n$$$ целых чисел $$$a_1, a_2, \ldots, a_n$$$ в неубывающем порядке ($$$1 \le a_1 \le a_2 \le \ldots \le a_n \le 100$$$) — номера дней, в которые были сделаны коммиты.Выходные данныеДля каждого набора входных данных выведите одно целое число — максимальную возможную длину отрезка дней, в каждый из которых у Вики в профиле будет отображаться хотя бы один коммит, после возможной подкрутки времени некоторых коммитов вперёд не более чем на сутки.ПримерВходные данные 391 1 3 4 6 6 6 8 1061 2 3 4 5 6510 10 10 10 10Выходные данные 5 6 2 ПримечаниеВ первом наборе входных данных можно поменять дату коммита в день $$$3$$$ на день $$$4$$$, дату коммита в день $$$4$$$ — на день $$$5$$$, а дату любого из коммитов в день $$$6$$$ — на день $$$7$$$. Тогда в каждый из дней $$$4$$$, $$$5$$$, $$$6$$$, $$$7$$$ и $$$8$$$ в профиле Вики будет отображаться хотя бы один коммит, и наибольший отрезок из подряд идущих дней с коммитами — $$$[4; 8]$$$ — будет иметь длину $$$5$$$.Во втором наборе входных данных можно либо оставить все коммиты как есть, либо перенести каждый коммит на день вперёд. В любом случае длина отрезка дней составит $$$6$$$.В третьем наборе входных данных Вика сделала много коммитов, но все в один и тот же день с номером $$$10$$$. В лучшем случае отрезок дней достигнет длины $$$2$$$ — если какие-то коммиты оставить на день $$$10$$$, а другие перенести на день $$$11$$$. 
+B2. Копирование файлов IIограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВ этой версии задачи размеры копируемых файлов не превышают $$$10^{10}$$$ байт.Вы копируете с одного сервера на другой $$$n$$$ файлов размером $$$a_1, a_2, \ldots, a_n$$$ байт. Файлы копируются последовательно в заданном порядке.При копировании вы видите два прогресс-бара: первый показывает процент скопированных данных в текущем файле, а второй — общий процент скопированных данных по всем $$$n$$$ файлам. Оба процента отображаются округлёнными вниз до целого числа. Значения на прогресс-барах обновляются после копирования каждого байта.Формально, после копирования байта номер $$$x$$$ из файла номер $$$i$$$ первый прогресс-бар показывает $$$\lfloor \frac{100 \cdot x}{a_i} \rfloor$$$ процентов, а второй — $$$\lfloor \frac{100 \cdot (a_1 + a_2 + \ldots + a_{i - 1} + x)}{a_1 + a_2 + \ldots + a_n} \rfloor$$$ процентов. В самом начале копирования оба прогресс-бара показывают $$$0$$$ процентов.Найдите все такие целые числа от $$$0$$$ до $$$100$$$ включительно, что существует момент времени, в который оба прогресс-бара одновременно показывают это число. Выведите эти числа в порядке возрастания.Входные данныеВ первой строке задано одно целое число $$$n$$$ ($$$1 \le n \le 100$$$) — число копируемых файлов.Во второй строке заданы $$$n$$$ целых чисел $$$a_1, a_2, \ldots, a_n$$$ ($$$1 \le a_i \le 10^{10}$$$) — размеры файлов в байтах в том порядке, в котором они будут копироваться.Выходные данныеВыведите в возрастающем порядке все числа от $$$0$$$ до $$$100$$$ включительно такие, что существует момент времени, в который на обоих прогресс-барах одновременно показывается это число.ПримерыВходные данные 1 6 Выходные данные 0 16 33 50 66 83 100 Входные данные 2 100 500 Выходные данные 0 95 96 97 98 99 100 Входные данные 4 10000000000 2 2 9999999998 Выходные данные 0 50 99 100 Входные данные 6 170 130 400 256 30 100 Выходные данные 0 17 43 44 84 90 99 100 ПримечаниеВ первом тесте копируется всего один файл, поэтому оба прогресс-бара всегда показывают одинаковые значения.Во втором тесте первый прогресс-бар сразу же уйдёт вперёд, потом сбросится в ноль и начнёт догонять второй прогресс-бар заново. В конце копирования прогресс-бары некоторое время будут показывать одно и то же число.Обратите внимание, что третий тест в этой версии задачи отличается от третьего теста в предыдущей версии задачи. 
+B1. Копирование файлов Iограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВ этой версии задачи размеры копируемых файлов не превышают $$$1000$$$ байт.Вы копируете с одного сервера на другой $$$n$$$ файлов размером $$$a_1, a_2, \ldots, a_n$$$ байт. Файлы копируются последовательно в заданном порядке.При копировании вы видите два прогресс-бара: первый показывает процент скопированных данных в текущем файле, а второй — общий процент скопированных данных по всем $$$n$$$ файлам. Оба процента отображаются округлёнными вниз до целого числа. Значения на прогресс-барах обновляются после копирования каждого байта.Формально, после копирования байта номер $$$x$$$ из файла номер $$$i$$$ первый прогресс-бар показывает $$$\lfloor \frac{100 \cdot x}{a_i} \rfloor$$$ процентов, а второй — $$$\lfloor \frac{100 \cdot (a_1 + a_2 + \ldots + a_{i - 1} + x)}{a_1 + a_2 + \ldots + a_n} \rfloor$$$ процентов. В самом начале копирования оба прогресс-бара показывают $$$0$$$ процентов.Найдите все такие целые числа от $$$0$$$ до $$$100$$$ включительно, что существует момент времени, в который оба прогресс-бара одновременно показывают это число. Выведите эти числа в порядке возрастания.Входные данныеВ первой строке задано одно целое число $$$n$$$ ($$$1 \le n \le 100$$$) — число копируемых файлов.Во второй строке заданы $$$n$$$ целых чисел $$$a_1, a_2, \ldots, a_n$$$ ($$$1 \le a_i \le 1000$$$) — размеры файлов в байтах в том порядке, в котором они будут копироваться.Выходные данныеВыведите в возрастающем порядке все числа от $$$0$$$ до $$$100$$$ включительно такие, что существует момент времени, в который на обоих прогресс-барах одновременно показывается это число.ПримерыВходные данные 1 6 Выходные данные 0 16 33 50 66 83 100 Входные данные 2 100 500 Выходные данные 0 95 96 97 98 99 100 Входные данные 4 1000 2 2 998 Выходные данные 0 50 99 100 Входные данные 6 170 130 400 256 30 100 Выходные данные 0 17 43 44 84 90 99 100 ПримечаниеВ первом тесте копируется всего один файл, поэтому оба прогресс-бара всегда показывают одинаковые значения.Во втором тесте первый прогресс-бар сразу же уйдёт вперёд, потом сбросится в ноль и начнёт догонять второй прогресс-бар заново. В конце копирования прогресс-бары некоторое время будут показывать одно и то же число. 
+A. Узкая дорогаограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводКолонна из $$$n$$$ самокатов едет по узкой односторонней дороге в пункт Б. Самокаты пронумерованы от $$$1$$$ до $$$n$$$. Для каждого самоката $$$i$$$ известно, что текущее расстояние от него до пункта Б равно $$$a_i$$$ метров. При этом $$$a_1 < a_2 < \ldots < a_n$$$, в частности, самокат $$$1$$$ находится ближе всего к пункту Б, а самокат $$$n$$$ — дальше всего.Самокат с номером $$$i$$$ движется в сторону пункта Б со скоростью $$$i$$$ метров в секунду (то есть чем ближе самокат в колонне к пункту Б, тем медленнее он едет). Так как дорога узкая, самокаты не могут обгонять друг друга. Более того, соседние самокаты в колонне должны соблюдать дистанцию хотя бы в $$$1$$$ метр. Поэтому когда более быстрый самокат догоняет более медленный, более быстрому приходится дальше ехать со скоростью более медленного, причём на расстоянии в $$$1$$$ метр от него.Определите, на каком расстоянии до пункта Б будет каждый самокат ровно через одну секунду.Входные данныеВ первой строке задано одно целое число $$$n$$$ ($$$1 \le n \le 100$$$) — число самокатов в колонне.В $$$i$$$-й из следующих $$$n$$$ строк задано одно целое число $$$a_i$$$ ($$$1 \le a_i \le 1000$$$; $$$a_1 < a_2 < \ldots < a_n$$$) — текущее расстояние от самоката $$$i$$$ до пункта Б в метрах.Выходные данныеВыведите $$$n$$$ целых чисел — расстояния от самокатов $$$1, 2, \ldots, n$$$ до пункта Б в метрах через одну секунду.ПримерыВходные данные 4 20 30 50 100 Выходные данные 19 28 47 96 Входные данные 5 1 2 3 4 5 Выходные данные 0 1 2 3 4 Входные данные 8 5 9 10 15 17 18 19 22 Выходные данные 4 7 8 11 12 13 14 15 ПримечаниеВ первом тесте самокаты пока не мешают друг другу ехать, поэтому каждый самокат $$$i$$$ продвигается на $$$i$$$ метров в сторону пункта Б.Во втором тесте самокаты уже выстроились в колонне на расстоянии $$$1$$$ метр друг от друга и вынуждены ехать со скоростью самого медленного самоката с номером $$$1$$$. 
+F. Wonderful Jump
+E. Partial Sorting
+D. Lucky Permutation
+C. Elemental Decompress
+B. Quick Sort
+A. Greatest Convex
+F. Two Subtrees
+E. Algebra Flash
+D. Playoff
+C. Count Binary Strings
+B. Block Towers
+A. Cut the Triangle
+F. MCF
+E. Decomposition
+D. Lucky Chains
+C. Hamiltonian Wall
+B. Notepad#
+A. Extremely Round
+N. Number Reduction
+M. Minimum LCM
+L. Project Manager
+K. Torus Path
+J. Hero to Zero
+I. Infinite Chess
+H. Hospital Queue
+G. Guess the String
+F. Chemistry Lab
+E. Exchange
+D. Watch the Videos
+C. Card Guessing
+B. Broken Keyboard
+A. Access Levels
+H. Doremy's Paint 2
+G3. Doremy's Perfect DS Class (Hard Version)
+G2. Doremy's Perfect DS Class (Medium Version)
+G1. Doremy's Perfect DS Class (Easy Version)
+F. Doremy's Experimental Tree
+E. Doremy's Number Line
+D. Doremy's Pegging Game
+C. Doremy's City Construction
+B. Doremy's Perfect Math Class
+A. Doremy's Paint
+F. Edge Queries
+E. Node Pairs
+D. Valid Bitonic Permutations
+C. Another Array Problem
+B. Incinerate
+A. Absolute Maximization
+G. Unequal Adjacent Elements
+F. Good Pairs 
+E. Tree Sum
+D. GCD Queries 
+C. Binary Strings are Fun
+B. Make Array Good
+A. Divide and Conquer
+G. Centroid Guess
+F2. Anti-median (Hard Version)
+F1. Anti-median (Easy Version)
+E. Make It Connected
+D. Carry Bit
+C. Set Construction
+B. Elimination of a Ring
+A. Two Permutations
+G. SlavicG's Favorite Problem
+F. Quests
+E. Binary Inversions
+D. Challenging Valleys
+C. Advantage
+B. Atilla's Favorite Problem
+A. Medium Number
+G. Restore the Permutation
+F. All Possible Digits
+E. The Humanoid
+D. Make It Round
+C. Thermostat
+B. Lost Permutation
+A. Yes-Yes?
+F. Decent Division
+E. Tick, Tock
+D. Range = √Sum
+C. Almost All Multiples
+B. XOR = Average
+A. SSeeeeiinngg DDoouubbllee
+B. Kevin and Permutation
+A. Technical Support
+F. Minecraft Series
+E. N Machines
+D. The Beach
+C. Wish I Knew How to Sort
+B. Factorial Divisibility
+A2. Make Nonzero Sum (hard version)
+A1. Make Nonzero Sum (easy version)
+H. BinaryStringForces
+G. Doping
+F. Majority
+E. Bracket Cost
+D. Count GCD
+C. Complementary XOR
+B. Maximum Substring
+A. Indirect Sort
+F. Distance to the Path
+E. Cactus Wall
+D. Counting Arrays
+C. Number Game
+B. Death's Blessing
+A. Cowardly Rooks
+F. Circular Xor Reversal
+E. Yet Another Array Counting Problem
+D. ConstructOR 
+C. Zero-Sum Prefixes
+B. Diverse Substrings
+A. The Ultimate Square
+E. List Generation
+D. Yet Another Problem
+C. Swap Game
+B. BAN BAN
+A. Two Groups
+G. Olympiad Training
+F. Kazaee
+E2. Joking (Hard Version)
+E1. Joking (Easy Version)
+D. Paths on the Tree
+C. Permutation Operations
+B. Rebellion
+A. Maxmina
+F. MEX vs MED
+E2. Divisible Numbers (hard version)
+E1. Divisible Numbers (easy version)
+D. Divisibility by 2^n
+C. Traffic Light
+B. Even-Odd Increments 
+A. Number Replacement
+G. Antifibonacci Cut
+F. Intersection and Union
+E. FTL
+D. Problem with Random Tests
+C. Save the Magazines
+B. Permutation Value
+A. Password
+G. Orray
+F. Smaller
+E. Scuza
+D. Coprime
+C. Stripes
+B. Increasing
+A. Sum
+G. Kirill and Company
+F. Multi-Colored Segments
+E. Sending a Sequence Over the Network
+D. Masha and a Beautiful Tree
+C. Minimize the Thickness
+B. Funny Permutation
+A. Compare T-Shirt Sizes
+I. Arranging Crystal Balls
+H. MEX Tree Manipulation
+G. Dangerous Laser Power
+F. Conditional Mix
+E. Hanging Hearts
+D. Knowledge Cards
+C. Bricks and Bags
+B. Jumbo Extra Cheese 2
+A. Factorise N+M
+F. Keyboard Design
+E. Cleaning Robot
+D. Reset K Edges
+C. Card Game
+B. Array Recovery
+A. Immobile Knight
+H. Palindrome Addicts
+G. Anti-Increasing Addicts
+F. Connectivity Addicts
+E. Balance Addicts
+D. Permutation Addicts
+C. Even Number Addicts
+B. Prefix Sum Addicts
+A. Glory Addicts
+G. Ela Takes Dancing Class
+F. Ela and Prime GCD
+E. Ela Goes Hiking
+D. Ela and the Wiring Wizard
+C. Ela and Crickets
+B. Ela's Fitness and the Luxury Number
+A. Ela Sorting Books
+E. Swap and Take
+D. Equal Binary Subsequences
+C2. Good Subarrays (Hard Version)
+C1. Good Subarrays (Easy Version)
+B. Playing with GCD
+A. Make A Equal to B
+F. Pebbles and Beads
+E. House Planning
+D. Meta-set
+C. Phase Shift
+B. Tea with Tangerines
+A. Working Week
+F. Zeros and Ones
+E. Rectangular Congruence
+D. Slime Escape
+C. Removing Smallest Multiples
+B. Bright, Nice, Brilliant
+A. Select Three Sticks
+E. Conveyor
+D2. Zero-One (Hard Version)
+D1. Zero-One (Easy Version)
+C. Parity Shuffle Sorting
+B. Rule of League
+A. Consecutive Sum
+E. Location
+D2. Balance (Hard version)
+D1. Balance (Easy version)
+C2. Sheikh (Hard Version)
+C1. Sheikh (Easy version)
+B. Ugu
+A. Bestie
+F. Function Sum
+E. Graph Cost
+D. Valiant's New Map
+C. Even Subarrays
+B. Kill Demodogs
+A. Joey Takes Money
+F. Almost Sorted
+E. Maximums and Minimums
+D. Prefixes and Suffixes
+C. Minimum Notation
+B. Meeting on the Line
+A. Planets
+G. Cut Substrings
+F. Kirei and the Linear Function
+E. Guess the Cycle Size
+D. Friends and the Restaurant
+C. Jumping on Tiles
+B. Decode String
+A. Two Elevators
+G. Illumination
+F. Fishermen
+E. Red-Black Pepper
+D. Letter Picking
+C. Digital Logarithm
+B. Best Permutation
+A. Colored Balls: Revisited
+H. Mainak and the Bleeding Polygon
+G. A Certain Magical Party
+F. Late For Work (submissions are not allowed)
+E. Almost Perfect
+D. Edge Split
+C. Jatayu's Balanced Bracket Sequence
+B. Mainak and Interesting Sequence
+A. Mainak and Array
+M. Moving Both Hands
+L. Lemper Cooking Competition
+K. Kingdom of Criticism
+J. Journey
+I. Imitating the Key Tree
+H. Hot Black Hot White
+G. Garage
+F. Field Photography
+E. Electrical Efficiency
+D. Deducing Sortability
+C. Circular Mirror
+B. Basketball Together
+A. Accumulation of Dominoes
+G. Even-Odd XOR
+F. L-shapes
+E. Counting Rectangles
+D. Line
+C. Word Game
+B. Colourblindness
+A. Spell Check
+F. Matching Reduction
+E. Prefix Function Queries
+D. Maximum AND
+C. Min-Max Array Transformation
+B. Deadly Laser
+A. Image
+E. Misha and Paintings
+D2. Xor-Subsequence (hard version)
+D1. Xor-Subsequence (easy version)
+C. Corners
+B. Interesting Sum
+A. Burenka Plays with Fractions
+C. Fighting Tournament
+B. Mathematical Circus
+A. Chip Game
+F. Burenka, an Array and Queries
+E. Impressionism
+D. Permutation for Burenka
+C. Tonya and Burenka-179
+B. Fibonacci Strings
+A2. Burenka and Traditions (hard version)
+A1. Burenka and Traditions (easy version)
+F. Madoka and The First Session
+E. Madoka and The Best University
+D. Madoka and The Corruption Scheme
+C. Madoka and Formal Statement
+B. Madoka and Underground Competitions
+A. Madoka and Strange Thoughts
+F. Bags with Balls
+E. Swap and Maximum Block
+D. Chip Move
+C. Robot in a Hallway
+B. Permutation Chain
+A. 2-3 Moves
+F. Crop Squares
+E. Long Way Home
+D. 2+ doors
+C. Monoblock
+B. Beautiful Array
+A. Crossmarket
+G. Path Prefixes
+F. Build a Tree and That Is It
+E. Add Modulo 10
+D. Color with Occurrences
+C. Minimum Varied Number
+B. Remove Prefix
+A. Everyone Loves to Sleep
+F. Lost Array
+E. Cross Swapping
+D. Tournament Countdown
+C. Build Permutation
+B. Optimal Reduction
+A. Traveling Salesman Problem
+F. Triameter
+E2. LCM Sum (hard version)
+E1. LCM Sum (easy version)
+D. Empty Graph
+C. Sort Zero
+B. Woeful Permutation
+A. Wonderful Permutation
+B. Party
+A. Perfect Permutation
+E. Two Arrays
+D. Recover the Tree
+C. XOR Triangle
+B. Rain
+A. Color the Picture
+F. Multiset of Strings
+E. XOR Tree
+D. Rorororobot
+C. Recover an RBS
+B. Also Try Minecraft
+A. Three Doors
+B. Difference of GCDs
+A. Difference Operations
+F. Bugaboo
+E. Replace
+D. Partial Virtual Trees
+C. DFS Trees
+B. Difference Array
+A. Doremy's IQ
+E. Qpwoeirut and Vertices
+D2. Chopping Carrots (Hard Version)
+D1. Chopping Carrots (Easy Version)
+C. Qpwoeirut And The City
+B. Making Towers
+A. Another String Minimization Problem
+F. Mark and the Online Exam
+E. Mark and Professor Koro
+D. Mark and Lightbulbs
+C. Mark and His Unfinished Essay
+B. Mark the Dust Sweeper
+A. Mark the Photographer
+H2. Game of AI (hard version)
+H1. Game of AI (easy version)
+G. Mio and Lucky Array
+F. Colouring Game
+E. Count Seconds
+D. Magical Array
+C. Virus
+B. Luke is a Foodie
+A. Two 0-1 Sequences
+G. Good Key, Bad Key
+F. Yet Another Problem About Pairs Satisfying an Inequality
+E. Mirror Grid
+D. Double Strings
+C. Cypher
+B. ICPC Balloons
+A. YES or YES?
+G2. Passable Paths (hard version)
+G1. Passable Paths (easy version)
+F. Equate Multisets
+E. Split Into Two Sets
+D. Not a Cheap String
+C. Train and Queries
+B. Polycarp Writes a String from Memory
+A. Round Down the Price
+F. Points
+E. Text Editor
+D. Permutation Restoration
+C. Schedule Management
+B. Permutation
+A. Grass Field
+F. Puzzle
+E. Serega the Pirate
+D. River Locks
+C. Helping the Nature
+B. Palindromic Numbers 
+A. Optimal Path
+E. Three Days Grace
+D. Almost Triple Deletions
+C. The Third Problem
+B. Almost Ternary Matrix
+A. The Third Three Number Problem
+G. Long Binary String
+F. Equal Reversal
+E. PermutationForces II
+D. Fixed Point Guessing
+C. 3SUM Closure
+B. Rising Sand
+A. XOR Mixup
+F. Too Many Constraints
+E. Coloring
+D. Guess The String
+C. awoo's Favorite Problem
+B. Promo
+A. Parkway Walk
+H. Maximum Product?
+G. Fishingprince Plays With Array Again
+F. Tree Recovery
+E. Placing Jinas
+D. Permutation Graph
+C. Fishingprince Plays With Array
+B. NIT Destroys the Universe
+A. NIT orz!
+E. Ambiguous Dominoes
+D2. Tree Queries (Hard Version)
+D1. Tree Queries (Easy Version)
+C. Zero Path
+B. Circle Game
+A. Subrectangle Guess
+B. Paranoid String
+A. Creep
+F. I Might Be Wrong
+E. Outermost Maximums
+D. Decinc Dividing
+C. Keshi in Search of AmShZ
+B. Fake Plastic Trees
+A. Directional Increase
+H. Gambling
+G. 2^Sort
+F. 3SUM
+E. Binary Deque
+D. The Clock
+C. Where's the Bishop?
+B. All Distinct
+A. Marathon
+F. K-Set Tree
+E. Number of Groups
+D. Max GEQ Sum
+C. Sum of Substrings
+B. Shoe Shuffling
+A. Beat The Odds
+G. Count the Trains
+F. Shifting String
+E. Price Maximization
+D. Black and White Stripe
+C. Restoring the Duration of Tasks
+B. Array Decrements
+A. Print a Pedestal (Codeforces logo?)
+E. ANDfinity
+D. Lena and Matrix
+C. Infected Tree
+B. Mystic Permutation
+A. Lex String
+C. Manipulating History
+B. Patchouli's Magical Talisman
+A. Cirno's Perfect Bitmasks Classroom
+F. Koishi's Unconscious Permutation
+E. Become Big For Me
+D. Cute number
+C. Sanae and Giant Robot
+B. Railway System
+A. The Enchanted Forest
+B. Odd Subarrays
+A. Everything Everywhere All But One
+E. The Ultimate LIS Problem
+D2. Permutation Weight (Hard Version)
+D1. Permutation Weight (Easy Version)
+C. Bring Balance
+B. Linguistics
+A. Circular Local MiniMax
+H. Hard Cut
+G. Euclid Guess
+F. Diverse Segments
+E. MEX vs DIFF
+D. Traps
+C. Column Swapping
+B. Z mod X = C
+A. Digit Minimization
+F. MCMF?
+E. Unordered Swaps
+D. Circular Spanning Tree
+C. LIS or Reverse LIS?
+B. AND Sorting
+A. Palindromic Indices
+F. Unique Occurrences
+E. Labyrinth Adventures
+D. Required Length
+C. Double Sort
+B. Card Trick
+A. Game with Cards
+F. Lenient Vertex Cover
+E. Moving Chips
+D. Dog Walking
+C. Binary String
+B. Robots
+A. Minimums and Maximums
+F. Formalism for Formalism
+E. Typical Party in Dorm
+D. Toss a Coin to Your Graph...
+C. Rooks Defenders
+B. Stone Age Problem
+A. AvtoBus
+B2. Tokitsukaze and Good 01-String (hard version)
+B1. Tokitsukaze and Good 01-String (easy version)
+A. Tokitsukaze and All Zero Sequence
+F. Tokitsukaze and Gems
+E. Tokitsukaze and Beautiful Subsegments
+D. Tokitsukaze and Permutations
+C. Tokitsukaze and Two Colorful Tapes
+B. Tokitsukaze and Meeting
+A. Tokitsukaze and Strange Inequality
+H2. Maximum Crossings (Hard Version)
+H1. Maximum Crossings (Easy Version)
+G. White-Black Balanced Subtrees
+F. Longest Strike
+E. Eating Queries
+D. X-Sum
+C. Most Similar Words
+B. Equal Candies
+A. Lucky?
+G. Sorting Pancakes
+F. Vlad and Unfinished Business
+E. Replace With the Previous, Minimize
+D. Vertical Paths
+C. Detective Task
+B. Make It Increasing
+A. Food for Animals
+G. Remove Directed Edges
+F. Desktop Rearrangement
+E. Breaking the Wall
+D. A-B-C Sort
+C. Infinite Replacement
+B. Dictionary
+A. Number Transformation
+F. Anti-Theft Road Planning
+E. Power or XOR?
+D. Lost Arithmetic Progression
+C. Palindrome Basis
+B. A Perfectly Balanced String?
+A. Subtle Substring Subtraction
+I. PermutationForces
+H. Zigu Zagu
+G. Cross Xor
+F2. Checker for Array Shuffling
+F1. Array Shuffling
+E. notepad.exe
+D. Cyclic Rotation
+C. Unequal Array
+B. I love AAAB
+A. Log Chopping
+F. Permutation Counting
+E. Preorder
+D. Insert a Progression
+C. Dolce Vita
+B. Consecutive Points Segment
+A. String Building
+F. Jee, You See?
+E. Hemose on the Tree
+D. Very Suspicious
+C. Where is the Pizza?
+B. Dorms War
+A. Prof. Slim
+H. Maximal AND
+G. Fall Down
+F. Eating Candies
+E. 2-Letter Strings
+D. Colorful Stamp
+C. Odd/Even Increments
+B. Triple
+A. Division?
+B. Social Distance
+A. Direction Change
+F. Yin Yang
+E. Centroid Probabilities
+D. Edge Elimination
+C. Half Queen Cover
+B. Optimal Partition
+A. Make it Increasing
+L. Labyrinth
+K. Kingdom Partition
+J. Job Lookup
+I. Interactive Treasure Hunt
+
+
+F. Fancy Stack
+E. Even Split
+D. Deletive Editing
+C. Connect the Points
+B. Budget Distribution
+A. Admissible Map
+E. MinimizOR
+D. GCD Guess
+C. Tree Infection
+B. Array Cloning Technique
+A. GCD vs LCM
+H. Cross-Language Program
+G. Six Characters
+F. In Every Generation...
+E. Are You Safe?
+D. Is it rated - 3
+C. Pōja Verdon
+B. Mike's Sequence
+A. Who Tested?
+O. Circular Maze
+N. Drone Photo
+M. Bottle Arrangements
+L. Il Derby della Madonnina
+K. Pandemic Restrictions
+J. Training Camp
+I. Ice Cream Shop
+H. Boundary
+G. Gastronomic Event
+F. Antennas
+E. Round Table
+D. Evolution of Weasels
+C. European Trip
+B. Toys
+A. Organizing SWERC
+F. Teleporters
+E. Narrow Components
+D. Progressions Covering
+C. Water the Trees
+B. Getting Zero
+A. Array Balancing
+F2. Promising String (hard version)
+F1. Promising String (easy version)
+E. Matrix and Shifts
+D. Maximum Product Strikes Back
+C. Get an Even String
+B. Vlad and Candies
+A. Vasya and Coins
+F. Tree and Permutation Game
+E. AND-MEX Walk
+D. Reverse Sort Sum
+C. Line Empire
+B. Bit Flipping
+A. Red Versus Blue
+F. Juju and Binary String
+E. Gojou and Matrix Game
+D2. 388535 (Hard Version)
+D1. 388535 (Easy Version)
+C. Shinju and the Lost Permutation
+B. Marin and Anti-coprime Permutation
+A. Marin and Photoshoot
+F. Words on Tree
+E. Star MST
+D. For Gamers. By Gamers.
+C. Bracket Sequence Deletion
+B. XY Sequence
+A. Integer Moves
+I. Neighbour Ordering
+H. Equal LCM Subsets
+G. Cycle Palindrome
+F. Parametric MST
+E. Equal Tree Sums
+D. K-good
+C. Make Equal With Mod
+B. Subtract Operation
+A. Good Pairs
+H. Three Minimums
+G. Snowy Mountain
+F. Minimal String Xoration
+E. Arithmetic Operations
+D. Potion Brewing Class
+C. Alice and the Cake
+B. Prefix Removals
+A. Maximum Cake Tastiness
+F. Tower Defense
+E. Sum of Matchings
+D. Nearest Excluded Points
+C. Fault-tolerant Network
+B. Prove Him Wrong
+A. Playoff
+G. Counting Shortcuts
+F. Vitaly and Advanced Useless Algorithms
+E. Rescheduling the Exam
+D. Twist the Permutation
+C. Weight of the System of Nested Segments
+B. DIV + MOD
+A. Deletions of Two Adjacent Letters
+B. Game of Ball Passing
+A. Game
+F. Two Avenues
+E. Air Reform
+D. Serious Business
+C. Tyler and Strings
+B. Integral Array
+A. Weird Sum
+F. Madoka and Laziness
+E. Madoka and the Sixth-graders
+D. Madoka and the Best School in Russia
+C. Madoka and Childish Pranks
+B. Madoka and the Elegant Gift
+A. Madoka and Math Dad
+F. Playing Around the Table
+E. Power Board
+D. Weight the Tree
+C. Factorials and Powers of Two
+B. Quality vs Quantity
+A. Square Counting
+F. Basis
+E. Expand the Path
+D. Cross Coloring
+C. Increase Subarray Sums
+B. Anti-Fibonacci Permutation
+A. Doors and Keys
+B. Power Walking
+A. Hard Way
+F. Covering Circle
+E. Special Positions
+D. Two Arrays
+C. Anonymity Is Important
+B. Repetitions Decoding
+A. Great Sequence
+K. Treasure Hunt
+J. Treasure Hunt
+I. Treasure Hunt
+H. Treasure Hunt
+G. Treasure Hunt
+F. Treasure Hunt
+E. Treasure Hunt
+D. Treasure Hunt
+C. Treasure Hunt
+B. Treasure Hunt
+A. Treasure Hunt
+F. Two Posters
+E. Colorful Operations
+D. Big Brush
+C. Inversion Graph
+B. Odd Swap Sort
+A. Reverse
+H. Minimize Inversions Number
+G. Birthday
+F. Towers
+E. Best Pair
+D. Yet Another Minimization Problem
+C. Andrew and Stones
+B. MEX and Array
+A. Sorting Parts
+F. Closest Pair 
+E. Cars 
+D. Infinite Set
+C. Differential Sorting
+B. Avoid Local Maximums
+A. Min Or Sum
+F. Fibonacci Additions
+E. Fair Share
+D. Finding Zero
+C. OKEA
+B. Fortune Telling
+A. Reverse and Concatenate
+F. Perfect Matching
+E. Spanning Tree Queries
+D. Make Them Equal
+C. Kill the Monster
+B. Minority
+A. Div. 7
+E2. Distance Tree (hard version)
+E1. Distance Tree (easy version)
+D. New Year Concert
+C. Strange Test
+B. Roof Construction
+A. ABC
+B. Fun with Even Subarrays
+A. Min Max Swap
+F. Making It Bipartite
+E. Expected Components
+D. Flipping Range
+C. Paint the Middle
+B. Range and Partition
+A. And Matching
+B. GCD Arrays
+A. Download More RAM
+F. Spaceship Crisis Management
+E. Groceries in Meteor Town
+D2. Game on Sum (Hard Version)
+D1. Game on Sum (Easy Version)
+C. Grid Xor
+B. Peculiar Movie Preferences
+A. Meximum Array
+F. Not Splitting
+E. Not Escaping
+D. Not Adding
+C. Not Assigning
+B. Not Sitting
+A. Not Shading
+F. A Random Code Problem
+E. Black and White Tree
+D. Martial Arts Tournament
+C. Monsters And Spells
+B. Minor Reduction
+A. Equidistant Letters
+E2. Cats on the Upgrade (hard version)
+E1. Cats on the Upgrade (easy version)
+D. Binary Spiders
+C. Road Optimization
+B. Elementary Particles
+A. Ancient Civilization
+G. MinOr Tree
+F. Interacdive Problem
+E. Masha-forgetful
+D. Palindromes Coloring
+C. Division by Two and Permutation
+B. Make AP
+A. Plus One on the Subset
+E. Middle Duplication
+D. Robot Cleaner Revisit
+C. Balanced Stone Heaps
+B. Game on Ranges
+A. Robot Cleaner
+F. Quadratic Set
+E. Math Test
+D. Shuffle
+C. Set or Decrease
+B. Berland Music
+A. Construct a Rectangle
+I. Two Sequences
+H. Trains and Airplanes
+G. Weighted Increasing Subsequences
+F. Strange Instructions
+E. New School
+D. The Winter Hike
+C. Hidden Permutations
+B. Integers Shop
+A. Stable Arrangement of Rooks
+G. Subsequences Galore
+F. Bipartite Array
+E. Replace the Numbers
+D. Exact Change
+C. BA-String
+B. Triangles on a Rectangle
+A. Equal or Not Equal
+H. Permutation and Queries
+G. Unusual Minesweeper
+F. Let's Play the Hat?
+E. MEX and Increments
+D. New Year's Problem
+C. Wrong Addition
+B. Squares and Cubes
+A. Square String?
+G. Trader Problem
+F. Reverse
+E. Singers' Tour
+D. Array and Operations
+C. Paint the Array
+B. Missing Bigram
+A. Polycarp and Sums of Subsequences
+E. Christmas Chocolates
+D2. Too Many Impostors (hard version)
+D1. Too Many Impostors (easy version)
+C. Paprika and Permutation
+B. GCD Problem
+A. Forbidden Subsequence
+H. Keep XOR Low
+G. Just Add an Edge
+F. Tricolor Triangles
+E. Lexicographically Small Enough
+D. Keep the Average High
+C. Representative Edges
+B. Mirror in the String
+A. Integer Diversity
+H. Reindeer Games
+G. Maximum Adjacent Pairs
+F. LEGOndary Grandmaster
+E. Purple Crayon
+D. X(or)-mas Tree
+C. Menorah
+B. And It's Non-Zero
+A. Closing The Gap
+E. Divan and a Cottage
+D2. Divan and Kostomuksha (hard version)
+D1. Divan and Kostomuksha (easy version)
+C. Divan and bitwise operations
+B. Divan and a New Project 
+A. Divan and a Store
+F. Tree Coloring
+E. Crazy Robot
+D. MEX Sequences
+C. Poisoned Dagger
+B. Absent Remainder
+A. Long Comparison
+G. Max Sum Array
+F. Armor and Weapons
+E. Messages
+D. X-Magic Pair
+C. Chat Ban
+B. Special Permutation
+A. Distance
+G. Robot and Candies
+F. ATM and Students
+E2. Escape The Maze (hard version)
+E1. Escape The Maze (easy version)
+D. Weights Assignment For Tree Edges
+C. Polycarp Recovers the Permutation
+B. Team Composition: Programmers and Mathematicians
+A. Make Even
+I. Mashtali vs AtCoder
+H. Squid Game
+G. AmShZ Wins a Bet
+F. Mashtali: a Space Oddysey
+E. AmShZ and G.O.A.T.
+D. Not Quite Lee
+C. Keshi Is Throwing a Party
+B. Kalindrome Array
+A. Anti Light's Cell Guessing
+H. Pushing Robots
+G. A Stroll Around the Matrix
+F. Interesting Sections
+E. William The Oblivious 
+D. Social Network
+C. Complex Market Analysis
+B. William the Vigilant
+A. Divide and Multiply
+G. Alphabetic Tree
+F. MEX counting
+E. The Cells on the Paper
+D. Dominoes
+C. Game Master
+B. Build the Permutation
+A. Find Array
+H. Banquet Preparations 2
+G. Banquet Preparations 1
+F. Robot on the Board 2
+E. Robot on the Board 1
+D. Blue-Red Permutation
+C. Minimum Extraction
+B. Odd Grasshopper
+A. Linear Keyboard
+F. Tree Queries
+E. Arena
+D. Red-Blue Matrix
+C. Banknotes
+B. Update Files
+A. AB Balance
+F. PalindORme
+E. Array Equalizer
+D. Treelabeling
+C. Dominant Character
+B. Reverse Sort
+A. A.M. Deviation
+B. XOR Specia-LIS-t
+A. Era
+F. October 18, 2017
+E. A Perfect Problem
+D. Artistic Partition
+C. Extreme Extension
+B. Moderate Modular Mode
+A. Di-visible Confusion
+B. Divine Array
+A. Two Subsequences
+F. Two Sorts
+E. Phys Ed Online
+D. Difficult Mountain
+C. Optimal Insertion
+B. Frog Traveler
+A. Array Elimination
+J. Robot Factory
+F. Party Organization
+E. Array Game
+J. Bob's Beautiful Array
+I. Desert
+H. Hidden Fortress
+G. Shortest path
+F. Mars
+E. Two Arrays
+D. Bubble Popping
+C. Bubble Strike
+B. Restaurant Game
+A. Weights
+G. The Sum of Good Numbers
+F. RBS
+E. Staircases
+D. Training Session
+C. Delete Two Elements
+B. Groups
+A. Computer Game
+F. Ideal Farm
+E2. Rubik's Cube Coloring (hard version)
+E1. Rubik's Cube Coloring (easy version)
+D. The Number of Imposters
+C. Make Them Equal
+B. Special Numbers
+A. Consecutive Sum Riddle
+G. Changing Brackets
+F. Red-Black Number
+E. Gardener and Tree
+D2. Half of Same
+D1. All are Same
+C. Save More Mice
+B. Make it Divisible by 25
+A. Elections
+F2. Alice and Recoloring 2
+F1. Alice and Recoloring 1
+E. Bored Bakry
+D. Hemose in ICPC ?
+C. Bakry and Partitioning
+B. Hemose Shopping
+A. Gamer Hemose
+F. Jumping Through the Array
+I. Omkar and Mosaic
+G. Poachers
+F. Non-equal Neighbours
+E. Frequency Queries
+D. Yet Another Sorting Problem
+C. Minimize Distance
+B. Array Eversion
+A. Life of a Flower
+G. Eligible Segments
+F. Strange LCS
+E. Game with Stones
+D. Guess the Permutation
+C. Two Arrays
+B. Coloring Rectangles
+A. Mathematical Addition
+H. Omkar and Tours
+G. Omkar and Time Travel
+F. Defender of Childhood Dreams
+E. Moment of Bloom
+D. Omkar and the Meaning of Life
+C. Omkar and Determination
+B. Omkar and Heavenly Tree
+A. Windblume Ode
+G. Kuzya and Homework
+F2. Korney Korneevich and XOR (hard version)
+F1. Korney Korneevich and XOR (easy version)
+E. Pchelyonok and Segments
+D. Vupsen, Pupsen and 0
+C. Grandma Capa Knits a Scarf
+B. Luntik and Subsequences
+A. Luntik and Concerts
+B. Diameter of Graph
+A. CQXYM Count Permutations
+F. Problems for Codeforces
+E. Railway Construction
+D. Subsequence
+C. Train Maintenance
+B. Mathematics Curriculum
+A. Portal
+G. Minimal Coverage
+F. Array Stabilization (AND version)
+E2. Array Optimization by Deque
+E1. Permutation Minimization by Deque
+D. Productive Meeting
+C. Ticks
+B. Shifting Sort
+A. Casimir's String Solitaire
+M. The Mind
+L. Labyrinth
+K. Kingdom of Islands
+J. Just Kingdom
+I. Interactive Rays
+H. Higher Order Functions
+G. Game of Chance
+F. Framing Pictures
+E. Easy Scheduling
+D. Dragon Curve
+C. Cactus Lady and her Cing
+B. Building Forest Trails
+A. Anti-Tetris
+A. Communication Routing Challenge
+M. Managing Telephone Poles
+L. Longest Array Deconstruction
+K. Knitting Batik
+J. Jeopardy of Dropped Balls
+I. Illusions of the Desert
+H. Holiday Wall Ornaments
+G. GCD Festival
+F. Finding Expected Value
+E. Eye-Pleasing City Park Tour
+D. Divisible by Twenty-Five
+C. Cyclic Sum
+B. Building an Amusement Park
+A. Another Sorting Problem
+F. Occurrences
+E. Coloring
+D. The Strongest Build
+C. Slay the Dragon
+B. Combinatorics Homework
+A. Regular Bracket Sequences
+B. Swaps
+A. Countdown
+F. Stations
+E. Polygon
+D. Bridge Club
+C. Paint
+B. Xor of 3
+A. Book
+J. Two Railroads
+I. Physical Examination
+H. Laser Beams
+G. A Battle Against a Dragon
+F. Kotlinforces
+E. Fix the String
+D. Sweepstake
+C. Rhyme
+B. Epic Novel
+A. Sequence of Comparisons
+F. Palindromic Hamiltonian Path
+E. Playoff Restoration
+D. Inconvenient Pairs
+C. Jury Meeting
+B. Chess Tournament
+A. Balanced Substring
+F. One-Four Overload
+E. Non-Decreasing Dilemma
+D. Expression Evaluation Error
+C. Carrying Conundrum
+B. MEXor Mixup
+A. Domino Disaster
+H. Xor-quiz
+G. Four Vertices
+F. Points Movement
+E. Buds Re-hanging
+D2. Seating Arrangements (hard version) 
+D1. Seating Arrangements (easy version) 
+C. MAX-MEX Cut
+B. MIN-MEX Cut
+A. Median Maximization
+F. Tubular Bells
+E. Rescue Niwen!
+D2. Two Hundred Twenty One (hard version)
+D1. Two Hundred Twenty One (easy version)
+C. Rings
+B. Scenes From a Memory
+A. The Miracle and the Sleeper
+D1. Up the Strip (simplified version)
+C. Deep Down Below
+A. Simply Strange Sort
+F2. Nearest Beautiful Number (hard version)
+F1. Nearest Beautiful Number (easy version)
+E. Polycarp and String Transformation
+D. Make a Power of Two
+C. Infinity Table
+B. Who's Opposite?
+A. Dislike of Threes
+E. Mocha and Stars
+D2. Mocha and Diana (Hard Version)
+D1. Mocha and Diana (Easy Version)
+C. Mocha and Hiking
+B. Mocha and Red and Blue
+A. Mocha and Math
+F. Strange Sort
+E. Down Below
+D. Top-Notch Insertions
+C. Bottom-Tier Reversals
+B. Up the Strip
+A. Charmed by the Game
+E. Assiut Chess
+D. Ezzat and Grid
+C. Moamen and XOR
+B. Moamen and k-subarrays
+A. Ezzat and Two Subsequences
+H. DIY Tree
+G. Gates to Another World
+F. Sports Betting
+E. Equilibrium
+D. Take a Guess
+C. Compressed Bracket Sequence
+B. Take Your Places!
+A. A Variety of Operations
+F. Good Graph
+E. Boring Segments
+D. Say No to Palindromes
+C. Coin Rows
+B. Two Tables
+A. PizzaForces
+E. You
+D. Diane
+C. Mikasa
+B. Cobb
+A. Cherry
+I. Stairs
+H. XOR and Distance
+G. Common Divisor Graph
+F. Pairwise Modulo
+E. Permutation Shift
+D. Backspace
+C. Penalty
+B. Reverse String
+A. Digits Sum
+I. Organizing a Music Festival
+H. Guess the Perimeter
+G. A Serious Referee
+F. Telepanting
+E. Colors and Intervals
+D. Array Differentiation
+C. Maximize the Intersections
+B. Running for Gold
+A. Subsequence Permutation
+F. Equidistant Vertices
+E. Fixed Points
+D2. Domino (hard version)
+D1. Domino (easy version)
+C. Interesting Story
+B2. Wonderful Coloring - 2
+B1. Wonderful Coloring - 1
+A. Polycarp and Coins
+F. Jumping Around
+E. Stringforces
+D. Excellent Arrays
+C. Manhattan Subarrays
+B. Maximum Cost Deletion
+A. Find The Array
+B. Gregor and the Pawn Game
+A. Gregor and Cryptography
+E. Gregor and the Two Painters
+D2. Gregor and the Odd Cows (Hard)
+D1. Gregor and the Odd Cows (Easy)
+C. The Three Little Pigs
+B. Integers Have Friends
+A. Web of Lies
+G. How Many Paths?
+F. Array Stabilization (GCD version)
+E. Air Conditioners
+D. Co-growing Sequence
+C. Pair Programming
+B. Alphabetical Strings
+A. Shortest Path with Obstacle
+B. AquaMoon and Stolen String
+A. AquaMoon and Two Arrays
+F. AquaMoon and Potatoes
+E2. AquaMoon and Time Stop (hard version)
+E1. AquaMoon and Time Stop (easy version)
+D. AquaMoon and Wrong Coordinate
+C. AquaMoon and Permutations
+B. AquaMoon and Chess
+A. AquaMoon and Strange Sort
+E. The Final Pursuit
+D2. RPD and Rap Sheet (Hard Version)
+D1. RPD and Rap Sheet (Easy Version)
+C. Need for Pink Slips
+B. Customising the Track
+A. Exciting Bets
+E2. Abnormal Permutation Pairs (hard version)
+E1. Abnormal Permutation Pairs (easy version)
+D. Priority Queue
+C. Strange Function
+B. Plus and Multiply
+A. Odd Set
+B. Pleasant Pairs
+A. Pretty Permutations
+E. Tasty Dishes
+D. Inverse Inversions
+C2. Converging Array (Hard Version)
+C1. Converging Array (Easy Version)
+B. Tree Array
+A. Great Graphs
+F. Strange Array
+E. Game with Cards
+D. PriceFixed
+C. Stable Groups
+B. Love Song
+A. Contest Start
+G. Gift Set
+F. Interesting Function
+E. Funny Substrings
+D. Another Problem About Dividing Numbers
+C. Number of Pairs
+B. Friends and Candies
+A. Stone Game
+F. Figure Fixing
+E2. Erase and Extend (Hard Version)
+E1. Erase and Extend (Easy Version)
+D. Deleting Divisors
+C. Challenging Cliffs
+B. Bad Boy
+A. Arithmetic Array
+F. Omkar and Akmar
+E. Omkar and Forest
+D. Omkar and Medians
+C. Diluc and Kaeya
+B. Prinzessin der Verurteilung
+A. Omkar and Bad Story
+F. String Distance
+E. Gold Transfer
+D. Playoff Tournament
+C. Unstable String
+B. Array Reodering
+A. Fair Playoff
+H. Lost Nodes
+G. A New Beginning
+F2. Falling Sand (Hard Version)
+F1. Falling Sand (Easy Version)
+E. Lost Array
+D. Lost Tree
+C. Little Alawn's Puzzle
+B. Histogram Ugliness
+A. Colour the Flag
+J. Pawns
+I. Excursions
+H. Submatrices
+G. Biome Map
+F. Binary String Partition
+E. Chess Team Forming
+D. String Searching
+C. Sweets
+B. Nearest Point Function
+A. Travel to Bertown
+F. Prefixes and Suffixes
+E. Good Array
+D. Teams Forming
+C. Uniform String
+B. Frog Jumping
+A. A+B (Trial Problem)
+E3. Сортировка слияниемограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводРассмотрим следующий код сортировки слиянием на языке Python: def sort(a): n = len(a) b = [0 for i in range(n)] log = [] def mergeSort(l, r): if r - l <= 1: return m = (l + r) >> 1 mergeSort(l, m) mergeSort(m, r) i, j, k = l, m, l while i < m and j < r: if a[i] < a[j]: log.append('0') b[k] = a[i] i += 1 else: log.append('1') b[k] = a[j] j += 1 k += 1 while i < m: b[k] = a[i] i += 1 k += 1 while j < r: b[k] = a[j] j += 1 k += 1 for p in range(l, r): a[p] = b[p] mergeSort(0, n) return "".join(log)Как можно заметить, этот код использует логирование — важнейший инструмент разработки.Старший разработчик ВКонтакте Вася сгенерировал перестановку $$$a$$$ (массив из $$$n$$$ различных целых чисел от $$$1$$$ до $$$n$$$), дал её на вход функции sort и получил на выходе строку $$$s$$$. На следующий день строку $$$s$$$ Вася нашёл, а перестановка $$$a$$$ потерялась. Вася хочет восстановить любую перестановку $$$a$$$ такую, что вызов функции sort от неё даст ту же строку $$$s$$$. Помогите ему!Входные данныеВвод содержит непустую строку $$$s$$$, состоящую из символов 0 и 1. В этой версии задачи для любого теста существует перестановка длины не более $$$10^5$$$, удовлетворяющая условию. Тем не менее, ваш ответ может иметь любую длину, в том числе превышающую $$$10^5$$$.Выходные данныеВ первой строке выведите целое число $$$n$$$ — длину перестановки.Во второй строке выведите $$$n$$$ различных целых чисел $$$a_0, a_1, \ldots, a_{n-1}$$$ ($$$1 \le a_i \le n$$$) — элементы перестановки.Если существует несколько вариантов ответа, выведите любой из них.ПримерыВходные данные 00000000000000000000000000000000 Выходные данные 16 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 Входные данные 11111111111111111111111111111111 Выходные данные 16 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 Входные данные 101011010001100100011011001111011000011110010 Выходные данные 16 13 6 1 7 12 5 4 15 14 16 10 11 3 8 9 2 
+E2. Сортировка слияниемограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводРассмотрим следующий код сортировки слиянием на языке Python: def sort(a): n = len(a) b = [0 for i in range(n)] log = [] def mergeSort(l, r): if r - l <= 1: return m = (l + r) >> 1 mergeSort(l, m) mergeSort(m, r) i, j, k = l, m, l while i < m and j < r: if a[i] < a[j]: log.append('0') b[k] = a[i] i += 1 else: log.append('1') b[k] = a[j] j += 1 k += 1 while i < m: b[k] = a[i] i += 1 k += 1 while j < r: b[k] = a[j] j += 1 k += 1 for p in range(l, r): a[p] = b[p] mergeSort(0, n) return "".join(log)Как можно заметить, этот код использует логирование — важнейший инструмент разработки.Старший разработчик ВКонтакте Вася сгенерировал перестановку $$$a$$$ (массив из $$$n$$$ различных целых чисел от $$$1$$$ до $$$n$$$), дал её на вход функции sort и получил на выходе строку $$$s$$$. На следующий день строку $$$s$$$ Вася нашёл, а перестановка $$$a$$$ потерялась. Вася хочет восстановить любую перестановку $$$a$$$ такую, что вызов функции sort от неё даст ту же строку $$$s$$$. Помогите ему!Входные данныеВвод содержит непустую строку $$$s$$$, состоящую из символов 0 и 1. В этой версии задачи для любого теста существует перестановка длины не более $$$10^3$$$, удовлетворяющая условию. Тем не менее, ваш ответ может иметь любую длину, в том числе превышающую $$$10^3$$$.Выходные данныеВ первой строке выведите целое число $$$n$$$ — длину перестановки.Во второй строке выведите $$$n$$$ различных целых чисел $$$a_0, a_1, \ldots, a_{n-1}$$$ ($$$1 \le a_i \le n$$$) — элементы перестановки.Если существует несколько вариантов ответа, выведите любой из них.ПримерыВходные данные 00000000000000000000000000000000 Выходные данные 16 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 Входные данные 11111111111111111111111111111111 Выходные данные 16 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 Входные данные 101011010001100100011011001111011000011110010 Выходные данные 16 13 6 1 7 12 5 4 15 14 16 10 11 3 8 9 2 
+E1. Сортировка слияниемограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводРассмотрим следующий код сортировки слиянием на языке Python: def sort(a): n = len(a) b = [0 for i in range(n)] log = [] def mergeSort(l, r): if r - l <= 1: return m = (l + r) >> 1 mergeSort(l, m) mergeSort(m, r) i, j, k = l, m, l while i < m and j < r: if a[i] < a[j]: log.append('0') b[k] = a[i] i += 1 else: log.append('1') b[k] = a[j] j += 1 k += 1 while i < m: b[k] = a[i] i += 1 k += 1 while j < r: b[k] = a[j] j += 1 k += 1 for p in range(l, r): a[p] = b[p] mergeSort(0, n) return "".join(log)Как можно заметить, этот код использует логирование — важнейший инструмент разработки.Старший разработчик ВКонтакте Вася сгенерировал перестановку $$$a$$$ (массив из $$$n$$$ различных целых чисел от $$$1$$$ до $$$n$$$), дал её на вход функции sort и получил на выходе строку $$$s$$$. На следующий день строку $$$s$$$ Вася нашёл, а перестановка $$$a$$$ потерялась. Вася хочет восстановить любую перестановку $$$a$$$ такую, что вызов функции sort от неё даст ту же строку $$$s$$$. Помогите ему!Входные данныеВвод содержит непустую строку $$$s$$$, состоящую из символов 0 и 1. В этой версии задачи для любого теста существует перестановка длины $$$16$$$, удовлетворяющая условию. Тем не менее, ваш ответ может иметь любую длину, в том числе отличную от $$$16$$$.Выходные данныеВ первой строке выведите целое число $$$n$$$ — длину перестановки.Во второй строке выведите $$$n$$$ различных целых чисел $$$a_0, a_1, \ldots, a_{n-1}$$$ ($$$1 \le a_i \le n$$$) — элементы перестановки.Если существует несколько вариантов ответа, выведите любой из них.ПримерыВходные данные 00000000000000000000000000000000 Выходные данные 16 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 Входные данные 11111111111111111111111111111111 Выходные данные 16 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 Входные данные 101011010001100100011011001111011000011110010 Выходные данные 16 13 6 1 7 12 5 4 15 14 16 10 11 3 8 9 2 
+D. Редактируем Зингер | colorограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводНемногие знают, что сотрудники ВКонтакте могут менять цвет подсветки в куполе знаменитого Дома Зингера, где расположена штаб-квартира ВКонтакте. Для этого нужно всего лишь отправить сообщение с цветом в специальный чат «Зингер | color», а бот его распознает и сменит подсветку. При этом на время городских мероприятий смена цвета блокируется.Формально, бот обрабатывает три типа сообщений: lock: заблокировать изменение цвета. Если оно и так заблокировано на данный момент, сообщение игнорируется. unlock: разблокировать изменение цвета. Если оно и так разблокировано на данный момент, сообщение игнорируется. red / orange / yellow / green / blue / indigo / violet: изменить цвет купола на заданный, если изменение цвета на данный момент не заблокировано. Вам дана история сообщений, полученных ботом, в хронологическом порядке. Считайте, что перед получением первого сообщения купол подсвечивается голубым (blue), а изменение цвета не заблокировано.В качестве эксперимента было решено поддержать в боте эффективную обработку редактирования сообщений. Вам дана последовательность пар вида $$$(i, msg)$$$, означающих, что $$$i$$$-е в хронологическом порядке сообщение было отредактировано и теперь имеет вид $$$msg$$$. Обратите внимание, что редактироваться может любое сообщение, и при редактировании сообщения бот должен обработать всю историю сообщений заново (в частности, перед обработкой первого сообщения цвет купола голубой, а изменение цвета не заблокировано).Определите, какой цвет будет у купола Дома Зингера до первой операции редактирования, а также после каждой операции редактирования.Входные данныеВ первой строке задано одно целое число $$$n$$$ ($$$1 \le n \le 10^5$$$) — число сообщений, полученных ботом.В следующих $$$n$$$ строках заданы сообщения, полученные ботом, в хронологическом порядке, по одному сообщению в строке. Каждое сообщение — строка из следующего набора: lock, unlock, red, orange, yellow, green, blue, indigo, violet. Сообщения пронумерованы от $$$1$$$ до $$$n$$$.В следующей строке задано одно целое число $$$t$$$ ($$$1 \le t \le 10^5$$$) — число операций редактирования сообщений.В следующих $$$t$$$ строках заданы операции редактирования в хронологическом порядке, по одной в строке. Каждая операция — пара из номера сообщения $$$i$$$ ($$$1 \le i \le n$$$) и его нового содержимого $$$msg$$$, также принадлежащего набору lock, unlock, red, orange, yellow, green, blue, indigo, violet.Выходные данныеВыведите $$$t+1$$$ строку: цвет купола до первой операции редактирования, а также после каждой операции редактирования в хронологическом порядке.ПримерыВходные данные 7 red violet unlock red orange lock indigo 6 5 green 6 lock 6 yellow 4 lock 1 lock 5 unlock Выходные данные orange green green indigo violet blue indigo Входные данные 1 red 8 1 lock 1 unlock 1 blue 1 unlock 1 unlock 1 lock 1 yellow 1 lock Выходные данные red blue blue blue blue blue blue yellow blue 
+C. Симметричный амфитеатрограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВсе готовятся к VK Fest 2021! Для того, чтобы зрителям была лучше видна главная сцена, планируется построить амфитеатр. В этой задаче мы будем рассматривать его сбоку — схематично он будет иметь форму лестницы из $$$n$$$ одинаковых квадратов. Лестница — это одна или более башен квадратов, выстроенных в ряд, где высоты башен невозрастают слева направо.На следующем рисунке можно видеть три разные фигуры из $$$12$$$ квадратов. Первые две фигуры — лестницы, а третья — нет. Из эстетических соображений было решено, что амфитеатр должен быть симметричным. Формально, амфитеатр называется симметричным, если при отражении его схемы относительно прямой $$$x = y$$$ получается тот же самый рисунок (где ось $$$x$$$ направлена слева направо, а ось $$$y$$$ — снизу вверх). Например, первая лестница на рисунке выше — симметричная, а вторая — нет. Кроме того, амфитеатр должен быть максимально компактным — а именно, сторона минимального квадрата, внутрь которого можно его поместить, должна быть как можно меньше.По заданному числу $$$n$$$ нарисуйте схему амфитеатра из ровно $$$n$$$ квадратов, удовлетворяющую всем условиям.Входные данныеВ единственной строке задано одно целое число $$$n$$$ ($$$1 \le n \le 100$$$) — число квадратов, из которых нужно составить схему амфитеатра.Выходные данныеЕсли не существует схемы амфитеатра из $$$n$$$ квадратов, выведите единственное число $$$-1$$$.Иначе в первой строке выведите целое число $$$m$$$ — минимальное возможное число строк и столбцов в схеме амфитеатра. Далее выведите $$$m$$$ строк, описывающих схему. Каждая строка должна содержать ровно $$$m$$$ символов 'o' (строчная латинская буква) или '.', где 'o' описывает построенный квадрат, а '.' — пустое место. Схема амфитеатра должна состоять ровно из $$$n$$$ символов 'o'. Ячейка в левом нижнем углу должна содержать квадрат. Если возможных ответов с минимальным $$$m$$$ несколько, выведите любой из них.ПримерыВходные данные 3 Выходные данные 2 o. oo Входные данные 17 Выходные данные 5 o.... ooo.. oooo. oooo. ooooo 
+B2. Мониторингограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВКонтакте открыла второй штаб в Санкт-Петербурге! Вы не преминули возможностью сменить обстановку и решили переехать из офиса в Доме Зингера в офис на Красном мосту.Для комфортной работы вам потребуются два монитора с одинаковой высотой, чтобы изображение на них выглядело единым целым. На складе офиса на Красном мосту есть $$$n$$$ мониторов, $$$i$$$-й из них имеет ширину $$$w_i$$$ и высоту $$$h_i$$$. Любой монитор можно повернуть на 90 градусов, и тогда он будет иметь ширину $$$h_i$$$ и высоту $$$w_i$$$.Назовём неупорядоченную пару из двух различных мониторов подходящей, если можно их повернуть так, чтобы они имели одинаковую высоту. Любой из мониторов в паре можно как повернуть относительно исходной ориентации, так и не поворачивать.Подсчитайте подходящие пары мониторов.Входные данныеВ первой строке задано одно целое число $$$n$$$ — число мониторов на складе.В каждой из следующих $$$n$$$ строк заданы два целых числа $$$w_i$$$ и $$$h_i$$$ ($$$1 \le w_i, h_i \le 10^9$$$) — ширина и высота $$$i$$$-го монитора. Обратите внимание, что мониторы могут быть квадратными ($$$w_i = h_i$$$), а размеры разных мониторов могут совпадать.В этой версии задачи $$$2 \le n \le 10^5$$$.Выходные данныеВыведите число подходящих пар мониторов.ПримерыВходные данные 5 3 2 2 2 5 5 3 5 4 3 Выходные данные 5 Входные данные 7 10 10 10 20 20 10 10 20 10 20 10 10 20 10 Выходные данные 21 ПримечаниеВ первом примере подходящими являются пары мониторов с номерами $$$(1, 2)$$$, $$$(1, 4)$$$, $$$(1, 5)$$$, $$$(3, 4)$$$, $$$(4, 5)$$$.Во втором примере все пары мониторов — подходящие. 
+B1. Мониторингограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВКонтакте открыла второй штаб в Санкт-Петербурге! Вы не преминули возможностью сменить обстановку и решили переехать из офиса в Доме Зингера в офис на Красном мосту.Для комфортной работы вам потребуются два монитора с одинаковой высотой, чтобы изображение на них выглядело единым целым. На складе офиса на Красном мосту есть $$$n$$$ мониторов, $$$i$$$-й из них имеет ширину $$$w_i$$$ и высоту $$$h_i$$$. Любой монитор можно повернуть на 90 градусов, и тогда он будет иметь ширину $$$h_i$$$ и высоту $$$w_i$$$.Назовём неупорядоченную пару из двух различных мониторов подходящей, если можно их повернуть так, чтобы они имели одинаковую высоту. Любой из мониторов в паре можно как повернуть относительно исходной ориентации, так и не поворачивать.Подсчитайте подходящие пары мониторов.Входные данныеВ первой строке задано одно целое число $$$n$$$ — число мониторов на складе.В каждой из следующих $$$n$$$ строк заданы два целых числа $$$w_i$$$ и $$$h_i$$$ ($$$1 \le w_i, h_i \le 10^9$$$) — ширина и высота $$$i$$$-го монитора. Обратите внимание, что мониторы могут быть квадратными ($$$w_i = h_i$$$), а размеры разных мониторов могут совпадать.В этой версии задачи $$$2 \le n \le 10^3$$$.Выходные данныеВыведите число подходящих пар мониторов.ПримерыВходные данные 5 3 2 2 2 5 5 3 5 4 3 Выходные данные 5 Входные данные 7 10 10 10 20 20 10 10 20 10 20 10 10 20 10 Выходные данные 21 ПримечаниеВ первом примере подходящими являются пары мониторов с номерами $$$(1, 2)$$$, $$$(1, 4)$$$, $$$(1, 5)$$$, $$$(3, 4)$$$, $$$(4, 5)$$$.Во втором примере все пары мониторов — подходящие. 
+A. Зингер | colorограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводНемногие знают, что сотрудники ВКонтакте могут менять цвет подсветки в куполе знаменитого Дома Зингера, где расположена штаб-квартира ВКонтакте. Для этого нужно всего лишь отправить сообщение с цветом в специальный чат «Зингер | color», а бот его распознает и сменит подсветку. При этом на время городских мероприятий смена цвета блокируется.Формально, бот обрабатывает три типа сообщений: lock: заблокировать изменение цвета. Если оно и так заблокировано на данный момент, сообщение игнорируется. unlock: разблокировать изменение цвета. Если оно и так разблокировано на данный момент, сообщение игнорируется. red / orange / yellow / green / blue / indigo / violet: изменить цвет купола на заданный, если изменение цвета на данный момент не заблокировано. Вам дана история сообщений, полученных ботом, в хронологическом порядке. Считайте, что перед получением первого сообщения купол подсвечивается голубым (blue), а изменение цвета не заблокировано.Определите, какой цвет будет у купола Дома Зингера после обработки этих сообщений.Входные данныеВ первой строке задано одно целое число $$$n$$$ ($$$1 \le n \le 100$$$) — число сообщений, полученных ботом.В следующих $$$n$$$ строках заданы сообщения, полученные ботом, в хронологическом порядке, по одному сообщению в строке. Каждое сообщение — строка из следующего набора: lock, unlock, red, orange, yellow, green, blue, indigo, violet.Выходные данныеВыведите цвет купола после обработки сообщений ботом.ПримерыВходные данные 7 red violet unlock red orange lock indigo Выходные данные orange Входные данные 5 lock unlock lock unlock unlock Выходные данные blue 
+H. Turing's Award
+G. What a Reversal
+F. Bingo
+E. Minimax
+D. Secret Santa
+C. Pursuit
+B. Putting Plates
+A. Binary Decimal
+B. Sifid and Strange Subsequences
+A. Eshag Loves Big Arrays
+F. AmShZ Farm
+E. Mashtali and Hagh Trees
+D. It's a bird! No, it's a plane! No, it's AaParsa!
+C. Trees of Tranquillity
+B. Kavi on Pairing Duty
+A. Parsa's Humongous Tree
+E. Partition Game
+D. MEX Tree
+C. Sequence Pair Weight
+B2. Palindrome Game (hard version)
+B1. Palindrome Game (easy version)
+A. And Then There Were K
+F. Median Queries
+E. Oolimry and Suffix Array
+D. Kill Anton
+C2. Potions (Hard Version)
+C1. Potions (Easy Version)
+B. I Hate 1111
+A. Mean Inequality
+F. Goblins And Gnomes
+E. Assimilation IV
+D. Armchairs
+C. Robot Collisions
+B. Permutation Sort
+A. Potion-making
+H. Hopping Around the Array 
+G. Try Booking
+F. Favorite Game
+E. Crypto Lights
+D. Love-Hate
+C. Compression and Expansion
+B. Lord of the Values
+A. Game of Life
+E. Nastia and a Beautiful Matrix
+D. Nastia Plays with a Tree
+C. Nastia and a Hidden Permutation
+B. Nastia and a Good Array
+A. Nastia and Nearly Good Numbers
+G. To Go Or Not To Go?
+F2. Guess the K-th Zero (Hard version)
+F1. Guess the K-th Zero (Easy version)
+E. Arranging The Sheep
+D. Same Differences
+C. Not Adjacent Matrix
+B. Ordinary Numbers
+A. Do Not Be Distracted!
+F. Chests and Keys
+E. Off by One
+D. Maximum Sum of Products
+C. Berland Regional
+B. The Cake Is a Lie
+A. Red and Blue Beans
+H. Fly Around the World
+G. Starry Night Camping
+F. Reunion
+E. Group Photo
+D. Explorer Space
+C. Fillomino 2
+B. Morning Jogging
+A. Sum of 2050
+E. Baby Ehab Plays with Permutations
+D. Cut
+C. Baby Ehab Partitions Again
+B. AGAGA XOOORRR
+A. Tit for Tat
+I. Phoenix and Diamonds
+H. Phoenix and Bits
+G. Phoenix and Odometers
+F. Phoenix and Earthquake
+E. Phoenix and Computers
+D. Phoenix and Socks
+C. Phoenix and Towers
+B. Phoenix and Puzzle
+A. Phoenix and Gold
+E. Baby Ehab's Hyper Apartment
+D. Cut and Stick
+C. Product 1 Modulo N
+B. AND 0, Sum Big
+A. Perfectly Imperfect Array
+F. Swapping Problem
+E. Cost Equilibrium
+D. GCD and MST
+C. Add One
+B. AND Sequences
+A. Array and Peaks
+G. Short Task
+F. Education
+E. Permutation by Sum
+D. Corrupted Array
+C. A-B Palindrome
+B. Almost Rectangle
+A. Spy Detected!
+G. Chips on a Board
+F. Chainword
+E. Colorings and Dominoes
+D. Min Cost String
+C. Yet Another Card Deck
+B. GCD Length
+A. Review Site
+K. King's Task
+J. Japanese Game
+I. Is It Rated?
+H. Hard Optimization
+
+F. Fiber Shape
+
+D. Digits
+C. Cactus Not Enough
+B. Button Lock
+
+C. The Sports Festival
+B. TMT Document
+A. Average Height
+F. Optimal Encoding
+E. Tree Calendar
+D. Swap Pass
+C. Complete the MST
+B. Almost Sorted
+A. Binary Literature
+G. Maximize the Remaining String
+F. Triangular Paths
+E. Restoring the Permutation
+D. Epic Transformation
+C. Double-ended Strings
+B. Partial Replacement
+A. Strange Table
+I. Mysterious language again, seriously?
+H. L BREAK into program
+G. Encoded message
+F. Math
+E. Cakewalk
+D. Xenolith? Hippodrome?
+C. Fibonacci Words
+B. DMCA
+A. Is it rated - 2
+B. Flip the Bits
+A. Déjà Vu
+F. Balance the Cards
+E. 2-Coloring
+D. Flip the Cards
+C. Travelling Salesman Problem
+B. 3-Coloring
+A. Balance the Bits
+B. Napoleon Cake
+A. Alexey and Train
+F. Cupboards Jumps
+E. Subset Trick
+D. Tiles for Bathroom
+C. Matrix Sorting
+B. Two chandeliers
+A. Going Home
+G. Graph Coloring
+F. Diameter Cuts
+E. Chaotic Merge
+D. The Number of Pairs
+C. Minimum Grid Path
+B. Binary Removals
+A. Domino on Windowsill
+F. Christmas Game
+E. Two Houses
+D. Bananas in a Microwave
+C. Planar Reflections
+B. Box Fitting
+A. GCD Sum
+E2. Square-Free Division (hard version)
+E1. Square-Free Division (easy version)
+D. Genius
+C2. k-LCM (hard version)
+C1. k-LCM (easy version)
+B. M-arrays
+A. Meximization
+B. Max and Mex
+A. Split it!
+F. Squares
+E. Qingshan and Daniel
+D. BFS Trees
+C. Garden of the Sun
+B. Let's Go Hiking
+A. Diamond Miner
+F. Delete The Edges
+E. A-Z Graph
+D. Dogeforces
+C. 1D Sokoban
+B. Berland Crossword
+A. ABC String
+F. Enchanted Matrix
+E. Enormous XOR
+D. GCD of an Array
+C. K-beautiful Strings
+B. Planet Lapituletti
+A. Anti-knapsack
+E. Almost Fault-Tolerant Database
+D. Genius's Gambit
+C. Maximum width
+B. Card Deck
+A. Three swimmers
+I. Ruler Of The Zoo
+H. Yuezheng Ling and Dynamic Tree
+G. Switch and Flip
+F. Magnets
+E. Fib-tree
+D. Zookeeper and The Infinite Zoo
+C. Pekora and Trampoline
+B. Minimal Cost
+A. K-th Largest Value
+G. Old Floppy Drive 
+F. Equalize the Array
+E. Accidental Victory
+D. Permutation Transformation
+C. Sum of Cubes
+B. Balanced Remainders
+A. Dense Array
+J. Flower Shop
+I. Demonic Invasion
+H. Build From Suffixes
+G. Painting Numbers
+F. Dogecoin
+E. Palindromic Doubles
+D. Problemsolving Marathon
+C. Two Policemen
+B. RBS Deletion
+A. From Zero To Y
+G. String Counting
+F. Ones
+E. Cheap Dinner
+D. Pythagorean Triples
+C. Minimum Ties
+B. Cat Cycle
+A. Arena
+F. Pairs of Paths
+E. Paired Payment
+D. Max Median
+C2. Guessing the Greatest (hard version)
+C1. Guessing the Greatest (easy version)
+B. Eastern Exhibition
+A. Shifting Stacks
+F. Copy or Prefix Sum
+E. Move and Swap
+D. Multiples and Power Differences
+C. Floor and Mod
+B. Replace and Keep Sorted
+A. Add and Divide
+H. Exam
+G. Vabank
+F. Useful Edges
+E. Skyline Photo
+D. Playlist
+C. Basic Diplomacy
+B. Restore Modulo
+A. Prison Break
+F. AB Tree
+E. Sorting Books
+D. AB Graph
+C. Fence Painting
+B. New Colony
+A. Space Navigation 
+B. The Great Hero
+A. Yet Another String Game
+E. School Clubs
+D. Odd Mineral Resource
+C. Continuous City
+B2. Painting the Array II
+B1. Painting the Array I
+A. Searching Local Minimum
+C. Nezzar and Symmetric Array
+B. Nezzar and Lucky Number
+A. Nezzar and Colorful Balls
+F. Nezzar and Chocolate Bars
+E. Nezzar and Tournaments
+D. Nezzar and Hidden Permutations
+C. Nezzar and Nice Beatmap
+B. Nezzar and Binary String
+A. Nezzar and Board
+G. Minimum Difference
+F. Lanterns
+E. Pattern Matching
+D. Journey
+C. Longest Simple Cycle
+B. Inflation
+A. K-divisible Sum
+G. Strange Beauty
+F. Unusual Matrix
+E. Advertising Agency
+D. Cleaning the Phone
+C. Ball in Berland
+B. New Year's Number
+A. Odd Divisor
+F. 1 2 3 4 ...
+E. What Is It?
+D. Cleaning
+C. Array Destruction
+B. Different Divisors
+A. Puzzle From the Future
+G. Tiles
+F. Strange Set
+E. Minimum Path
+D. Program
+C. No More Inversions
+B. String LCM
+A. Replacing Elements
+G. Moving to the Capital
+F. New Year's Puzzle
+E. Correct Placement
+D. Even-Odd Game
+C. Long Jumps
+B. Fair Division
+A. Cards for Friends
+B. Strange List
+A. Strange Partition
+F. Strange Covering
+E. Strange Permutation
+D. Strange Housing
+C. Strange Shuffle
+B. Strange Definition
+A. Strange Birthday Party
+F. Power Sockets
+E. A Bit Similar
+D. Ceil Divisions
+C. Building a Fence
+B. Red and Blue
+A. Regular Bracket Sequence
+N. Waste Sorting
+M. Similar Sets
+L. Prime Divisors Selection
+K. The Robot
+J. Road Reform
+I. Plane Tiling
+H. K and Medians
+G. Hobbits
+F. Full Turn
+E. Four Segments
+D. Firecrackers
+C. Berpizza
+B. Bakery
+A. LaIS
+E. Distinctive Roots in a Tree
+D. Sum of Paths
+C. Three Bags
+B. Hills And Valleys
+A. Wizard of Orz
+I. The Riddle of the Sphinx
+H. Finding satisfactory solutions
+G. Song of the Sirens
+F. Euclid's nightmare
+E. Apollo versus Pan
+D. 13th Labour of Heracles
+C. Canine poetry
+B. Last minute enhancements
+A. Bovine Dilemma
+F. My Beautiful Madness
+F. Max Correct Set
+E. Plan of Lectures
+D. Pairs
+C. Busy Robot
+B. Find The Array
+A. Dungeon
+F. The Treasure of The Segments
+E2. Close Tuples (hard version)
+E1. Close Tuples (easy version)
+D. Add to Neighbour and Remove
+C. Unique Number
+B. Last Year's Substring
+A. Favorite Sequence
+F. Mathematical Expression
+E. Water Level
+D. Divide and Summarize
+C. Random Events
+B. Find the Spruce
+A. String Generation
+B. Move and Turn
+A. Red-Blue Shuffle
+F. Range Diameter Sum
+E. Nim Shortcuts
+D. Flip and Reverse
+C. Latin Square
+B. Glass Half Spilled
+A. Row GCD
+E. XOR-ranges
+G. Forbidden Value
+F. String and Operations
+E. Four Points
+D. Sequence and Swaps
+C. Ping-pong
+B. Jumps
+A. Strange Functions
+F. Array Partition
+E. Number of Simple Paths
+D. Number into Sequence
+C. Sequence Transformation
+B. Unique Bid Auction
+A. Special Permutation
+F. Even Harder
+E. Dog Snacks
+D. Checkpoints
+C. Triangles
+B. Suffix Operations
+A. Cancel the Trains
+G. Game On Tree
+F. Divide Powers
+E. Two Editorials
+D. Radio Towers
+C. Two Brackets
+B. Toy Blocks
+A. Robot Program
+F. Nullify The Matrix
+E2. Bitwise Queries (Hard Version)
+E1. Bitwise Queries (Easy Version)
+D. Circle Game
+C. String Equality
+B. Non-Substring Subsequence
+A. Subtract or Divide
+H2. Multithreading (Hard Version)
+H1. Multithreading (Easy Version)
+G. Communism
+F. The Struggling Contestant
+E. Capitalism
+D. Rating Compression
+C2. Errich-Tac-Toe (Hard Version)
+C1. Errich-Tac-Toe (Easy Version)
+B. Balls of Steel
+A. Avoid Trygub
+B. Numbers Box
+A. Add Candies
+F. Line Distance
+E. Long Recovery
+D2. Frequency Problem (Hard Version)
+D1. Frequency Problem (Easy Version)
+C. Xor Tree
+B. Catching Cheaters
+A. Knapsack
+B. Elimination
+A. Array Rearrangment
+E. Finding the Vertex
+D. Rectangular Polyline
+C. Team-Building
+B. Divide and Sum
+A. Division
+E. Long Permutation
+C. The Delivery Dilemma
+B. Saving the City
+A. Kids Seating
+F. Differentiating Games
+E. Black, White and Grey Tree
+D. Sum
+C. Graph Transpositions
+B. Identify the Operations
+A. Extreme Subtraction
+B. Sum of Medians
+A. Buy the String
+E. Cheat and Win
+D. INOI Final Contests
+C. Greedy Shopping
+B. Graph Subset Problem
+A2. Binary Table (Hard Version)
+A1. Binary Table (Easy Version)
+F. Olha and Igor
+E. Yurii Can Do Everything
+D. Powerful Ksenia
+C. Engineer Artem
+B. Valerii Against Everyone
+A. Specific Tastes of Andre 
+G. Death DBMS
+F. Emotional Fishermen
+E. Make It Increasing
+D. Minimal Height Tree
+C. Chef Monocarp
+B. Reverse Binary Strings
+A. Marketing Scheme
+F. Sum Over Subsets
+E. Complicated Computations
+D. Bandit in a City
+C. Binary Search
+B. Prime Square
+A. Reorder
+E. A Convex Game
+G. Reducing Delivery Cost
+F. Zero Remainder Sum 
+E. Two Round Dances
+D. Districts Connection
+C. Dominant Piranha
+B. Yet Another Bookshelf
+A. Boring Apartments
+J. Zero-XOR Array
+I. Cyclic Shifts
+H. Rogue-like Game
+G. Number Deletion Game
+F. Neural Network Problem
+E. Chess Match
+D. Used Markers
+C. Black Friday
+B. Polycarp and the Language of Gods
+A. Selling Hamburgers
+G. Yet Another DAG Problem
+F. Realistic Gameplay
+E. String Reversal
+D. String Deletion
+C. Numbers on Whiteboard
+B. Barrels
+A. Number of Apartments
+H. Rotary Laser Lock
+G2. Lucky Numbers (Hard Version)
+G1. Lucky Numbers (Easy Version)
+F. Fruit Sequences
+E. Carrots for Rabbits
+D. Bouncing Boomerangs
+C. ABBB
+B. Belted Rooms
+A. Box is Pull
+H. Prison Break
+G. One Billion Shades of Grey
+F. Boring Card Game
+E. Xum
+D. Unshuffling a Deck
+C. The Hard Work of Paparazzi
+B. Chess Cheater
+A. Avoiding Zero
+F. Number of Subsequences
+E. Rock, Paper, Scissors
+D. Non-zero Segments
+C. Increase and Copy
+B. Symmetric Matrix
+A. Floor Number
+I. Impressive Harvesting of The Orchard
+H. Huge Boxes of Animal Toys
+F. Flamingoes of Mystery
+E. Excitation of Atoms
+D. Danger of Mad Snakes
+C. Captain of Knights
+B. Blue and Red of Our Faculty!
+A. Arena of Greed
+M. Ancient Language
+G. Years
+N. BubbleSquare Tokens
+M. Milutin's Plums
+L. Light switches
+K. Lonely Numbers
+J. Bubble Cup hypothesis
+I. Lookup Tables
+H. Virus
+G. Growing flowers
+F. Coins
+E. 5G Antenna Towers
+D. Does anyone else hate the wind?
+C. Dušan's Railway
+B. Valuable Paper
+A. Wakanda Forever
+F. Boring Queries
+E. Minlexes
+D. Returning Home
+C. Bargain
+B. Nice Matrix
+A. Fence
+E. Swedish Heroes
+D. Hexagons
+C. Palindromifier
+B. Putting Bricks in the Wall
+A. XORwice
+E. Battle Lemmings
+D. Rescue Nibel!
+C2. Pokémon Army (hard version)
+C1. Pokémon Army (easy version)
+B. Rock and Lever
+A. Cubes Sorting
+F. Rain of Fire
+E. Decryption
+D2. Sage's Birthday (hard version)
+D1. Sage's Birthday (easy version)
+C. Killjoy
+B. Stairs
+A. Digit Game
+G. Three Occurrences
+F. Equal Product
+E. Expected Damage
+D. Trash Problem
+C. Mortal Kombat Tower
+B. Negative Prefixes
+A. Buying Torches
+B. Two Arrays
+A. Copy-paste
+F. Showing Off
+E. Split
+D. Graph and Queries
+C. XOR Inverse
+B. Make Them Equal
+A. k-Amazing Numbers
+F. Cakes for Clones
+E. New Game Plus!
+D. XOR-gun
+C. Bouncing Ball
+B. Repainting Street
+A. Prison Break
+F. Roads and Ramen
+E. Solo mid Oracle
+D. Shurikens
+C. Perform Easily
+B. A New Technique
+A. Finding Sasuke
+G. No Game No Life
+F. The Thorny Path
+E. Poman Numbers
+D. Grime Zoo
+C. Peaceful Rooks
+B. Fair Numbers
+A. In-game Chat
+F. Subsequences of Length Two
+E. Two Platforms
+D. Decrease the Sum of Digits
+C. Yet Another Array Restoration
+B. Minimum Product
+A. Yet Another Two Integers Problem
+I. Bitwise Magic
+H. Rainbow Triples
+G. Clusterization Counting
+F. Two Different
+E. Avoid Rainbow Cycles
+D. Searchlights
+C. Discrete Acceleration
+B. Arrays Sum
+A. Circle Coloring
+E. Egor in the Republic of Dagestan
+D. Discrete Centrifugal Jumps
+C. Chocolate Bunny
+B. Big Vova
+A. Ahahahahahahahaha
+E. Deleting Numbers
+D. Three Sequences
+C. Link Cut Centroids
+B. Maximum Product
+A. Subset Mex
+B. Array Cancellation
+A. Permutation Forgery
+E. Bricks
+D. Game of Pairs
+C. Fixed Point Removal
+B. Tree Tag
+A. Balanced Bitstring
+C. Chess Rush
+B. Spring cleaning
+A. The Potion of Great Power
+C. Star Trek
+B. Roads
+A. Fancy Fence
+F. Reverse and Swap
+E. Divide Square
+D. Maximum Distributed Tree
+C. Mere Array
+B. Ternary Sequence
+A. Distance and Axis
+G. Mercenaries
+F. x-prime Substrings
+E. Clear the Multiset
+D. Zigzags
+C. Binary String Reconstruction
+B. RPG Protagonist
+A. String Similarity
+F. Yet Another Segments Subset
+E2. Weights Division (hard version)
+E1. Weights Division (easy version)
+D. Binary String To Subsequences
+C. Boats Competition
+B. Gifts Fixing
+A. Remove Smallest
+G. Running Competition
+F. Controversial Rounds
+E. Two Types of Spells
+D. Colored Rectangles
+C. Good Subarrays
+B. Substring Removal Game
+A. Bad Triangle
+B. Power Sequence
+A. Juggling Letters
+E. Distance Matching
+D. Rainbow Rectangles
+C. Monster Invaders
+B. Stoned Game
+A. Multiples of Length
+C. Boboniu and Bit Operations
+B. Boboniu Plays Chess
+A. Boboniu Likes to Color Balls
+E. Boboniu and Banknote Collection
+D. Boboniu and Jianghu
+C. Boboniu and String
+B. Boboniu Walks on Graph
+A. Boboniu Chats with Du
+E2. Twilight and Ancient Scroll (harder version)
+E1. Twilight and Ancient Scroll (easier version)
+D. Rarity and New Dress
+C. Pinkie Pie Eats Patty-cakes
+B. Applejack and Storages
+A. Rainbow Dash, Fluttershy and Chess Coloring
+I. Kevin and Grid
+H. ZS Shuffles Cards
+G. Omkar and Pies
+F. Omkar and Landslide
+E. Omkar and Duck
+D. Omkar and Bed Wars
+C. Omkar and Waterslide
+B. Omkar and Infinity Clock
+A. Omkar and Password
+E. Pairs of Pairs
+D. 505
+C. Cyclic Permutations 
+B. Fix You
+A. Suborrays
+G. Directing Edges
+F. Bicolored Segments
+E. Calendar Ambiguity
+D. Segment Intersections
+C. Good String
+B. Array Walk
+A. LCM Problem
+E. Uncle Bogdan and Projections
+D. Captain Flint and Treasure
+C. Uncle Bogdan and Country Happiness
+B. Captain Flint and a Long Voyage
+A. Captain Flint and Crew Recruitment
+C. Viruses
+B2. Village (Maximum)
+B1. Village (Minimum)
+A. Graph
+C. Joker
+B. Mixture
+A. Colors
+G. Columns Swaps
+F. Removing Leaves
+E. Directing Edges
+D. a-Good String
+C. Make It Good
+B. Restore the Permutation by Merger
+A. Three Pairwise Maximums
+B2. Koa and the Beach (Hard Version)
+B1. Koa and the Beach (Easy Version)
+A. Common Prefixes
+F. Special Edges
+E. Strange Operation
+D. Rearrange
+C. String Transformation 2
+B. GameGame
+A. String Transformation 1
+B. Sequential Nim
+A. Common Subsequence
+E. Origami
+D. The Majestic Brown Tree Snake
+C. Mastermind
+B. Unmerge
+A2. Prefix Flip (Hard Version)
+A1. Prefix Flip (Easy Version)
+G. Circular Dungeon
+F. Strange Addition
+E. Merging Towers
+D. Berserk And Fireball
+C. Create The Teams
+B. Universal Solution
+A. Three Indices
+F2. Chess Strikes Back (hard version)
+F1. Chess Strikes Back (easy version)
+E. Inverse Genealogy
+D. New Passenger Trams
+C. Choosing flowers
+B. Dubious Cyrpto
+A. Acacius and String
+I. Cubic Lattice
+H. Set Merging
+G. Tree Modification
+F. Integer Game
+E. Inversion SwapSort
+D. Replace by MEX
+C. Element Extermination
+B. Neighbor Grid
+A. Sign Flipping
+F. Cyclic Shifts Sorting
+E2. Reading Books (hard version)
+E1. Reading Books (easy version)
+D. Zero Remainder Array
+C. Move Brackets
+B. Multiply by 2, divide by 6
+A. Required Remainder
+G. Pawns
+F. Network Coverage
+E. Sum of Digits
+D. Maximum Sum on Even Positions
+C. Pluses and Minuses
+B. 01 Game
+A. Donut Shops
+F. Omkar and Modes
+E. Omkar and Last Floor
+D. Omkar and Circle
+C. Omkar and Baseball
+B. Omkar and Last Class of Math
+A. Omkar and Completion
+F. Raging Thunder
+E2. Asterism (Hard Version)
+E1. Asterism (Easy Version)
+D. Grid-00100
+C. A Cookie for You
+B. Magical Calendar
+A. Magical Sticks
+F2. The Hidden Pair (Hard Version)
+F1. The Hidden Pair (Easy Version)
+E. Binary Subsequence Rotation
+D. Odd-Even Subsequence
+C. Number Game
+B. GCD Compression
+A. Maximum GCD
+F. BareLee
+E. DeadLee
+D. TediousLee
+C. RationalLee
+B. AccurateLee
+A. FashionabLee
+H2. Breadboard Capacity (hard version)
+H1. Breadboard Capacity (easy version)
+G. Shifting Dominoes
+F. Lamps on a Circle
+E. Ski Accidents
+D. AND, OR and square sum
+C. Even Picture
+B. Codeforces Subsequences
+A. C+=
+F2. Flying Sort (Hard Version)
+F1. Flying Sort (Easy Version)
+E. Necklace Assembly
+D. Task On The Board
+C. Social Distance
+B. Even Array
+A. Short Substrings
+G. Construct the String
+F. Jog Around The Graph
+E. Two Arrays
+D. Two Divisors
+C. Palindromic Paths
+B. Shuffle
+A. Shovels and Swords
+G. Secure Password
+F. Swaps Again
+E. Maximum Subsequence Value
+D. Solve The Maze
+C. Rotation Matching
+B. Trouble Sort
+A. Matrix Game
+E. X-OR
+D. Ehab's Last Corollary
+C. Ehab and Prefix MEXs
+B. Most socially-distanced subsequence
+A. XXXXX
+F. Rotating Substrings
+E. Tree Shuffling
+D. Guess The Maximums
+C. Game On Leaves
+B. Subsequence Hate
+A. Odd Selection
+C. Johnny and Another Rating Drop
+B. Johnny and His Hobbies
+A. Johnny and Ancient Computer
+F. Johnny and New Toy
+E. James and the Chase
+D. Johnny and James
+C. Johnny and Megan's Necklace
+B. Johnny and Grandmaster
+A. Johnny and Contribution
+H. Binary Median
+G. A/B Matrix
+F. Spy-string
+E. Polygon
+D. Buying Shovels
+C. Similar Pairs
+B. Honest Coach
+A. Minimal Square
+F. RC Kaboom Show
+E. Modular Stability
+D. Yet Another Yet Another Task
+C. Mixing Water
+B. New Theatre Square
+A. Berland Poker
+F. Tasty Cookie
+E. Are You Fired?
+D. The Best Vacation
+C. Celex Update
+B. Maria Breaks the Self-isolation
+A. Park Lighting
+E2. Root of quantum Fourier transform
+E1. Power of quantum Fourier transform
+D5. Quantum Classification - Dataset 7
+D4. Quantum Classification - Dataset 6
+D3. Quantum Classification - Dataset 5
+D2. Quantum Classification - Dataset 4
+D1. Quantum Classification - Dataset 3
+C2. Prepare superposition of basis states with the same parity
+C1. Prepare superposition of basis states with 0s
+B2. "Is the number divisible by 3?" oracle
+B1. "Is the bit string balanced?" oracle
+A7. Distinguish Y, XZ, -Y and -XZ
+A6. Distinguish four Pauli gates
+A5. Distinguish Rz(θ) from Ry(θ)
+A4. Distinguish Rz from R1
+A3. Distinguish H from X
+A2. Distinguish I, CNOTs and SWAP
+A1. Figure out direction of CNOT
+D2. Quantum Classification - 2
+D1. Quantum Classification - 1
+C. Prepare state |01⟩ + |10⟩ + |11⟩
+B2. Decrement
+B1. Increment
+A5. Distinguish Z from -Z
+A4. Distinguish I ⊗ X from CNOT
+A3. Distinguish Z from S
+A2. Distinguish I from Z
+A1. Distinguish I from X
+F. Guess Divisors Count
+E. Restorer Distance
+D. Game With Array
+C. Count Triangles
+B. Young Explorers
+A. Sequence with Digits
+G. Find a Gift
+F. Summoning Minions
+E. Graph Coloring
+D. Multiset
+C2. Not So Simple Polygon Embedding
+C1. Simple Polygon Embedding
+B. Ternary String
+A. Alarm Clock
+F. Decreasing Heights
+E. K-periodic Garland
+D. Constructing the Array
+C. Board Moves
+B. Two Arrays And Swaps
+A. Most Unstable Array
+G. Special Permutation
+F. Binary String Reconstruction
+E. Special Elements
+D. Alice, Bob and Candies
+C. K-th Not Divisible by n
+B. Same Parity Summands
+A. Sum of Round Numbers
+C. Skier
+B. Square?
+A. A+B (Trial Problem)
+B. Orac and Models
+A. Orac and Factors
+F2. Slime and Sequences (Hard Version)
+F1. Slime and Sequences (Easy Version)
+E. Slime and Hats
+D. Slime and Biscuits
+C. Orac and Game of Life
+B. Orac and Medians
+A. Orac and LCM
+F. Phoenix and Memory
+E. Phoenix and Berries
+D. Phoenix and Science
+C. Phoenix and Distribution
+B. Phoenix and Beauty
+A. Phoenix and Balance
+I. Pac-Man 2.0
+H. Game with Segments
+G. Two IP Cameras
+F. Dune II: Battle For Arrakis
+E. Magic Tricks
+D. Constructing the Dungeon
+C. Spring Cleaning
+B. Boot Camp
+A. Color Revolution
+B. Card Constructions
+A. Puzzle Pieces
+F. Piet's Palette
+E. Train Tracks
+D. Résumé Review
+C. Quantifier Question
+B. Monopole Magnets
+A. Hilbert's Hotel
+F. Restore the Permutation by Sorted Segments
+E. Weights Distributing
+D. Constant Palindrome Sum
+C. Alternating Subsequence
+B. Balanced Array
+A. Candies
+F. Make It Ascending
+E. Placing Rooks
+D. Multiple Testcases
+C. Yet Another Counting Problem
+B. Binary Period
+A. Road To Zero
+B. Nastya and Door
+A. Nastya and Rice
+F. Nastya and CBS
+E. Nastya and Bees
+D. Nastya and Time Machine
+C. Nastya and Unexpected Guest
+B. Nastya and Scoreboard
+A. Nastya and Strange Generator
+B. Sorted Adjacent Differences
+A. Filling Diamonds
+E. JYPnation
+D. Nested Rubber Bands
+C. Perfect Triples
+B. Edge Weight Assignment
+A. Powered Addition
+B. Kana and Dragon Quest game
+A. Ichihime and Triangle
+F. Journey
+E2. Chiori and Doll Picking (hard version)
+E1. Chiori and Doll Picking (easy version)
+D. Yui and Mahjong Set
+C. Kaavi and Magic Spell
+B. Xenia and Colorful Gems
+A. Linova and Kingdom
+F. Robots on a Grid
+E2. Three Blocks Palindrome (hard version)
+E1. Three Blocks Palindrome (easy version)
+D. Anti-Sudoku
+C. Two Teams Composing
+B. Construct the String
+A. Candies and Two Sisters
+G. Substring Search
+F. Strange Function
+E. Divisor Paths
+D. Minimum Euler Cycle
+C. Circle of Monsters
+B. Middle Class
+A. Level Statistics
+F. Kate and imperfection
+E. Road to 1600
+D. Challenges in school №41
+C. Eugene and an array
+B. Kind Anton
+A. Little Artem
+G. No Monotone Triples
+F. Independent Set
+E. Height All the Same
+D. Walk on Matrix
+C. K-Complete Word
+B. Composite Coloring
+A. Exercising Walk
+H. It's showtime
+G. Lingua Romana
+F. Elementary!
+E. Jordan Smiley
+D. Again?
+C. ...And after happily lived ever they
+B. Limericks
+A. Is it rated?
+B. Dreamoon Likes Permutations
+A. Dreamoon and Ranking Collection
+E. Dreamoon Loves AA
+D. Dreamoon Likes Strings
+C. Drazil Likes Heap
+B. Dreamoon Likes Sequences
+A. Dreamoon Likes Coloring
+F. Make k Equal
+E. Tree Queries
+D. Carousel
+C. Ternary XOR
+B. K-th Beautiful String
+A. Divisibility Problem
+G. Letters and Question Marks
+F. AND Segments
+E. Count The Blocks
+D. Infinite Path
+C. Game with Chips
+B. Princesses and Princes
+A. Sum of Odd Integers
+G. Spiderweb Trees
+F2. Wise Men (Hard Version)
+F1. Wise Men (Easy Version)
+E. Bombs
+D2. Prefix-Suffix Palindrome (Hard version)
+D1. Prefix-Suffix Palindrome (Easy version)
+C. Permutation Partitions
+B. Maximums
+A. Bad Ugly Numbers
+F. Ehab's Last Theorem
+E. Ehab's REAL Number Theory Problem
+D. Ehab the Xorcist
+C. Ehab and Path-etic MEXs
+B. CopyCopyCopyCopyCopy
+A. EhAb AnD gCd
+F. Maximum White Subtree
+E. Sleeping Schedule
+D. Pair of Topics
+C. Frog Jumps
+B. Yet Another Palindrome Problem
+A. Yet Another Tetris Problem
+B. Count Subrectangles
+A. Even Subset Sum Problem
+F. Assigning Fares
+E. Median Mountain Range
+D. Reality Show
+C. Instant Noodles
+B. Present
+A. Unusual Competitions
+C. Remove Adjacent
+A. Contest for Robots
+F. Blocks and Sensors
+E. Treeland and Viruses
+D. Reachable Strings
+C. World of Darkraft: Battle for Azathoth
+B. Navigation System
+A. Journey Planning
+F. Battalion Strength
+E. Team Building
+D. Nash Matrix
+C. Primitive Primes
+B. String Modification
+A. Grade Allocation
+C. Restoring Permutation
+B. Homecoming
+A. Dead Pixel
+E. Concatenation with intersection
+D. Happy New Year
+C2. Skyscrapers (hard version)
+C1. Skyscrapers (easy version)
+B. Different Rules
+A. Fast Food Restaurant
+G. Autocompletion
+F. Attack on Red Kingdom
+E. Array Shrinking
+D. Count the Arrays
+C. Adding Powers
+B. Bogosort
+A. Two Regular Polygons
+F. Moving Points
+E. Construct the Binary Tree
+D. Three Integers
+C. Perform the Combo
+B. WeirdSort
+A. Add Odd or Subtract Even
+F. Bad Cryptography
+E. Strange Function
+D. Tourism
+C. Au Pont Rouge
+B. Double Elimination
+A. Recommendations
+G. Cow and Exercise
+F. Cow and Vacation
+E. Cow and Treats
+D. Cow and Fields
+C. Cow and Message
+B. Cow and Friend
+A. Cow and Haybales
+H. Kuroni the Private Tutor
+G. Kuroni and Antihype
+F. Kuroni and the Punishment
+E. Kuroni and the Score Distribution
+D. Kuroni and the Celebration
+C. Kuroni and Impossible Calculation
+B. Kuroni and Simple Strings
+A. Kuroni and the Gifts
+F2. Animal Observation (hard version)
+F1. Animal Observation (easy version)
+E. 1-Trees and Queries
+D. Shortest and Longest LIS
+C. Air Conditioner
+B. Longest Palindrome
+A. Two Rabbits
+G. Sum of Prefix Sums
+F. Number of Components
+E. Erase Subsequences
+D. Fill The Bag
+C. Perfect Keyboard
+B. National Project
+A. Erasing Zeroes
+J. Keep talking and nobody explodes – hard
+I. Deja vu
+H. Who needs suffix structures?
+G. Keep talking and nobody explodes – medium
+F. Keep talking and nobody explodes – easy
+E. Amazing bitset
+D. Dijkstra
+C. Segment tree or Fenwick?
+B. DAG
+A. Nash equilibrium
+F. Super Jaber
+E. Nanosoft
+D. Time to Run
+C. Ayoub's function
+B. Motarack's Birthday
+A. Three Strings
+B. Assigning to Classes
+A. Non-zero
+E. So Mean
+D. Around the World
+C. Water Balance
+B. Aerodynamic
+A. Anu Has a Function
+I. Falling Blocks
+H. Paint the String
+G. M-numbers
+F. Movie Fan
+E. Modernization of Treeland
+D. Bonus Distribution 
+C. Dream Team
+B. Cartoons
+A. Likes Display
+F. Berland Beauty
+E2. String Coloring (hard version)
+E1. String Coloring (easy version)
+D. Fight with Monsters
+C. Yet Another Walking Robot
+B. Food Buying
+A. Array with Odd Sum
+F. Good Contest
+E. Permutation Separation
+D. Same GCDs
+C. Obtain The String
+B. Infinite Prefixes
+A. Display The Number
+F. Three Paths on a Tree
+E. Obtain a Permutation
+D. MEX maximizing
+C. Product of Three Numbers
+B. Collecting Packages
+A. Collecting Coins
+B. JOE is on TV!
+A. ConneR and the A.R.C. Markland-N
+F. Nora's Toy Boxes
+E. Rin and The Unknown Flower
+D. Chaotic V.
+C. Xenon's Attack on the Gangs
+B. Aroma's Search
+A. NEKO's Maze Game
+F. Coffee Varieties (easy version)
+B. Array Sharpening
+A. Even But Not Even
+F. Making Shapes
+E. Cartesian Tree 
+D. Coffee Varieties (hard version)
+C. Prefix Enlightenment
+B. Irreducible Anagrams
+A. Mind Control
+F. Red-Blue Graph
+E. Messenger Simulator
+D. Minimax Problem
+C. Two Arrays
+B. Yet Another Meme Problem
+A. Deadline
+B. Hyperset
+A. Angry Students
+F. Harry The Potter
+E. Fedya the Potter Strikes Back
+D. LCC
+C2. Madhouse (Hard version)
+C1. Madhouse (Easy version)
+B. Numbers on Tree
+A. Garland
+F. Classical?
+E. Delete a Segment
+D. Dr. Evil Underscores
+C. Fadi and LCM
+B. Just Eat It!
+A. Mezo Playing Zoma
+G. Seollal
+F. New Year and Social Network
+E. New Year and Castle Construction
+D. New Year and Conference
+C. New Year and Permutation
+B. New Year and Ascent Sequence
+A. New Year and Naming
+F. DIY Garland
+E. New Year Parties
+D. Christmas Trees
+C. Friends and Gifts
+B. Candies Division
+A. Minutes Before the New Year
+E. The Cake Is a Lie
+D. Enchanted Artifact
+C. Petya and Exam
+B2. K for the Price of One (Hard Version)
+B1. K for the Price of One (Easy Version)
+A. Temporarily unavailable
+B. Azamon Web Services
+A. Suffix Three
+F. Intergalactic Sliding Puzzle
+E. Kirchhoff's Current Loss
+D. Miss Punyverse
+C. Jeremy Bearimy
+B. Beingawesomeism
+A. Cut and Paste
+F. New Year and Handle Change
+E. New Year Permutations
+D. Santa's Bot
+C. Stack of Presents
+B. Verse For Santa
+A. New Year Garland
+F. Cards
+E. Tests for problem D
+D. Segment Tree
+C. Berry Jam
+B. A and B
+A. Shuffle Hashing
+D. Let's Play the Words?
+B. Make Them Odd
+A. Happy Birthday, Polycarp!
+F. Asterisk Substrings
+E. Four Stones
+D. Tree Elimination
+C. Beautiful Rectangle
+B. Two Fairs
+A. As Simple as One and Two
+F. Шардирование постовограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводЭто интерактивная задача.Когда данных становится слишком много и они не помещаются на один сервер, их приходится шардировать. Рассмотрим систему хранения постов пользователей, которая расположена на $$$S$$$ серверах, нумеруемых с единицы. Каждый раз когда пользователь пишет пост, ему выдается уникальный идентификатор в пределах от 1 до $$$10^{18}$$$ и сохраняется на случайный сервер. Чем позже был создан пост, тем больше его $$$id$$$. Иногда посты удаляются, поэтому на серверах может лежать существенно разное количество постов.Рассмотрим все неудаленные $$$id$$$ постов пользователя и отсортируем их по возрастанию. Вам хочется узнать $$$k$$$-й из них. Для этого вы можете послать не более 100 дополнительных запросов. Каждый запрос имеет формат «? $$$i$$$ $$$j$$$». В ответ вы получите идентификатор $$$j$$$-го по возрастанию поста пользователя среди хранящихся на $$$i$$$-м сервере. Когда вы считаете, что знаете $$$k$$$-й по возрастанию идентификатор, вместо запроса необходимо вывести ответ в формате «! $$$id$$$». Протокол взаимодействияВ первой строке записано два числа $$$n$$$ и $$$S$$$ ($$$1 \le n \le 100, 1 \le S \le 5$$$) — количество пользователей для которых необходимо независимо решить задачу, а также количество серверов, на которых хранятся посты.Далее необходимо $$$n$$$ раз решить задачу. Вначале необходимо считать $$$S$$$ чисел $$$a_1, a_2, ... a_S$$$ ($$$0 \le a_i; \sum a_i \le 10^5$$$) — количество постов пользователя на каждом сервере. В следующей строке будет задано число $$$k$$$ ($$$1 \le k \le \sum a_i $$$) — идентификатор какого по возрастанию поста необходимо узнать.Далее необходимо совершить не более 100 запросов в формате, который описан в условии.Заметим, что ограничение на количество запросов действует на каждого пользователя отдельно, поэтому при переходе к следующему тесту счетчик вопросов сбрасывается.ПримерВходные данные 1 2 3 2 3 3 5 10Выходные данные ? 1 2 ? 2 1 ? 1 3 ! 5 ПримечаниеВ примере на первом сервере хранятся посты с $$$id$$$ 1, 3 и 10. А на втором 5 и 7. Необходимо найти третье по возрастанию число, это 5. 
+E3. Контрольная суммаограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводДанные пользователей ВКонтакте хранятся на десятках тысяч серверов. Для того, чтобы можно было определять ошибки при записи данных на диск, на диск регулярно записываются текущие контрольные суммы CRC32 (Wiki, IEEE 802-3). Благодаря этому, при чтении данных можно заново вычислить контрольную сумму и проверить, что данные и контрольная сумма записаны корректно. Разумеется, проверки на совпадение контрольной суммы встроены в большинство сервисов ВКонтакте. Но как-то раз оказалось, что в одном сегменте данных нужно изменить значение четырех последовательных байт на новое — нужно заменить значения последовательности $$$a_i, a_{i+1}, a_{i+2}, a_{i+3}$$$ на $$$x_0, x_1, x_2, x_3$$$. При этом, нужно чтобы значение контрольной суммы CRC32 осталось прежним. Конечно, при изменении последовательности ее контрольная сумма изменится, поэтому кроме изменения этих четырех байт на новое значение, были выбраны четыре байта $$$a_{j}, a_{j+1}, a_{j+2}, a_{j+3}$$$, которым можно назначить любое значение. Ваша задача выбрать им новые значения так, чтобы CRC32 данной последовательности не изменился, или определить, что это невозможно. Поскольку изменение данных — операция серьезная, перед самим изменением нужно определить, как изменится последовательность для $$$q$$$ независимых тестовых случаев.Входные данныеВ первой строке дано два целых числа $$$n$$$ и $$$q$$$ — количество байт в файле и количество запросов, для которых нужно решить задачу ($$$8 \le n \le 2 \cdot 10^5$$$; $$$1 \le q \le 10^5$$$).Во второй строке дано $$$n$$$ чисел $$$a_0, a_1, \ldots, a_{n-1}$$$ — содержимое файла в байтах ($$$0 \le a_i \le 255$$$).В следующих $$$q$$$ строках дано по шесть чисел $$$i, j, x_0, x_1, x_2, x_3$$$ — позиция $$$i$$$, начиная с которой нужно заменить четыре байта на $$$x_0, x_1, x_2, x_3$$$, и позиция $$$j$$$, начиная с которой можно менять четыре байта как угодно ($$$0 \le i, j \le n-4$$$; $$$0 \le x_0, x_1, x_2, x_3 \le 255$$$). Гарантируется, что отрезки $$$[i; i+3]$$$ и $$$[j; j+3]$$$ не пересекаются.Выходные данныеДля каждого запроса выведите четыре целых числа $$$z_0, z_1, z_2, z_3$$$, на которые нужно заменить четыре байта с номерами $$$j, j+1, j+2, j+3$$$, чтобы crc32 не изменился. Обратите внимание, что все запросы независимы, и на самом деле последовательность не изменяется.Если существует несколько решений, выведите любое, а если для данного запроса валидного решения нет, выведите No solution.ПримерыВходные данные 8 1 1 2 3 4 5 6 7 8 0 4 0 0 0 0 Выходные данные 212 34 127 159 Входные данные 16 3 4 5 6 7 0 0 0 0 0 0 0 85 200 47 47 0 11 0 0 0 0 0 3 12 7 0 0 0 0 11 0 0 0 0 Выходные данные 0 0 0 0 200 47 47 0 0 0 0 0 ПримечаниеCRC32 байтовой последовательности из первого примера (1 2 3 4 5 6 7 8) равен 3fca88c5, CRC32 измененной последовательности (0 0 0 0 212 34 127 159) так же равен 3fca88c5. Стандартная утилита crc32 из большинства дистрибутивов линукса должна посчитать от них данную контрольную сумму.CRC32 последовательности из второго примера равен ecbb4b55. 
+E2. Контрольная суммаограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводДанные пользователей ВКонтакте хранятся на десятках тысяч серверов. Для того, чтобы можно было определять ошибки при записи данных на диск, на диск регулярно записываются текущие контрольные суммы CRC32 (Wiki, IEEE 802-3). Благодаря этому, при чтении данных можно заново вычислить контрольную сумму и проверить, что данные и контрольная сумма записаны корректно. Разумеется, проверки на совпадение контрольной суммы встроены в большинство сервисов ВКонтакте. Но как-то раз оказалось, что в одном сегменте данных нужно изменить значение четырех последовательных байт на новое — нужно заменить значения последовательности $$$a_i, a_{i+1}, a_{i+2}, a_{i+3}$$$ на $$$x_0, x_1, x_2, x_3$$$. При этом, нужно чтобы значение контрольной суммы CRC32 осталось прежним. Конечно, при изменении последовательности ее контрольная сумма изменится, поэтому кроме изменения этих четырех байт на новое значение, были выбраны четыре байта $$$a_{j}, a_{j+1}, a_{j+2}, a_{j+3}$$$, которым можно назначить любое значение. Ваша задача выбрать им новые значения так, чтобы CRC32 данной последовательности не изменился, или определить, что это невозможно. Поскольку изменение данных — операция серьезная, перед самим изменением нужно определить, как изменится последовательность для $$$q$$$ независимых тестовых случаев.Обратите внимание, что в этой версии задачи есть всего один тест с $$$n=50\,000, q=8$$$, который вы можете скачать по этой ссылке. Ваше решение не обязано проходить тесты из условия, и не будет на них протестировано. Если вы хотите проверить ваше решение на тестах из условия, отправляйте его в задачу E3, где первые два теста соответствуют примерам из условия.Входные данныеВ первой строке дано два целых числа $$$n$$$ и $$$q$$$ — количество байт в файле и количество запросов, для которых нужно решить задачу ($$$8 \le n \le 2 \cdot 10^5$$$; $$$1 \le q \le 10^5$$$).Во второй строке дано $$$n$$$ чисел $$$a_0, a_1, \ldots, a_{n-1}$$$ — содержимое файла в байтах ($$$0 \le a_i \le 255$$$).В следующих $$$q$$$ строках дано по шесть чисел $$$i, j, x_0, x_1, x_2, x_3$$$ — позиция $$$i$$$, начиная с которой нужно заменить четыре байта на $$$x_0, x_1, x_2, x_3$$$, и позиция $$$j$$$, начиная с которой можно менять четыре байта как угодно ($$$0 \le i, j \le n-4$$$; $$$0 \le x_0, x_1, x_2, x_3 \le 255$$$). Гарантируется, что отрезки $$$[i; i+3]$$$ и $$$[j; j+3]$$$ не пересекаются.Выходные данныеДля каждого запроса выведите четыре целых числа $$$z_0, z_1, z_2, z_3$$$, на которые нужно заменить четыре байта с номерами $$$j, j+1, j+2, j+3$$$, чтобы crc32 не изменился. Обратите внимание, что все запросы независимы, и на самом деле последовательность не изменяется.Если существует несколько решений, выведите любое, а если для данного запроса валидного решения нет, выведите No solution.ПримерыВходные данные 8 1 1 2 3 4 5 6 7 8 0 4 0 0 0 0 Выходные данные 212 34 127 159 Входные данные 16 3 4 5 6 7 0 0 0 0 0 0 0 85 200 47 47 0 11 0 0 0 0 0 3 12 7 0 0 0 0 11 0 0 0 0 Выходные данные 0 0 0 0 200 47 47 0 0 0 0 0 ПримечаниеCRC32 байтовой последовательности из первого примера (1 2 3 4 5 6 7 8) равен 3fca88c5, CRC32 измененной последовательности (0 0 0 0 212 34 127 159) так же равен 3fca88c5. Стандартная утилита crc32 из большинства дистрибутивов линукса должна посчитать от них данную контрольную сумму.CRC32 последовательности из второго примера равен ecbb4b55. 
+E1. Контрольная суммаограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводДанные пользователей ВКонтакте хранятся на десятках тысяч серверов. Для того, чтобы можно было определять ошибки при записи данных на диск, на диск регулярно записываются текущие контрольные суммы CRC32 (Wiki, IEEE 802-3). Благодаря этому, при чтении данных можно заново вычислить контрольную сумму и проверить, что данные и контрольная сумма записаны корректно. Разумеется, проверки на совпадение контрольной суммы встроены в большинство сервисов ВКонтакте. Но как-то раз оказалось, что в одном сегменте данных нужно изменить значение четырех последовательных байт на новое — нужно заменить значения последовательности $$$a_i, a_{i+1}, a_{i+2}, a_{i+3}$$$ на $$$x_0, x_1, x_2, x_3$$$. При этом, нужно чтобы значение контрольной суммы CRC32 осталось прежним. Конечно, при изменении последовательности ее контрольная сумма изменится, поэтому кроме изменения этих четырех байт на новое значение, были выбраны четыре байта $$$a_{j}, a_{j+1}, a_{j+2}, a_{j+3}$$$, которым можно назначить любое значение. Ваша задача выбрать им новые значения так, чтобы CRC32 данной последовательности не изменился, или определить, что это невозможно. Поскольку изменение данных — операция серьезная, перед самим изменением нужно определить, как изменится последовательность для $$$q$$$ независимых тестовых случаев.Обратите внимание, что в этой версии задачи есть всего один тест с $$$n=16, q=8$$$, который вы можете скачать по этой ссылке. Ваше решение не обязано проходить тесты из условия, и не будет на них протестировано. Если вы хотите проверить ваше решение на тестах из условия, отправляйте его в задачу E3, где первые два теста соответствуют примерам из условия.Входные данныеВ первой строке дано два целых числа $$$n$$$ и $$$q$$$ — количество байт в файле и количество запросов, для которых нужно решить задачу ($$$8 \le n \le 2 \cdot 10^5$$$; $$$1 \le q \le 10^5$$$).Во второй строке дано $$$n$$$ чисел $$$a_0, a_1, \ldots, a_{n-1}$$$ — содержимое файла в байтах ($$$0 \le a_i \le 255$$$).В следующих $$$q$$$ строках дано по шесть чисел $$$i, j, x_0, x_1, x_2, x_3$$$ — позиция $$$i$$$, начиная с которой нужно заменить четыре байта на $$$x_0, x_1, x_2, x_3$$$, и позиция $$$j$$$, начиная с которой можно менять четыре байта как угодно ($$$0 \le i, j \le n-4$$$; $$$0 \le x_0, x_1, x_2, x_3 \le 255$$$). Гарантируется, что отрезки $$$[i; i+3]$$$ и $$$[j; j+3]$$$ не пересекаются.Выходные данныеДля каждого запроса выведите четыре целых числа $$$z_0, z_1, z_2, z_3$$$, на которые нужно заменить четыре байта с номерами $$$j, j+1, j+2, j+3$$$, чтобы crc32 не изменился. Обратите внимание, что все запросы независимы, и на самом деле последовательность не изменяется.Если существует несколько решений, выведите любое, а если для данного запроса валидного решения нет, выведите No solution.ПримерыВходные данные 8 1 1 2 3 4 5 6 7 8 0 4 0 0 0 0 Выходные данные 212 34 127 159 Входные данные 16 3 4 5 6 7 0 0 0 0 0 0 0 85 200 47 47 0 11 0 0 0 0 0 3 12 7 0 0 0 0 11 0 0 0 0 Выходные данные 0 0 0 0 200 47 47 0 0 0 0 0 ПримечаниеCRC32 байтовой последовательности из первого примера (1 2 3 4 5 6 7 8) равен 3fca88c5, CRC32 измененной последовательности (0 0 0 0 212 34 127 159) так же равен 3fca88c5. Стандартная утилита crc32 из большинства дистрибутивов линукса должна посчитать от них данную контрольную сумму.CRC32 последовательности из второго примера равен ecbb4b55. 
+D. Storage2ограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводДля надежного, но компактного хранения картинок во ВКонтакте используются избыточные коды. Все картинки разбиваются на группы по 15, и для каждой группы картинок вычисляются 13 избыточных кодов. Избыточные коды необходимы, чтобы суметь восстановить некоторые картинки, если они будут утеряны вследствие поломки жесткого диска.Перед вычислением избыточных кодов 15 картинок из одной группы записываются в матрицу из 3 строк и 5 столбцов. Далее к получившейся матрице справа добавляются два столбца с 6 избыточными кодами (каждая пара кодов вычисляется на основе картинок в той же строке), а затем снизу добавляется еще одна строка из 7 избыточных кодов (каждый из них считается на основе картинок или избыточных кодов в том же столбце).Будем называть картинки и избыточные коды блоками. Таким образом, из 15 картинок мы получили 28 блоков, расставленных в виде матрицы 4 на 7. В данной задаче вам не будут даны формулы вычисления избыточных кодов, но даны их свойства: а именно по 3 любым блокам из одного столбца можно однозначно восстановить утерянный четвертый блок в том же столбце, а также по 5 любым блокам из одной строки можно однозначно восстановить оставшиеся два из той же строки, если они были утеряны. Естественно, операцию восстановления можно применять несколько раз к разным строкам и столбцам в любом порядке, а также в следующих операциях использовать блоки, восстановленные ранее.Пусть у вас есть 28 блоков (15 картинок и 13 избыточных кодов), и вы потеряли случайные $$$k$$$ из них (равновероятно среди всех вариантов). Ваша задача посчитать вероятность, что хотя бы одну из 15 картинок будет невозможно восстановить, а также матожидание количества потерянных картинок.Входные данныеВ единственной строке входных данных записано целое число $$$k$$$ ($$$0 \le k \le 28$$$) — количество потерянных блоков.Выходные данныеВыведите два числа — вероятность, что хотя бы одну картинку невозможно восстановить из оставшихся блоков, и матожидание количества картинок, которые невозможно восстановить из оставшихся блоков.Ответы будут считаться корректными, если их абсолютная или относительная погрешность не превосходит $$$10^{-9}$$$.ПримерыВходные данные 28 Выходные данные 1.00000000000000000000 15.00000000000000000000 Входные данные 6 Выходные данные 0.00055741360089186175 0.00179168657429526999 ПримечаниеВ первом примере утеряны все 28 блоков, очевидно, с 100% вероятностью потеряны все 15 картинок.Во втором примере только в 210 случаев из 376740 будет невозможно восстановить хотя бы одну картинку, поэтому вероятность $$$210/376740$$$. В зависимости от расположения утерянных блоков будет невозможно восстановить от 1 до 6 картинок, матожидание равно $$$15/8372$$$.Приведены два возможных способа потерять 6 блоков.На первом случае утеряны 3 картинки и 3 избыточных кода (отмечены крестиками). Вначале мы можем восстановить один утерянный блок в первой строке (используя 5 других из этой же строки) и восстановить два утерянных блока в четвертой строке (используя 5 других из той же строки). Затем мы можем восстановить три оставшихся блока (используя 3 других блока из соответствующих столбцов). Заметим, что при восстановлении по столбцу мы использовали в том числе и восстановленные на первом шаге блоки. Таким образом, нам удалось восстановить все блоки и не было потеряно ни одной картинки.На втором случае утеряны 4 картинки и 2 избыточных кода. Во второй и третьей строках по три утерянных блока, а значит мы не можем однозначно восстановить ни один из блоков в них. Аналогично, в третьем, пятом и седьмом столбцах по два утерянных блока, а значит мы не можем однозначно восстановить ни один из блоков в них. В остальных строках и столбцах все блоки остались целыми, восстанавливать нечего. Таким образом, нам не удастся восстановить ни один из шести утерянных блоков, но только из четыре из них были картинками. 
+C. #define Задача B ...ограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводКомпания «ВКонтакте» активно использует языки C/C++ для разработки движков. Старший разработчик Вася — большой любитель языка C, ведь только в нем можно полностью раскрыть потенциал Define-Oriented Programming. В языке C директива #define позволяет сделать прямую подстановку куска кода в любое место программы. Например, при исполнении следующего кода значение переменной $$$v$$$ будет равно $$$11$$$ (в переменную $$$v$$$ запишется результат выражения $$$3 + 4 \cdot 2$$$).#define add(x) + x#define mul(y) * yint v = 3 add(4) mul(2);Недавно Вася написал небольшую программу, которая заполняет массив большой длины. Программа выглядит следующим образом:#define A0(x) x,#define A1(x) A0(x) A0(x + 1) A0(x + 3) A0(x + 4)#define A2(x) A1(x) A1(x + 1) A1(x + 3) A1(x + 4)#define A3(x) A2(x) A2(x + 1) A2(x + 3) A2(x + 4)#define A4(x) A3(x) A3(x + 1) A3(x + 3) A3(x + 4)...#define A24(x) A23(x) A23(x + 1) A23(x + 3) A23(x + 4)#define A25(x) A24(x) A24(x + 1) A24(x + 3) A24(x + 4)const long long values[1125899906842624] = { A25(0) };К сожалению, его программа не компилируется в силу несовершенства его компьютера, но ему очень интересно знать, какие значения лежали бы в массиве $$$values$$$, если бы ему удалось скомпилировать и запустить программу. Помогите ему это узнать.Входные данныеВ первой строке дано одно целое число $$$n$$$ ($$$1 \le n \le 1\,000$$$) — количество элементов массива, значения которых интересуют Васю.Следующие $$$n$$$ строк содержат $$$n$$$ целых чисел $$$pos_i$$$ ($$$0 \le pos_i \le 1\,125\,899\,906\,842\,623$$$) — позиции, для которых нужно узнать значение в массиве.Выходные данныеВыведите $$$n$$$ строк. В $$$i$$$-й строке должно содержаться значение элемента массива на позиции $$$pos_i$$$.ПримерВходные данные 5 0 1 3 5 8 Выходные данные 0 1 4 2 3 ПримечаниеНачало этого массива выглядит следующим образом:const long long values[1125899906842624] = { 0, 1, 3, 4, 1, 2, 4, ... }; 
+B. Code Reviewограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводУ команды разработки движков ВКонтакте есть общий чат. После каждого сложного коммита в репозиторий, автор этого коммита присылает в чат сообщение с предложением провести ревью. Для одобрения или отклонения коммита достаточно, чтобы его проверил один разработчик, не принимавший участие в его написании.Перед тем, как оставить новую заявку на ревью, каждый разработчик проводит ревью последней из оставленных заявок, которые еще никем не проверены (если может — если он не является автором этой заявки) и только после этого оставляет новую заявку.Вам дан лог заявок на ревью с момента появления чата в хронологическом порядке. Найдите коммиты, которые никто не проверил.Входные данныеВ первой строке записано одно целое число n (1 ≤ n ≤ 50 000) — количество просьб о code review в чате.В следующих n строках записаны внутренний целочисленный идентификатор разработчика i и хеш коммита h (1 ≤ i ≤ 50 000; h состоит из строчных букв латинского алфавита от a до f и цифр). Все хеши коммитов уникальны и имеют длины от 1 до 20 символов, включительно.Выходные данныеВыведите все хеши коммитов, которые не попали на ревью, в том же порядке, в котором они были даны во входных данных.ПримерВходные данные 7 1 0e813c50 1 00e9422b 1 520cb7b4 2 052dd9ad 3 9dd5f347 3 e35f067b 1 bb4d4a99 Выходные данные 0e813c50 00e9422b 9dd5f347 bb4d4a99 
+A. Скрытый другограничение по времени на тест2 секундыограничение по памяти на тест512 мегабайтвводстандартный вводвыводстандартный выводВам дан граф друзей VK. Недавно у пользователей появилась возможность скрывать друзей из социального графа. Для заданного графа друзей найдите скрытые дружеские связи, то есть такие ситуации, когда пользователь $$$u$$$ находится в друзьях у пользователя $$$v$$$, но пользователь $$$v$$$ не находится в друзьях у пользователя $$$u$$$.Входные данныеВ первой строке задано одно целое число $$$n$$$ ($$$2 \le n \le 100$$$) — количество человек в графе друзей ВКонтакте. Пользователи пронумерованы целыми числами от $$$1$$$ до $$$n$$$.В следующих $$$n$$$ строках дан граф друзей каждого из этих людей: в $$$i$$$-й из этих строк сначала дано количество друзей у $$$i$$$-го человека и список номеров его друзей, разделенные пробелами. Номера друзей в каждой из $$$n$$$ этих строк не повторяются.Выходные данныеВ первой строке выведите одно число $$$k$$$ — количество скрытых дружеских связей.В следующих $$$k$$$ строках выведите пары чисел $$$u, v$$$, означающие, что пользователь $$$u$$$ скрыл пользователя $$$v$$$ из друзей. Пары выводите в любом порядке.ПримерыВходные данные 5 3 2 3 4 4 1 3 4 5 0 2 1 2 3 4 3 1 Выходные данные 6 3 5 4 5 5 2 3 1 1 5 3 2 Входные данные 2 0 1 1 Выходные данные 1 1 2 
+F. Two Bracket Sequences
+E. Nearest Opposite Parity
+D. Remove One Element
+C. Yet Another Broken Keyboard
+B. Snow Walking Robot
+A. Three Friends
+F. Divide The Students
+E. Common Number
+D. Portals
+C. Shawarma Tent
+B. Blocks
+A. Suits
+I. Xor on Figures
+H. Number of Components
+G. Subset with Zero Sum
+F. Awesome Substrings
+E. Divide Points
+D. Strange Device
+C. Make Good
+B. Interesting Subarray
+A. Card Game
+B. Modulo Equality
+A. Equation
+E. Happy Cactus
+D. Invertation in Tournament
+C. K Integers
+B. Domino for Young
+A. Long Beautiful Integer
+L. Lexicography
+K. Key Storage
+J. Just Arrange the Icons
+I. Intriguing Selection
+H. Help BerLine
+G. Game Relics
+
+E. Elections
+D. DevOps Best Practices
+
+B. Balls of Buma
+
+H. Red-Blue Graph
+G. Permutation Concatenation
+F. Almost Same Distance
+E. Spaceship Solitaire
+D. Decreasing Debts
+C. Diverse Matrix
+B. Dice Tower
+A. Competitive Programmer
+E. Beautiful Mirrors
+B. Beautiful Numbers
+A. Beautiful String
+F. Beautiful Fibonacci Problem
+E. Beautiful League
+D2. Beautiful Bracket Sequence (hard version)
+D1. Beautiful Bracket Sequence (easy version)
+C. Beautiful Mirrors with queries
+B. Beautiful Sequence
+A. Beautiful Regional Contest
+F. Economic Difficulties
+E. Editor
+D. Secret Passwords
+C. Everyone is a Winner!
+B. PIN Codes
+A. Sweet Problem
+F. Xor-Set
+F. Colored Tree
+E. Tournament
+D. A Game with Traps
+C. Infinite Fence
+B. Obtain Two Zeroes
+A. Heating
+G. Divisor Set
+F. Make Them Similar
+E. The Contest
+D. Yet Another Monster Killing Problem
+C. Dominated Subarray
+B. Magic Stick
+A. Two Rival Students
+F. Equalizing Two Strings
+E. Yet Another Division Into Teams
+D. Binary String Minimizing
+C. Platforms Jumping
+B. Minimize the Permutation
+A. Payment Without Change
+C. League of Leesins
+B. Fridge Lockers
+A. Changing Volume
+E. Send Tree to Charlie
+D. Tree Queries
+C. Point Ordering
+B2. Send Boxes to Alice (Hard Version)
+B1. Send Boxes to Alice (Easy Version)
+A. Feeding Chicken
+F. Cheap Robot
+E. Antenna Coverage
+D. Harmonious Graph
+C. Sweets Eating
+B. Silly Mistake
+A. Single Push
+L. Road Construction
+K. Addition Robot
+J. Tiling Terrace
+I. Mission Possible
+H. Twin Buildings
+G. Performance Review
+F. Regular Forestation
+E. Songwriter
+D. Find String in a Grid
+C. Even Path
+B. Cleaning Robots
+A. Copying Homework
+F. Red-White Fence
+E2. Voting (Hard Version)
+E1. Voting (Easy Version)
+D. Salary Changing
+C. Minimize The Integer
+B. Binary Palindromes
+A. Broken Keyboard
+N. Wires
+M. SmartGarden
+L. Divide The Students
+K. Projectors
+J. The Parade
+I. Show Must Go On
+H. Happy Birthday
+G. Discarding Game
+F. Data Center
+E. The Coronation
+D. Conference Problem
+C. Trip to Saint Petersburg
+B. The Feast and the Bus
+A. Berstagram
+F. Maximum Weight Subset
+E. By Elevator or Stairs?
+D2. Too Many Segments (hard version)
+D1. Too Many Segments (easy version)
+C2. Good Numbers (hard version)
+C1. Good Numbers (easy version)
+B2. Books Exchange (hard version)
+B1. Books Exchange (easy version)
+A. Yet Another Dividing into Teams
+D1. The World Is Just a Programming Task (Easy Version)
+B. Grow The Tree
+A. Integer Points
+F. Cursor Distance
+F. Daniel and Spring Cleaning
+E. Hyakugoku and Ladders
+D. Shichikuji and Power Grid
+C. Constanze's Machine
+B. Restricted RPS
+A. Good ol' Numbers Coloring
+G. Running in Pairs
+F. Chips
+E. Minimizing Difference
+D. Paint the Tree
+C. The Football Season
+B. Rooms and Staircases
+A. Pens and Pencils
+B2. Character Swap (Hard Version)
+B1. Character Swap (Easy Version)
+A. Maximum Square
+E. Planar Perimeter
+D. Number Discovery
+C. Sum Balance
+B. 0-1 MST
+A. Tile Painting
+F. Football
+F. Swiper, no swiping!
+E. Turtle
+D. Catowice City
+C. Queue in the Train
+B. The World Is Just a Programming Task (Hard Version)
+A. Ivan the Fool and the Probability Theory
+G. Adilbek and the Watering System
+F. The Maximum Subtree
+E. Keyboard Purchase
+D. AB-string
+C. Standard Free2play
+B. Kill 'Em All
+A. Prime Subtraction
+H. Balanced Reversals
+G. Balanced Distribution
+F. Balanced Domino Placements
+E. Balanced Binary Search Trees
+D. Balanced Playlist
+C2. Balanced Removals (Harder)
+C1. Balanced Removals (Easier)
+B. Balanced Tunnel
+A. Balanced Rating Changes
+F. Alice and the Cactus
+E. Alice and the Unfair Game
+D. Alice and the Doll
+C. Labs
+B. Alice and the List of Presents
+A. Stones
+F. Yet Another Substring Reverse
+E. Special Permutations
+D. Distinct Characters Queries
+C. Pipes
+B2. Social Network (hard version)
+B1. Social Network (easy version)
+A. Equalize Prices Again
+E. Middle-Out
+C. Increasing Matrix
+B. Ania and Minimizing
+A. Dawid and Bags of Candies
+F. One Node is Gone
+E. Another Filling the Grid
+D. Complete Tripartite
+C. Primes and Multiplication
+B. Filling the Grid
+A. Distinct Digits
+G. Not Same
+F2. Wrong Answer on test 233 (Hard Version)
+F1. Wrong Answer on test 233 (Easy Version)
+E. Arson In Berland Forest
+D2. Optimal Subsequences (Hard Version)
+D1. Optimal Subsequences (Easy Version)
+C. Messy
+B. Box
+A. Math Problem
+G. To Make 1
+F. Tree Factory
+E. Rock Is Push
+D. Power Products
+C. p-binary
+B2. TV Subscriptions (Hard Version)
+B1. TV Subscriptions (Easy Version)
+A. Forgetting Things
+G. Wooden Raft
+F. Stack Exterminable Arrays
+E. Paint the Tree
+D. Sequence Sorting
+C. Save the Nature
+B. Strings Equalization
+A. CME
+G. Graph And Numbers
+F. Choose a Square
+E. Game With String
+D. Make The Fence Great Again
+C. Perfect Team
+B. Knights
+A. 2048 Game
+G. Geolocation
+F. Gardener Alex
+E. Tourism
+D. Alex and Julian
+C. Substring Game in the Lesson
+B. Multiplication Table
+A. Cards
+G. Harvester
+C. Periodic integer number
+I. The Light Square
+H. Function Composition
+G. Alpha planetary system
+F. Workout plan
+E. Product Tuples
+D. Xor Spanning Tree
+C. Jumping Transformers
+B. Guarding warehouses
+A. BubbleReactor
+F. Forced Online Queries Problem
+E. Sum Queries?
+D. Coloring Edges
+C. The Number Of Good Substrings
+B. Zmei Gorynich
+A. Creating a Character
+F. Wi-Fi
+E2. Numerical Sequence (hard version)
+E1. Numerical Sequence (easy version)
+D. Swords
+C. White Sheet
+B. Shooting
+A. Prefixes
+F. Radio Stations
+E. Marbles
+D. Ticket Game
+C. Swap Letters
+B. The Number of Products
+A. Yellow Cards
+H. Tiles Placement
+G. Feeling Good
+F. Employment
+E. Petya and Construction Set
+D. Treasure Island
+C. Bad Sequence
+B. Badges
+A. Optimal Currency Exchange
+G. Path Queries
+F. Unstable String Sort
+E. Two Small Strings
+D2. Equalizing by Division (hard version)
+D1. Equalizing by Division (easy version)
+C. Book Reading
+B. Bad Prices
+A. Chips Moving
+I. Unusual Graph
+H. Road Repair in Treeland
+G. King's Path
+F. kotlinkotlinkotlinkotlin...
+E. Double Permutation Inc.
+D. Teams
+C. Ice Cream
+B. Traveling Around the Golden Ring of Berland
+A. Three Problems
+G. Mateusz and Escape Room
+F2. Marek and Matching (hard version)
+F1. Marek and Matching (easy version)
+E. Wojtek and Card Tricks
+D. Konrad and Company Evaluation
+C. Kamil and Making a Stream
+B. Marcin and Training Camp
+A. Anadi and Domino
+H. Moving Walkways
+G2. Into Blocks (hard version)
+G1. Into Blocks (easy version)
+F. Koala and Notebook
+E2. Rotate Columns (hard version)
+E1. Rotate Columns (easy version)
+D. Cow and Snacks
+C. Paint the Digits
+B. Koala and Lights
+A. Paint the Numbers
+H. Red Blue Tree
+G. Polygons
+F. Bits And Pieces
+E. Let Them Slide
+D. Restore Permutation
+C. Magic Grid
+B. Uniqueness
+A. XORinacci
+G. Indie Album
+F. Remainder Problem
+E. XOR Guessing
+D. Number Of Permutations
+C. Gas Pipeline
+B. Square Filling
+A. There Are Two Types Of Burgers
+B. Make Product Equal One
+A. Choose Two Numbers
+F. Beauty of a Permutation
+E. Expected Value Again
+D. Almost All
+C. Palindromic Paths
+B. Shortest Cycle
+A. Almost Equal
+E. Natasha, Sasha and the Prefix Sums
+D2. Kirk and a Binary String (hard version)
+D1. Kirk and a Binary String (easy version)
+C. Anna, Svyatoslav and Maps
+B. Mislove Has Lost an Array
+A. BowWow and the Timetable
+F2. Complete the Projects (hard version)
+F1. Complete the Projects (easy version)
+E. Boxers
+D2. Remove the Substring (hard version)
+D1. Remove the Substring (easy version)
+C. Common Divisors
+B. Equal Rectangles
+A. Circle of Students
+F. You Are Given Some Letters...
+E. You Are Given Some Strings...
+D. Print a 1337-string...
+C. You Are Given a WASD-string...
+B. You Are Given a Decimal String...
+A. You Are Given Two Binary Strings...
+E2. Knightmare (hard)
+E1. Knightmare (easy)
+D. Treasure Hunting
+C. Maximum Median
+B. Zero Array
+A. Important Exam
+F. Graph Traveler
+E. Compress Words
+D. White Lines
+C. Round Corridor
+B. Block Adventure
+A. Hotelier
+B. Water Lily
+A. City Day
+F. GCD Groups 2
+E. Rectangle Painting 2
+D. Rectangle Painting 1
+C. Matching vs Independent Set
+B. Welfare State
+A. MP3
+F. Coloring Game
+E. Culture Code
+D. Yet Another Subarray Problem
+C. Array Splitting
+B. Pillars
+A. DIY Wooden Ladder
+F. K-th Path
+E. Connected Component on a Chessboard
+D2. RGB Substring (hard version)
+D1. RGB Substring (easy version)
+C. Robot Breakout
+B. Odd Sum Segments
+A. Three Piles of Candies
+F. Geometers Anonymous Club
+E. OpenStreetMap
+D2. Submarine in the Rybinsk Sea (hard edition)
+D1. Submarine in the Rybinsk Sea (easy edition)
+C. Basketball Exercise
+B. Sport Mafia
+A. Drinks Choosing
+G. Another Meme Problem
+F. Crossword Expert
+E. Count The Rectangles
+D. 1-2-K Game
+C. From S To T
+B. Yet Another Crosses Problem
+A. Remove a Progression
+C. Scissors and Tape
+B. Magic Tree
+A. Amusement Park
+C. Cubeword
+B. Dynamic Diameter
+A. Building Skyscrapers
+B. Tokitsukaze and Mahjong
+A. Tokitsukaze and Enhancement
+F. Tokitsukaze and Powers
+E. Tokitsukaze and Explosion
+D. Tokitsukaze and Strange Rectangle
+C. Tokitsukaze and Duel
+B. Tokitsukaze, CSL and Stone Game
+A. Tokitsukaze and Discard Items
+C. Candies!
+B. Number Circle
+A. Keanu Reeves
+E. Problem from Red Panda
+D. Make Equal
+C. Array Beauty
+B. Count Pairs
+A2. Add on a Tree: Revolution
+A1. Add on a Tree
+G. Gang Up
+F. Expected Square Beauty
+E. Tree Painting
+D. Subarray Sorting
+C. Vasya And Array
+B. Letters Shop
+A. Stickers and Toys
+F. Vus the Cossack and a Graph
+E. Vus the Cossack and a Field
+D. Vus the Cossack and Numbers
+C. Vus the Cossack and Strings
+A. Vus the Cossack and a Contest
+G2. Playlist for Polycarp (hard version)
+G1. Playlist for Polycarp (easy version)
+F. Two Pizzas
+E. Polycarp and Snakes
+D. Extra Element
+C2. Exam in BerSU (hard version)
+C1. Exam in BerSU (easy version)
+B. Email from Polycarp
+A. Ropewalkers
+E3. Daleks' Invasion (hard)
+E2. Daleks' Invasion (medium)
+E1. Daleks' Invasion (easy)
+D2. Parallel Universes (Hard)
+D1. Parallel Universes (Easy)
+C3. Heidi and the Turing Test (Hard)
+C2. Heidi and the Turing Test (Medium)
+C1. Heidi and the Turing Test (Easy)
+B3. The Doctor Meets Vader (Hard)
+B2. The Doctor Meets Vader (Medium)
+B1. The Doctor Meets Vader (Easy)
+A3. Heidi Learns Hashing (Hard)
+A2. Heidi Learns Hashing (Medium)
+A1. Heidi Learns Hashing (Easy)
+H. Subsequences (hard version)
+G. Candy Box (hard version)
+F. Topforces Strikes Back
+E. Subsequences (easy version)
+D. Candy Box (easy version)
+C. Computer Game
+B. Equalize Prices
+A. Nearest Interesting Number
+F. Maximum Sine
+E. Product Oriented Recurrence
+D. Complete Mirror
+C. Beautiful Lyrics
+B. Plus from Picture
+A. Filling Shapes
+E2. A Story of One Country (Hard)
+E1. A Story of One Country (Easy)
+D. Irrigation
+C. Flag
+B. Split a Number
+A. Chunga-Changa
+B. Nick and Array
+A. Alex and a Rhombus
+E. Alesya and Discrete Math
+D. Fedor Runs for President
+C. Serge and Dining Room
+B. Tolik and His Uncle
+A. Valeriy and Deque
+H. Stock Exchange
+G. The Awesomest Vertex
+F2. Long Colorful Strip
+F1. Short Colorful Strip
+E. Archaeology
+D. Prime Graph
+C. Tiles
+B. WOW Factor
+A. Prime Minister
+B. Digits Sequence (Hard Edition)
+A. Digits Sequence (Easy Edition)
+F. Destroy it!
+E. Cover it!
+D. Recover it!
+C. Lose it!
+B. Merge it!
+A. Divide it!
+G. Yet Another Partiton Problem
+F. The Number of Subpermutations
+E. Minimal Segment Cover
+D. Array Splitting
+C. Electrification
+B. Catch Overflow!
+A. From Hero to Zero
+F. Ehab and the Big Finale
+E. Ehab and the Expected GCD Problem
+D. Ehab and the Expected XOR Problem
+C. Ehab and a Special Coloring Problem
+B. Ehab Is an Odd Person
+A. Ehab Fails to Be Thanos
+B. Nauuo and Chess
+A. Nauuo and Votes
+F. Nauuo and Bug
+E. Nauuo and ODT
+D. Nauuo and Portals
+C2. Nauuo and Pictures (hard version)
+C1. Nauuo and Pictures (easy version)
+B. Nauuo and Circle
+A. Nauuo and Cards
+I. Good Subsets
+H. Longest Saw
+G. Graph Decomposition
+F. Wheels
+E. Sliding Doors
+D. Decoding of Integer Sequences
+C. Minus and Minus Give Plus
+B. Bad Days
+A. Three Integers Again
+B. Pairs
+A. Circle Metro
+E. Xor Permutations
+D. Anagram Paths
+C. And Reachability
+B. Good Triple
+A. Increasing by Modulo
+G. Low Budget Inception
+F. Scalar Queries
+E. Range Deleting
+D. Bicolored RBS
+C. News Distribution
+B. Lost Numbers
+A. Telephone Number
+F. Vicky's Delivery Service
+E. The LCMs Must be Large
+D. Cute Sequences
+C. A Tale of Two Lands
+B. All the Vowels Please
+A. Silent Classroom
+F2. Microtransactions (hard version)
+F1. Microtransactions (easy version)
+E. Two Arrays and Sum of Functions
+D. Almost All Divisors
+C. Good String
+B. Polycarp Training
+A. Remainder
+F. Indecisive Taxi Fee
+E. Magical Permutation
+D. Mysterious Code
+C2. Power Transmission (Hard Edition)
+C1. Power Transmission (Easy Edition)
+B2. Cat Party (Hard Edition)
+B1. Cat Party (Easy Edition)
+A. Eating Soup
+B. Double Matrix
+A. Zoning Restrictions Again
+A2. Collaboration
+B. Expansion coefficient of the array
+A. A pile of stones
+F. Density of subarrays
+E. Strange device
+D. Winding polygonal line
+C. Permutation recovery
+B. The minimal unique substring
+A. The Party and Sweets
+G. Inverse of Rows and Columns
+F. Maximum Balanced Circle
+E. Minimum Array
+D. N Problems During K Days
+C2. Increasing Subsequence (hard version)
+C1. Increasing Subsequence (easy version)
+B. Long Number
+A. Reachable Numbers
+G. Optimizer
+F. Card Bag
+E. Special Segments of Permutation
+D. 0-1-Tree
+C. Match Points
+B. Ugly Pairs
+A. Inscribed Figures
+F. Delivery Oligopoly
+E. Guess the Root
+D. Beautiful Array
+C. Alarm Clocks Everywhere
+B. Game with Telephone Numbers
+A. Reverse a Substring
+G. Minimum Possible LCM
+F. Shovels Shop
+E. Two Teams
+D. Walking Robot
+C. Gourmet Cat
+B. Make Them Equal
+A. Restoring Three Numbers
+F. Serval and Bonus Problem
+E. Serval and Snake
+D. Serval and Rooted Tree
+C. Serval and Parenthesis Sequence
+B. Serval and Toy Bricks
+A. Serval and Bus
+F2. Neko Rules the Catniverse (Large Version)
+F1. Neko Rules the Catniverse (Small Version)
+E. Neko and Flashback
+D. Neko and Aki's Prank
+C. Neko does Maths
+B. Neko Performs Cat Furrier Transform
+A. Neko Finds Grapes
+F. Sonya and Informatics
+E. Number of Components
+D. Stas and the Queue at the Buffet
+C. Problem for Nazar
+B. Dima and a Bad XOR
+A. Maxim and Biology
+B. Tiling Challenge
+A. Stock Arbitraging
+E. Election Promises
+D. Abandoning Roads
+C. Tree Generator™
+B. Three Religions
+A. Prefix Sum Primes
+H. Holy Diver 
+G. Gold Experience
+F. Foo Fighters
+E. Earth Wind and Fire
+D. Dirty Deeds Done Dirt Cheap
+C. Crazy Diamond
+B. Born This Way
+A. Another One Bites The Dust
+F. Zigzag Game
+E. Rainbow Coins
+D. Palindrome XOR
+C. Thanos Nim
+B. Chladni Figure
+A. Hide and Seek
+H. Satanic Panic
+G. Zoning Restrictions
+F. Leaf Partition
+E. Hot is Cold
+D. Frog Jumping
+C. Tree Diameter
+B. Hate "A"
+A. Love "A"
+G. AI Takeover
+F. Neat Words
+E. Fourier Doodles
+D. Pigeon d'Or
+C. Mystery Circuit
+B. Kanban Numbers
+A. Thanos Sort
+G. Two Merged Sequences
+F. Graph Without Long Directed Paths
+E. Median String
+D. Equalize Them All
+C. Two Shuffled Sequences
+B. Parity Alternated Deletions
+A. Diverse Strings
+C. Queen
+B. Nirvana
+A. The Doors
+E. Pink Floyd
+D. Foreigner
+C. U2
+B. Lynyrd Skynyrd
+A. The Beatles
+G. Privatization of Roads in Treeland
+F2. Same Sum Blocks (Hard)
+F1. Same Sum Blocks (Easy)
+E. Superhero Battle
+D. Colored Boots
+C. Polycarp Restores Permutation
+B. Maximal Continuous Rest
+A. Game 23
+G. Double Tree
+F. Extending Set of Points
+E. Palindrome-less Arrays
+D. Minimum Triangulation
+C. Playlist
+B. Good String
+A. Detective Book
+F. Dish Shopping
+E. Maximize Mex
+D. Steps to One
+C. Edgy Trees
+B. Chocolates
+A. Even Substrings
+B. Circus
+A. Sushi for Two
+F. Matches Are Not a Child's Play 
+E. Train Car Selection
+D. Cooperative Game
+C. Museums Tour
+B. Camp Schedule
+A. Skyscrapers
+E. Nastya Hasn't Written a Legend
+D. Nastya Is Buying Lunch
+C. Nastya Is Transposing Matrices
+B. Nastya Is Playing Computer Games
+A. Nastya Is Reading a Book
+F2. Spanning Tree with One Fixed Degree
+F1. Spanning Tree with Maximum Degree
+E. K Balanced Teams
+D. Zero Quantity Maximization
+C. Balanced Team
+B. Preparation for International Women's Day
+A. Middle of the Contest
+G. Greedy Subsequences
+F. Clear the String
+E. Knapsack
+D. Stressful Training
+C. Painting the Fence
+B. Discounts
+A. Regular Bracket Sequence
+G. Most Dangerous Shark
+F. Asya And Kittens
+E. String Multiplication
+D. Gourmet choice
+C. Birthday
+B. Draw!
+A. Sea Battle
+C. Connect
+B. Two Cakes
+A. Be Positive
+E. Legendary Tree
+D. Isolation
+C. Morse Code
+B. Wrong Answer
+A2. Toy Train
+A1. Toy Train (Simplified)
+C. System Testing
+B. Mike and Children
+A. Technogoblet of Fire
+F. Secret Letters
+E. The very same Munchhausen
+D. Power Tree
+C. Compress String
+B. Once in a casino
+A. Diana and Liana
+H. Triple
+G. Get Ready for the Battle
+F. Niyaz and Small Degrees
+E. Pavel and Triangles
+D. Frets On Fire
+C. Ramesses and Corner Inversion
+B. Alyona and a Narrow Fridge
+A. Ilya and a Colorful Walk
+F2. Tree Cutting (Hard Version)
+F1. Tree Cutting (Easy Version)
+E. Yet Another Ball Problem
+D2. Coffee and Coursework (Hard Version)
+D1. Coffee and Coursework (Easy version)
+C. Palindromic Matrix
+B. Tanya and Candies
+A. Water Buying
+G. Recursive Queries
+F. Crisp String
+E. Decypher the String
+D. Magic Gems
+C. Magic Ship
+B. Emotes
+A. Best Subsegment
+D6. Hessenberg matrix
+D5. Creeper
+D4. TIE fighter
+D3. X-wing fighter
+D2. Pattern of increasing blocks
+D1. Block diagonal matrix
+C3. "Is the number of ones divisible by 3?" oracle
+C2. "Is the bit string periodic?" oracle
+C1. Alternating bits oracle
+B2. Not A, not B or not C?
+B1. Distinguish three-qubit states
+A2. Generate equal superposition of four basis states
+A1. Generate state |00⟩ + |01⟩ + |10⟩
+U3. Block unitary
+U2. Chessboard unitary
+U1. Anti-diagonal unitary
+G3. Palindrome checker oracle
+G2. OR oracle
+G1. AND oracle
+F. Please, another Queries on Array?
+E. Arithmetic Progression
+D. Flood Fill
+C. Trailing Loves (or L'oeufs?)
+B. Yet Another Array Partitioning Task
+A. Got Any Grapes?
+B. Sasha and Magnetic Machines
+A. Sasha and His Trip
+E. Tree
+D. Destroy the Colony
+C. Creative Snap
+B. Average Superhero Gang Power 
+A. Superhero Transformation
+H. Modest Substrings
+G. Tree-Tac-Toe 
+F. Nearest Leaf
+E. Magic Stones
+D. Jongmah
+C. Meaningless Operations
+B. Tape
+A. Parity
+F. Sasha and Algorithm of Silence's Sounds
+E. Sasha and a Very Easy Test
+D. Sasha and Interesting Fact from Graph Theory
+C. Sasha and a Patient Friend
+B. Sasha and One More Name
+A. Sasha and a Bit of Relax
+F. MST Unification
+E2. Array and Segments (Hard version)
+E1. Array and Segments (Easy version)
+D. Diverse Garland
+C. Nice Garland
+B. Divisors of Two Integers
+A. Two distinct points
+G. Vasya and Maximum Profit
+F. Vasya and Endless Credits
+E. Vasya and Binary String
+D. Compression
+C. Brutality
+B. Digital root
+A. Digits Sequence Dividing
+F. Lunar New Year and a Recursive Sequence
+E. Lunar New Year and Red Envelopes
+D. Lunar New Year and a Wander
+C. Lunar New Year and Number Division
+B. Lunar New Year and Food Ordering
+A. Lunar New Year and Cross Counting
+E. Helping Hiasat 
+D. Kilani and the Game
+C. Ayoub and Lost Array
+B. Zuhair and Strings
+A. Salem and Sticks 
+B. Game with string
+A. Splitting into digits
+E. Radix sum
+D. Professional layer
+C. Johnny Solving
+B. Game with modulo
+A. Grid game
+F. Elongated Matrix
+E. Monotonic Renumeration
+D. Balanced Ternary String
+C. Doors Breaking and Repairing
+B. Array K-Coloring
+A. Integer Sequence Dividing
+G. (Zero XOR Subset)-less
+F. Trucks and Cities
+E. Polycarp's New Job
+D. GCD Counting
+C. Division and Union
+B. Accordion
+A. Minimum Integer
+F. Ivan and Burgers
+E. Andrew and Taxi
+D. Dasha and Chess
+C. NN and the Optical Illusion
+B. Build a Contest
+A. Roman and Browser
+F. Cookies
+C. Postcard
+B. Squares and Segments
+A. Snowball
+F. Ж-function
+E. Fedya the Potter
+D. Eels
+C. Construct a tree
+B. Nice table
+A. Sum in the tree
+H. Mateusz and an Infinite Sequence
+G. Vladislav and a Great Legend
+F. Alex and a TV Show
+E. Egor and an RPG game
+D. Makoto and a Blackboard
+C. Yuhao and a Parenthesis
+B. Petr and a Combination Lock
+A. Gennady and a Card Game
+G. Lucky Tickets
+F. Inversion Expectation
+E. The Top Scorer
+D. Easy Problem
+C. Polygon for the Angle
+B. Substring Removal
+A. Find Divisible
+F. Make It Connected
+E. Almost Regular Bracket Sequence
+D. Circular Dance
+C. Powers Of Two
+B. Array Stabilization
+A. Repeating Cipher
+G. Multidimensional Queries
+F. Vasya and Array
+E. Intersection of Permutations
+D. Beautiful Graph
+C. Mishka and the Last Exam
+B. Letters Rearranging
+A. Dice Rolling
+F. Tree with Maximum Cost
+E. Minimal Diameter Forest
+D2. Great Vova Wall (Version 2)
+D1. Great Vova Wall (Version 1)
+C. Prefixes and Suffixes
+B. Teams Forming
+A. Uniform String
+H. New Year and the Tricolore Recreation
+G. New Year and the Factorisation Collaboration
+F. New Year and the Mallard Expedition
+E. New Year and the Acquaintance Estimation
+D. New Year and the Permutation Concatenation
+C. New Year and the Sphere Transmission
+B. New Year and the Treasure Geolocation
+A. New Year and the Christmas Ornament
+M. The Pleasant Walk
+
+
+J. Two Prefixes
+
+
+
+
+
+D. Similar Arrays
+C. New Year Presents
+
+A. Company Merging
+
+L. Lazyland
+K. King Kog's Reception
+J. JS Minification
+I. Interval-Free Permutations
+
+G. Guest Student
+F. Fractions
+
+
+
+
+A. Alice the Fan
+F. Ehab and a weird weight formula
+E. Ehab and a component choosing problem
+D. Ehab and another another xor problem
+C. Ehab and a 2-operation task
+B. Ehab and subtraction
+A. Ehab and another construction problem
+F. Forest Fires
+G. Beautiful Matrix
+F. Rock-Paper-Scissors Champion
+E. Vasya and Templates
+D. Minimum Diameter Tree
+C. Connect Three
+B. Div Times Mod
+A. Right-Left Cipher
+C. The Fair Nut and String
+B. Kvass and the Fair Nut
+A. The Fair Nut and Elevator
+F. The Fair Nut and Amusing Xor
+E. The Fair Nut and Rectangles
+D. The Fair Nut's getting crazy
+C. Max Mex
+B. The Fair Nut and Strings
+A. The Fair Nut and the Best Path
+G. Petya and Graph
+F. Speed Dial
+E. Increasing Frequency
+D. Maximum Diameter Graph
+C. Multi-Subject Competition
+B. Vova and Trophies
+A. Vasya and Book
+H. Palindromic Magic
+G. Mergesort Strikes Back
+F. Tricky Interactor
+E. Missing Numbers
+D. Maximum Distance
+C. Colorful Bricks
+B. Farewell Party
+A. Definite Game
+F. Katya and Segments Sets
+E. Sonya and Matrix Beauty
+D. Olya and magical square
+C. Masha and two friends
+B. Margarite and the best present
+A. Petya and Origami
+E. Negative Time Summation
+F2. Pictures with Kittens (hard version)
+F1. Pictures with Kittens (easy version)
+E. Thematic Contests
+D. Cutting Out
+C. Good Array
+B. Disturbed People
+A. Frog Jumping
+G. Array Game
+F. Summer Practice Report
+E. Vasya and a Tree
+D. Edge Deletion
+C. Meme Problem
+B. Divisor Subtraction
+A. Minimizing the String
+B. Taxi drivers and Lyft
+A. The King's Race
+G. Yet Another LCP Problem
+F. Choosing Two Paths
+E. Segment Sum
+D. Berland Fair
+C. Vasya and Robot
+B. Vasya and Books
+A. Diverse Substring
+E. Rain Protection
+M. Algoland and Berland
+L. Odd Federalization
+K. Video Posts
+J. Streets and Avenues in Berhattan
+I. Privatization of Roads in Berland
+H. BerOS File Suggestion
+G. Monsters and Potions
+F. Debate
+E. Getting Deals Done
+D. Garbage Disposal
+C. Cloud Computing
+B. Berkomnadzor
+A. Find a Number
+C. Colored Rooks
+B. LCM
+A. Birthday
+E. Random Forest Rank
+D. Computer Game
+C. Knights
+B. Multihedgehog
+A. Array Without Local Maximums 
+F. Yet another 2D Walking
+E. Binary Numbers AND Sum
+D. Boxes Packing
+C. Books Queries
+B. Heaters
+A. Vova and Train
+G. Fibonacci Suffix
+F. Up and Down the Tree
+E. Side Transmutations
+D. Three Pieces
+C. Make It Equal
+B. Vasya and Isolated Vertices
+A. Vasya and Chocolate
+B. Equations of Mathematical Magic
+A. Make a triangle!
+F. String Journey
+E. Lasers and Mirrors
+D. Candies for Children
+C. Dwarves, Hats and Extrasensory Abilities
+B. Labyrinth
+A. Oh Those Palindromes
+F. Upgrading Cities
+E. Company
+D. Fun with Integers
+C. Banh-mi
+B. Math
+A. A Prank
+F. Lost Root
+E. Politics
+D. TV Shows
+C. Multiplicity
+B. Views Matter
+A. Coins
+H. Sophisticated Device
+G. Balls and Pockets
+F. Shrinking Tree
+E. Sergey and Subway
+D. Social Circles
+C. Maximum Subrectangle
+B. Maximum Sum of Digits
+A. Phone Numbers
+E. Split the Tree
+D. Nature Reserve
+C. Sequence Transformation
+B. Forgery
+A. Cashier
+C. Tanya and Colored Candies
+B. DDoS
+A. Bmail Computer Network
+H. Detect Robots
+G. Take Metro
+F. Write The Contest
+E. Check Transcription
+D. Decorate Apple Tree
+C. Pick Heroes
+B. Divide Candies
+A. Determine Line
+G. Jellyfish Nightmare
+F. Tree and XOR
+E. Segments on the Line
+D. Refactoring
+C. Lucky Days
+B. Alice and Hairdresser
+A. Metro
+H. Epic Convolution
+G. New Road Network
+F. Electric Scheme
+E. Chips Puzzle
+D. Changing Array
+C. Candies Distribution
+B. Appending Mex
+A. Elevator or Stairs?
+E. Euler tour
+G. Distinctification
+F. The Shortest Statement
+E. Vasya and Big Integers
+D. Bicolorings
+C. Vasya and Multisets
+B. Relatively Prime Pairs
+A. Vasya And Password
+B. Cover Points
+A. Little C Loves 3 I
+I. Say Hello
+F. Splitting money
+C. Space Formula
+J. Moonwalk challenge
+I. Palindrome Pairs
+H. Self-exploration
+G. AI robots
+F. Shady Lady
+E. Ancient civilizations
+D. Interstellar battle
+C. Hyperspace Highways
+B. Space Isaac
+A. Last chance
+F. DFS
+E. Grid Sort
+D. Deduction Queries
+C. Optimal Polygon Perimeter
+B. Intersecting Subtrees
+A. The Tower is Going Home
+G. Speckled Band
+F. Make It One
+E. Train Hard, Win Easy
+D. Mysterious Crime
+C. Smallest Word
+B. Lost Array
+A. Elections
+F. Leaf Sets
+E. Vasya and Magic Matrix
+D. Petya and Array
+C. Array Product
+B. Vitamins
+A. Benches
+F. Ray in the tube
+E. Tree Reconstruction
+D. Glider
+C. Coffee Break
+B. Buying a TV Set
+A. Heist
+B. Shashlik Cooking
+A. Palindrome Dance
+E. Summer Oenothera Exhibition
+D. You Are Given a Tree
+C. Network Safety
+B. Subway Pursuit
+A. Timetable
+F. Wrap Around
+E. Maximum Matching
+D. Slime
+C. Gambling
+B. Non-Coprime Partition
+A. Equality
+H. Security
+G. A Game on Strings
+F. Maximum Reduction
+E. Trips
+D. Valid BFS?
+C. Equalize
+B. Reach Median
+A. Packets
+G. Sources and Sinks
+F. Relatively Prime Powers
+E. Covered Points
+D. Vasya and Arrays
+C. Classy Numbers
+B. Diagonal Walking v.2
+A. Function Height
+E. Little C Loves 3 III
+D. Intervals of Intervals
+C. Region Separation
+B. Little C Loves 3 II
+A. Enlarge GCD
+G. Chip Game
+F. Boolean Computer
+E. Hidden Bipartite Graph
+D. Divisors
+C. Permutation Game
+B. Square Difference
+A. King Escape
+G. Chattering
+F. Vasya and Maximum Matching
+E. The Unbearable Lightness of Weights
+D. Barcelonian Distance
+C. Playing Piano
+B. Personalized Cup
+A. Kitchen Utensils
+F. Familiar Operations
+E. Triple Flips
+D. Minimum path
+C. Cram Time
+B. Curiosity Has No Limits
+A. Golden Plate
+G. Linear Congruential Generator
+F. Putting Boxes Together
+E. Vasya and Good Sequences
+D. Vasya and Triangle
+C. Vasya and Golden Ticket
+B. Vasya and Cornfield
+A. In Search of an Easy Problem
+F. Multicolored Markers
+E. Tree with Small Distances
+D. Concatenated Multiples
+C. Maximal Intersection
+B. Creating the Contest
+A. Many Equal Substrings
+H. Make Square
+G. Guess the number
+F. Make Symmetrical
+E. Restore Array
+D. Order book
+C. Rectangles
+B. Unnatural Conditions
+A. Find Square
+G. X-mouse in the Campus
+F. Session in BSU
+E. Inverse Coloring
+D. Mouse Hunt
+C. Minimum Value Rectangle

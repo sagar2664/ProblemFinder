@@ -1,0 +1,4 @@
+F. In Every Generation...time limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard output In every generation there is a Chosen One. She alone will stand against the vampires, the demons, and the forces of darkness. She is the Slayer. — Joss Whedon InputA string $$$s$$$ ($$$3 \le |s| \le 7$$$) consisting of lowercase English letters.OutputA single string. If there is no answer, print "none" (without the quotes).ExampleInput
+tourist
+Output
+ooggqjx

@@ -1,0 +1,11 @@
+D. GCD of an Arraytime limit per test2.5 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given an array $$$a$$$ of length $$$n$$$. You are asked to process $$$q$$$ queries of the following format: given integers $$$i$$$ and $$$x$$$, multiply $$$a_i$$$ by $$$x$$$.After processing each query you need to output the greatest common divisor (GCD) of all elements of the array $$$a$$$.Since the answer can be too large, you are asked to output it modulo $$$10^9+7$$$.InputThe first line contains two integers — $$$n$$$ and $$$q$$$ ($$$1 \le n, q \le 2 \cdot 10^5$$$).The second line contains $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$ ($$$1 \le a_i \le 2 \cdot 10^5$$$) — the elements of the array $$$a$$$ before the changes.The next $$$q$$$ lines contain queries in the following format: each line contains two integers $$$i$$$ and $$$x$$$ ($$$1 \le i \le n$$$, $$$1 \le x \le 2 \cdot 10^5$$$).OutputPrint $$$q$$$ lines: after processing each query output the GCD of all elements modulo $$$10^9+7$$$ on a separate line.ExampleInput
+4 3
+1 6 8 12
+1 12
+2 3
+3 3
+Output
+2
+2
+6
+NoteAfter the first query the array is $$$[12, 6, 8, 12]$$$, $$$\operatorname{gcd}(12, 6, 8, 12) = 2$$$.After the second query — $$$[12, 18, 8, 12]$$$, $$$\operatorname{gcd}(12, 18, 8, 12) = 2$$$.After the third query — $$$[12, 18, 24, 12]$$$, $$$\operatorname{gcd}(12, 18, 24, 12) = 6$$$.Here the $$$\operatorname{gcd}$$$ function denotes the greatest common divisor.

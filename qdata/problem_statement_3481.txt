@@ -1,0 +1,17 @@
+D. Again?time limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputInputThe only line of the input contains a 7-digit hexadecimal number. The first "digit" of the number is letter A, the rest of the "digits" are decimal digits 0-9.OutputOutput a single integer.ExamplesInput
+A278832
+Output
+0
+Input
+A089956
+Output
+0
+Input
+A089957
+Output
+1
+Input
+A144045
+Output
+1
+ 

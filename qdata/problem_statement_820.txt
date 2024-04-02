@@ -1,0 +1,7 @@
+D. Trivial Conjecturetime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard output$$$$$$f(n) = \left\{ \begin{array}{ll} \frac{n}{2} & n \equiv 0 \pmod{2}\\ 3n+1 & n \equiv 1 \pmod{2}\\ \end{array} \right.$$$$$$Find an integer $$$n$$$ so that none of the first $$$k$$$ terms of the sequence $$$n, f(n), f(f(n)), f(f(f(n))), \dots$$$ are equal to $$$1$$$.InputThe only line contains an integer $$$k$$$ ($$$1 \leq k \leq \min(\textbf{[REDACTED]}, 10^{18})$$$).OutputOutput a single integer $$$n$$$ such that none of the first $$$k$$$ terms of the sequence $$$n, f(n), f(f(n)), f(f(f(n))), \dots$$$ are equal to $$$1$$$.Integer $$$n$$$ should have at most $$$10^3$$$ digits.ExamplesInput
+1
+Output
+5Input
+5
+Output
+6NoteIn the first test, the sequence created with $$$n = 5$$$ looks like $$$5, 16, 8, 4, 2, 1, 4, \dots$$$, and none of the first $$$k=1$$$ terms are equal to $$$1$$$.In the second test, the sequence created with $$$n = 6$$$ looks like $$$6, 3, 10, 5, 16, 8, 4, \dots$$$, and none of the first $$$k=5$$$ terms are equal to $$$1$$$.

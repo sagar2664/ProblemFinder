@@ -1,0 +1,18 @@
+A. In-game Chattime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou have been assigned to develop a filter for bad messages in the in-game chat. A message is a string $$$S$$$ of length $$$n$$$, consisting of lowercase English letters and characters ')'. The message is bad if the number of characters ')' at the end of the string strictly greater than the number of remaining characters. For example, the string ")bc)))" has three parentheses at the end, three remaining characters, and is not considered bad.InputThe first line contains the number of test cases $$$t$$$ ($$$1 \leq t \leq 100$$$). Description of the $$$t$$$ test cases follows.The first line of each test case contains an integer $$$n$$$ ($$$1 \leq n \leq 100$$$). The second line of each test case contains a string $$$S$$$ of length $$$n$$$, consisting of lowercase English letters and characters ')'.OutputFor each of $$$t$$$ test cases, print "Yes" if the string is bad. Otherwise, print "No".You can print each letter in any case (upper or lower).ExampleInput
+5
+2
+))
+12
+gl))hf))))))
+9
+gege)))))
+14
+)aa))b))))))))
+1
+)
+Output
+Yes
+No
+Yes
+Yes
+Yes

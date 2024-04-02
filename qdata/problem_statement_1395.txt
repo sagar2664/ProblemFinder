@@ -1,0 +1,11 @@
+F. Burenka, an Array and Queriestime limit per test3 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputEugene got Burenka an array $$$a$$$ of length $$$n$$$ of integers from $$$1$$$ to $$$m$$$ for her birthday. Burenka knows that Eugene really likes coprime integers (integers $$$x$$$ and $$$y$$$ such that they have only one common factor (equal to $$$1$$$)) so she wants to to ask Eugene $$$q$$$ questions about the present. Each time Burenka will choose a subsegment $$$a_l, a_{l + 1}, \ldots, a_r$$$ of array $$$a$$$, and compute the product of these numbers $$$p = a_l \cdot a_{l + 1} \cdot \ldots \cdot a_r$$$. Then she will ask Eugene to count the number of integers between $$$1$$$ and $$$C$$$ inclusive which are coprime with $$$p$$$. Help Eugene answer all the questions!InputIn the first line of input there are four integers $$$n$$$, $$$m$$$, $$$C$$$, $$$q$$$ ($$$1 \leq n, q \leq 10^5$$$, $$$1 \leq m \leq 2\cdot 10^4$$$, $$$1 \leq C \leq 10^5$$$) — the length of the array $$$a$$$, the maximum possible value of $$$a_{i}$$$, the value $$$C$$$, and the number of queries.The second line contains $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$ ($$$1 \leq a_{i} \leq m$$$) — the array $$$a$$$ .In the next $$$q$$$ lines the queries are given. Each query consists of two integers $$$l$$$ and $$$r$$$ ($$$1 \leq l \leq r \leq n$$$).OutputPrint $$$q$$$ integers — the answers to Burenka's queries.ExampleInput
+5 5 5 3
+1 2 3 2 5
+1 1
+2 4
+4 5
+Output
+5
+2
+2
+NoteHere's an explanation for the example:  in the first query, the product is equal to $$$1$$$, which is coprime with $$$1,2,3,4,5$$$.  in the second query, the product is equal to $$$12$$$, which is coprime with $$$1$$$ and $$$5$$$.  in the third query, the product is equal to $$$10$$$, which is coprime with $$$1$$$ and $$$3$$$. 

@@ -1,0 +1,17 @@
+B. Kanban Numberstime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputInputThe input contains a single integer $$$a$$$ ($$$1 \le a \le 99$$$).OutputOutput "YES" or "NO".ExamplesInput
+5
+Output
+YES
+Input
+13
+Output
+NO
+Input
+24
+Output
+NO
+Input
+46
+Output
+YES
+ 

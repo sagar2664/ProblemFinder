@@ -1,0 +1,1 @@
+D3. Quantum Classification - Dataset 5time limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputThis problem is identical to the problem D1 in every aspect except the training dataset. Please refer to that problem for the full problem statement.

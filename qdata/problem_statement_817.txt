@@ -1,0 +1,3 @@
+G. Colour Visiontime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard output  ExampleInput
+11RROutput
+YES

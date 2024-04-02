@@ -1,0 +1,1 @@
+C. Pōja Verdontime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputAenar has an array $$$a$$$ consisting of $$$n$$$ integers.InputThe first line is the integer $$$n$$$ ($$$1 \le n \le 100$$$).The second line contains $$$n$$$ integers $$$a_i$$$ ($$$0 \le a_i \le 3979$$$) — the contents of the array.OutputOutput a single number.

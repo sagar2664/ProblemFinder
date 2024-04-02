@@ -1,0 +1,15 @@
+C. Digitstime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputInputThe first line contains a single integer $$$t$$$ ($$$1 \le t \le 32$$$) — the number of test cases.Each test case contains $$$n$$$ lines. The $$$i$$$-th line contains an integer $$$a_i$$$ ($$$1 \le a_i \le 9$$$).The sum of $$$n$$$ over all test cases doesn't exceed $$$155$$$.OutputFor each test case, print one integer — the answer.ExampleInput
+3
+2
+1
+4
+7
+1
+2
+3
+5
+Output
+8
+7
+30
+ 

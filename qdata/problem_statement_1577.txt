@@ -1,0 +1,18 @@
+A. Cirno's Perfect Bitmasks Classroomtime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputEven if it's a really easy question, she won't be able to answer it— Perfect Memento in Strict SenseCirno's perfect bitmasks classroom has just started!Cirno gave her students a positive integer $$$x$$$. As an assignment, her students need to find the minimum positive integer $$$y$$$, which satisfies the following two conditions:$$$$$$x\ \texttt{and}\ y > 0$$$$$$ $$$$$$x\ \texttt{xor}\ y > 0$$$$$$Where $$$\texttt{and}$$$ is the bitwise AND operation, and $$$\texttt{xor}$$$ is the bitwise XOR operation.Among the students was Mystia, who was truly baffled by all these new operators. Please help her!InputThe first line of input contains a single integer $$$t$$$ ($$$1 \leq t \leq 10^3$$$) — the number of input test cases.For each test case, the only line of input contains one integer $$$x$$$ ($$$1 \leq x \leq 2^{30}$$$).OutputFor each test case, print a single integer — the minimum number of $$$y$$$.ExampleInput
+7
+1
+2
+5
+9
+16
+114514
+1000000
+Output
+3
+3
+1
+1
+17
+2
+64
+NoteTest case 1: $$$1\; \texttt{and}\; 3=1>0$$$, $$$1\; \texttt{xor}\; 3=2>0$$$.Test case 2: $$$2\; \texttt{and}\; 3=2>0$$$, $$$2\; \texttt{xor}\; 3=1>0$$$.

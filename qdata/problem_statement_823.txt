@@ -1,0 +1,1 @@
+A. Are You a Robot?time limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard output  

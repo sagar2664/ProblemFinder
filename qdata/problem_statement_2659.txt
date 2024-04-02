@@ -1,0 +1,12 @@
+G. Painting Numberstime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given $$$n$$$ integers, each integer is from $$$1$$$ to $$$n$$$, all of them are pairwise distinct. You have to paint them red and blue (each integer should have exactly one color).The cost of painting is the number of pairs $$$(x, y)$$$ such that $$$y \bmod x = 0$$$, $$$y$$$ is red and $$$x$$$ is blue.For each $$$k \in [1, n]$$$, calculate the maximum cost of painting if exactly $$$k$$$ integers should have a red color.InputThe first line contains one integer $$$n$$$ ($$$2 \le n \le 10^5$$$).OutputFor each $$$k \in [1,n]$$$ print one integer — the maximum cost of painting, if exactly $$$k$$$ integers should be red.ExamplesInput
+6
+Output
+3 5 6 6 5 0
+Input
+2
+Output
+1 0
+Input
+11
+Output
+3 6 9 11 12 13 14 14 13 10 0

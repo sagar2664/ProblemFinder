@@ -1,0 +1,4 @@
+B. Mike's Sequencetime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou won't find this sequence on OEIS.InputOne integer $$$r$$$ ($$$-45 \le r \le 2999$$$).OutputOne integer.ExampleInput
+2999
+Output
+3000

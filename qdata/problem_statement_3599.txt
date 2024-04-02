@@ -1,0 +1,23 @@
+F. Number of Componentstime limit per test4 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given a matrix $$$n \times m$$$, initially filled with zeroes. We define $$$a_{i, j}$$$ as the element in the $$$i$$$-th row and the $$$j$$$-th column of the matrix.Two cells of the matrix are connected if they share a side, and the elements in these cells are equal. Two cells of the matrix belong to the same connected component if there exists a sequence $$$s_1$$$, $$$s_2$$$, ..., $$$s_k$$$ such that $$$s_1$$$ is the first cell, $$$s_k$$$ is the second cell, and for every $$$i \in [1, k - 1]$$$, $$$s_i$$$ and $$$s_{i + 1}$$$ are connected.You are given $$$q$$$ queries of the form $$$x_i$$$ $$$y_i$$$ $$$c_i$$$ ($$$i \in [1, q]$$$). For every such query, you have to do the following:  replace the element $$$a_{x, y}$$$ with $$$c$$$;  count the number of connected components in the matrix. There is one additional constraint: for every $$$i \in [1, q - 1]$$$, $$$c_i \le c_{i + 1}$$$.InputThe first line contains three integers $$$n$$$, $$$m$$$ and $$$q$$$ ($$$1 \le n, m \le 300$$$, $$$1 \le q \le 2 \cdot 10^6$$$) — the number of rows, the number of columns and the number of queries, respectively.Then $$$q$$$ lines follow, each representing a query. The $$$i$$$-th line contains three integers $$$x_i$$$, $$$y_i$$$ and $$$c_i$$$ ($$$1 \le x_i \le n$$$, $$$1 \le y_i \le m$$$, $$$1 \le c_i \le \max(1000, \lceil \frac{2 \cdot 10^6}{nm} \rceil)$$$). For every $$$i \in [1, q - 1]$$$, $$$c_i \le c_{i + 1}$$$.OutputPrint $$$q$$$ integers, the $$$i$$$-th of them should be equal to the number of components in the matrix after the first $$$i$$$ queries are performed.ExampleInput
+3 2 10
+2 1 1
+1 2 1
+2 2 1
+1 1 2
+3 1 2
+1 2 2
+2 2 2
+2 1 2
+3 2 4
+2 1 5
+Output
+2
+4
+3
+3
+4
+4
+4
+2
+2
+4

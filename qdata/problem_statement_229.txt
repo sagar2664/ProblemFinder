@@ -1,0 +1,15 @@
+A. 2023time limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputIn a sequence $$$a$$$, whose product was equal to $$$2023$$$, $$$k$$$ numbers were removed, leaving a sequence $$$b$$$ of length $$$n$$$. Given the resulting sequence $$$b$$$, find any suitable sequence $$$a$$$ and output which $$$k$$$ elements were removed from it, or state that such a sequence could not have existed.Notice that you are not guaranteed that such array exists.InputEach test consists of several test cases. The first line contains a single integer $$$t$$$ ($$$1 \le t \le 100$$$) — the number of test cases. This is followed by a description of the test cases.The first line of each test case contains two integers $$$n$$$ ($$$1 \le n, k \le 5$$$) — the size of sequence $$$b$$$ and the number of numbers removed from sequence $$$a$$$.The second line contains $$$n$$$ integers $$$b_1,b_2, \ldots,b_n$$$ ($$$1 \leq b_i \leq 2023$$$) — the remaining sequence. The values of $$$b_i$$$ might not be divisors of $$$2023$$$.OutputFor each test case, output "YES" if the sequence $$$a$$$ exists, and in the following line output $$$k$$$ non-negative integers that were removed from the sequence $$$a$$$. If the sequence $$$a$$$ does not exist, output "NO" in a single line.You can output the answer in any case (uppercase or lowercase). For example, the strings "yEs", "yes", "Yes", and "YES" will be recognized as positive answers.ExampleInput
+72 25 23 17 17 74 21 289 1 13 17 17 171 12891 120231 31Output
+NO
+NO
+YES
+7 1
+YES
+1
+YES
+7
+YES
+1
+YES
+7 17 17
+NoteIn third test case product is equal to $$$289 \cdot 7 = 2023$$$.In fourth test case product is already equal to $$$2023$$$.In seventh test case product is equal to $$$7 \cdot 17 \cdot 17 = 2023$$$.

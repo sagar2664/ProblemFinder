@@ -1,0 +1,49 @@
+I. Cyclic Shiftstime limit per test3 secondsmemory limit per test512 megabytesinputstandard inputoutputstandard outputYou are given a matrix consisting of $$$n$$$ rows and $$$m$$$ columns. The matrix contains lowercase letters of the Latin alphabet.You can perform the following operation any number of times you want to: choose two integers $$$i$$$ ($$$1 \le i \le m$$$) and $$$k$$$ ($$$0 < k < n$$$), and shift every column $$$j$$$ such that $$$i \le j \le m$$$ cyclically by $$$k$$$. The shift is performed upwards.For example, if you have a matrix  $$$\left( \begin{array} \\ a & b & c \\ d & e & f \\ g & h & i \end{array}\right) $$$  and perform an operation with $$$i = 2$$$, $$$k = 1$$$, then it becomes:  $$$\left( \begin{array} \\ a & e & f \\ d & h & i \\ g & b & c \end{array}\right) $$$ You have to process $$$q$$$ queries. Each of the queries is a string of length $$$m$$$ consisting of lowercase letters of the Latin alphabet. For each query, you have to calculate the minimum number of operations described above you have to perform so that at least one row of the matrix is equal to the string from the query. Note that all queries are independent, that is, the operations you perform in a query don't affect the initial matrix in other queries.InputThe first line contains three integers $$$n$$$, $$$m$$$, $$$q$$$ ($$$2 \le n, m, q \le 2.5 \cdot 10^5$$$; $$$n \cdot m \le 5 \cdot 10^5$$$; $$$q \cdot m \le 5 \cdot 10^5$$$) — the number of rows and columns in the matrix and the number of queries, respectively.The next $$$n$$$ lines contains $$$m$$$ lowercase Latin letters each — elements of the matrix.The following $$$q$$$ lines contains a description of queries — strings of length $$$m$$$ consisting of lowercase letters of the Latin alphabet.OutputPrint $$$q$$$ integers. The $$$i$$$-th integer should be equal to the minimum number of operations you have to perform so that the matrix contains a string from the $$$i$$$-th query or $$$-1$$$ if the specified string cannot be obtained.ExamplesInput
+3 5 4
+abacc
+ccbba
+ccabc
+abacc
+acbbc
+ababa
+acbbc
+Output
+0
+2
+1
+2
+Input
+6 4 4
+daac
+bcba
+acad
+cbdc
+aaaa
+bcbb
+dcdd
+acba
+bbbb
+dbcd
+Output
+3
+1
+2
+-1
+Input
+5 10 5
+ltjksdyfgg
+cbhpsereqn
+ijndtzbzcf
+ghgcgeadep
+bfzdgxqmqe
+ibgcgzyfep
+bbhdgxqmqg
+ltgcgxrzep
+ljnpseldgn
+ghhpseyzcf
+Output
+5
+3
+5
+-1
+3

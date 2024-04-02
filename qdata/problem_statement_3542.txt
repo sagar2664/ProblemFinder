@@ -1,0 +1,25 @@
+F. Battalion Strengthtime limit per test5 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputThere are $$$n$$$ officers in the Army of Byteland. Each officer has some power associated with him. The power of the $$$i$$$-th officer is denoted by $$$p_{i}$$$. As the war is fast approaching, the General would like to know the strength of the army.The strength of an army is calculated in a strange way in Byteland. The General selects a random subset of officers from these $$$n$$$ officers and calls this subset a battalion.(All $$$2^n$$$ subsets of the $$$n$$$ officers can be chosen equally likely, including empty subset and the subset of all officers).The strength of a battalion is calculated in the following way:Let the powers of the chosen officers be $$$a_{1},a_{2},\ldots,a_{k}$$$, where $$$a_1 \le a_2 \le \dots \le a_k$$$. The strength of this battalion is equal to $$$a_1a_2 + a_2a_3 + \dots + a_{k-1}a_k$$$. (If the size of Battalion is $$$\leq 1$$$, then the strength of this battalion is $$$0$$$).The strength of the army is equal to the expected value of the strength of the battalion.As the war is really long, the powers of officers may change. Precisely, there will be $$$q$$$ changes. Each one of the form $$$i$$$ $$$x$$$ indicating that $$$p_{i}$$$ is changed to $$$x$$$.You need to find the strength of the army initially and after each of these $$$q$$$ updates.Note that the changes are permanent.The strength should be found by modulo $$$10^{9}+7$$$. Formally, let $$$M=10^{9}+7$$$. It can be shown that the answer can be expressed as an irreducible fraction $$$p/q$$$, where $$$p$$$ and $$$q$$$ are integers and $$$q\not\equiv 0 \bmod M$$$). Output the integer equal to $$$p\cdot q^{-1} \bmod M$$$. In other words, output such an integer $$$x$$$ that $$$0 \leq x < M$$$ and $$$x ⋅ q \equiv p \bmod M$$$).InputThe first line of the input contains a single integer $$$n$$$ ($$$1 \leq n \leq 3⋅10^{5}$$$)  — the number of officers in Byteland's Army.The second line contains $$$n$$$ integers $$$p_{1},p_{2},\ldots,p_{n}$$$ ($$$1 \leq p_{i} \leq 10^{9}$$$).The third line contains a single integer $$$q$$$ ($$$1 \leq q \leq 3⋅10^{5}$$$)  — the number of updates.Each of the next $$$q$$$ lines contains two integers $$$i$$$ and $$$x$$$ ($$$1 \leq i \leq n$$$, $$$ 1 \leq x \leq 10^{9}$$$), indicating that $$$p_{i}$$$ is updated to $$$x$$$ .OutputIn the first line output the initial strength of the army.In $$$i$$$-th of the next $$$q$$$ lines, output the strength of the army after $$$i$$$-th update.ExamplesInput
+2
+1 2
+2
+1 2
+2 1
+Output
+500000004
+1
+500000004
+Input
+4
+1 2 3 4
+4
+1 5
+2 5
+3 5
+4 5
+Output
+625000011
+13
+62500020
+375000027
+62500027
+NoteIn first testcase, initially, there are four possible battalions   {} Strength = $$$0$$$  {$$$1$$$} Strength = $$$0$$$  {$$$2$$$} Strength = $$$0$$$  {$$$1,2$$$} Strength = $$$2$$$  So strength of army is $$$\frac{0+0+0+2}{4}$$$ = $$$\frac{1}{2}$$$After changing $$$p_{1}$$$ to $$$2$$$, strength of battallion {$$$1,2$$$} changes to $$$4$$$, so strength of army becomes $$$1$$$.After changing $$$p_{2}$$$ to $$$1$$$, strength of battalion {$$$1,2$$$} again becomes $$$2$$$, so strength of army becomes $$$\frac{1}{2}$$$.
