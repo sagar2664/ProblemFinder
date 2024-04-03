@@ -1,4 +1,0 @@
-F. Mathtime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard output    *The two images are equivalent, feel free to use either one.InputThe input contains a single integer $$$a$$$ ($$$-100 \le a \le 100$$$).OutputOutput the result – an integer number.ExampleInput
-1
-Output
-1

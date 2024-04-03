@@ -1,9 +1,0 @@
-C1. k-LCM (easy version)time limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputIt is the easy version of the problem. The only difference is that in this version $$$k = 3$$$.You are given a positive integer $$$n$$$. Find $$$k$$$ positive integers $$$a_1, a_2, \ldots, a_k$$$, such that:  $$$a_1 + a_2 + \ldots + a_k = n$$$  $$$LCM(a_1, a_2, \ldots, a_k) \le \frac{n}{2}$$$ Here $$$LCM$$$ is the least common multiple of numbers $$$a_1, a_2, \ldots, a_k$$$.We can show that for given constraints the answer always exists.InputThe first line contains a single integer $$$t$$$ $$$(1 \le t \le 10^4)$$$  — the number of test cases.The only line of each test case contains two integers $$$n$$$, $$$k$$$ ($$$3 \le n \le 10^9$$$, $$$k = 3$$$).OutputFor each test case print $$$k$$$ positive integers $$$a_1, a_2, \ldots, a_k$$$, for which all conditions are satisfied.ExampleInput
-3
-3 3
-8 3
-14 3
-Output
-1 1 1
-4 2 2
-2 6 6

@@ -1,1 +1,0 @@
-H. L BREAK into programtime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputHack the program and get the password hidden in it.InputThis program has only one test, and it's empty (it doesn't give your program anything to read).OutputOutput the password recovered from the program. The password is case sensitive.

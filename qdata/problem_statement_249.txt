@@ -1,9 +1,0 @@
-C. Game with Multisettime limit per test1.5 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputIn this problem, you are initially given an empty multiset. You have to process two types of queries:  ADD $$$x$$$ — add an element equal to $$$2^{x}$$$ to the multiset;  GET $$$w$$$ — say whether it is possible to take the sum of some subset of the current multiset and get a value equal to $$$w$$$. InputThe first line contains one integer $$$m$$$ ($$$1 \le m \le 10^5$$$) — the number of queries.Then $$$m$$$ lines follow, each of which contains two integers $$$t_i$$$, $$$v_i$$$, denoting the $$$i$$$-th query. If $$$t_i = 1$$$, then the $$$i$$$-th query is ADD $$$v_i$$$ ($$$0 \le v_i \le 29$$$). If $$$t_i = 2$$$, then the $$$i$$$-th query is GET $$$v_i$$$ ($$$0 \le v_i \le 10^9$$$).OutputFor each GET query, print YES if it is possible to choose a subset with sum equal to $$$w$$$, or NO if it is impossible.ExamplesInput
-51 01 01 02 32 4Output
-YES
-NO
-Input
-71 01 11 21 102 42 62 7Output
-YES
-YES
-YES

@@ -1,8 +1,0 @@
-F. Onestime limit per test3 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given a positive (greater than zero) integer $$$n$$$.You have to represent $$$n$$$ as the sum of integers (possibly negative) consisting only of ones (digits '1'). For example, $$$24 = 11 + 11 + 1 + 1$$$ and $$$102 = 111 - 11 + 1 + 1$$$. Among all possible representations, you have to find the one that uses the minimum number of ones in total.InputThe single line contains one integer $$$n$$$ ($$$1 \le n < 10^{50}$$$).OutputPrint one integer $$$x$$$ — the minimum number of ones, such that there exist a representation of $$$n$$$ as the sum of integers (possibly negative) that uses $$$x$$$ ones in total.ExamplesInput
-24
-Output
-6
-Input
-102
-Output
-7
