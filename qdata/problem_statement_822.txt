@@ -1,9 +1,0 @@
-B. Was it Rated?time limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputInputThe only line of the input contains a single integer $$$n$$$ ($$$1 \leq n \leq 25$$$).ExamplesInput
-1
-Output
-YES
-Input
-15
-Output
-NO
- 

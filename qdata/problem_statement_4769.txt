@@ -1,9 +1,0 @@
-B. Divisor Subtractiontime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given an integer number $$$n$$$. The following algorithm is applied to it:  if $$$n = 0$$$, then end algorithm;  find the smallest prime divisor $$$d$$$ of $$$n$$$;  subtract $$$d$$$ from $$$n$$$ and go to step $$$1$$$. Determine the number of subtrations the algorithm will make.InputThe only line contains a single integer $$$n$$$ ($$$2 \le n \le 10^{10}$$$).OutputPrint a single integer — the number of subtractions the algorithm will make.ExamplesInput
-5
-Output
-1
-Input
-4
-Output
-2
-NoteIn the first example $$$5$$$ is the smallest prime divisor, thus it gets subtracted right away to make a $$$0$$$.In the second example $$$2$$$ is the smallest prime divisor at both steps.

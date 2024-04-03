@@ -1,4 +1,0 @@
-C. Mystery Circuittime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard output  InputThe input contains a single integer $$$a$$$ ($$$0 \le a \le 15$$$).OutputOutput a single integer.ExampleInput
-3
-Output
-13

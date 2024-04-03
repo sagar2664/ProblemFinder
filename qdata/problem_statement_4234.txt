@@ -1,7 +1,0 @@
-A. Filling Shapestime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou have a given integer $$$n$$$. Find the number of ways to fill all $$$3 \times n$$$ tiles with the shape described in the picture below. Upon filling, no empty spaces are allowed. Shapes cannot overlap.  This picture describes when $$$n = 4$$$. The left one is the shape and the right one is $$$3 \times n$$$ tiles. InputThe only line contains one integer $$$n$$$ ($$$1 \le n \le 60$$$) — the length.OutputPrint the number of ways to fill.ExamplesInput
-4
-Output
-4Input
-1
-Output
-0NoteIn the first example, there are $$$4$$$ possible cases of filling.In the second example, you cannot fill the shapes in $$$3 \times 1$$$ tiles.

@@ -1,9 +1,0 @@
-A. Stair, Peak, or Neither?time limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given three digits $$$a$$$, $$$b$$$, and $$$c$$$. Determine whether they form a stair, a peak, or neither.   A stair satisfies the condition $$$a<b<c$$$.  A peak satisfies the condition $$$a<b>c$$$. InputThe first line contains a single integer $$$t$$$ ($$$1 \leq t \leq 1000$$$) — the number of test cases.The only line of each test case contains three digits $$$a$$$, $$$b$$$, $$$c$$$ ($$$0 \leq a$$$, $$$b$$$, $$$c \leq 9$$$).OutputFor each test case, output "STAIR" if the digits form a stair, "PEAK" if the digits form a peak, and "NONE" otherwise (output the strings without quotes).ExampleInput
-71 2 33 2 11 5 33 4 10 0 04 1 74 5 7Output
-STAIR
-NONE
-PEAK
-PEAK
-NONE
-NONE
-STAIR

@@ -1,8 +1,0 @@
-B. DMCAtime limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputMany people are aware of DMCA – Digital Millennium Copyright Act. But another recently proposed DMCA – Digital Millennium Calculation Act – is much less known.In this problem you need to find a root of a number according to this new DMCA law.InputThe input contains a single integer $$$a$$$ ($$$1 \le a \le 1000000$$$).OutputOutput the result – an integer number.ExamplesInput
-1
-Output
-1
-Input
-81
-Output
-9

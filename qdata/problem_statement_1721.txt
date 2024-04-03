@@ -1,1 +1,0 @@
-D. Is it rated - 3time limit per test1 secondmemory limit per test256 megabytesinputstandard inputoutputstandard outputInputThe first line contains a string $$$S$$$.The second line contains an integer $$$X$$$.Constraints   $$$|S|=3$$$  $$$0 \le X \le 10^9$$$  The input is guaranteed to be valid.  

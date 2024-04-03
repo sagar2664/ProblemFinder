@@ -1,8 +1,0 @@
-B. Minor Reductiontime limit per test2 secondsmemory limit per test256 megabytesinputstandard inputoutputstandard outputYou are given a decimal representation of an integer $$$x$$$ without leading zeros.You have to perform the following reduction on it exactly once: take two neighboring digits in $$$x$$$ and replace them with their sum without leading zeros (if the sum is $$$0$$$, it's represented as a single $$$0$$$).For example, if $$$x = 10057$$$, the possible reductions are:   choose the first and the second digits $$$1$$$ and $$$0$$$, replace them with $$$1+0=1$$$; the result is $$$1057$$$;  choose the second and the third digits $$$0$$$ and $$$0$$$, replace them with $$$0+0=0$$$; the result is also $$$1057$$$;  choose the third and the fourth digits $$$0$$$ and $$$5$$$, replace them with $$$0+5=5$$$; the result is still $$$1057$$$;  choose the fourth and the fifth digits $$$5$$$ and $$$7$$$, replace them with $$$5+7=12$$$; the result is $$$10012$$$. What's the largest number that can be obtained?InputThe first line contains a single integer $$$t$$$ ($$$1 \le t \le 10^4$$$) — the number of testcases.Each testcase consists of a single integer $$$x$$$ ($$$10 \le x < 10^{200000}$$$). $$$x$$$ doesn't contain leading zeros.The total length of the decimal representations of $$$x$$$ over all testcases doesn't exceed $$$2 \cdot 10^5$$$.OutputFor each testcase, print a single integer — the largest number that can be obtained after the reduction is applied exactly once. The number should not contain leading zeros.ExampleInput
-2
-10057
-90
-Output
-10012
-9
-NoteThe first testcase of the example is already explained in the statement.In the second testcase, there is only one possible reduction: the first and the second digits.
