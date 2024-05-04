@@ -1,1 +1,3 @@
-Web_Scrapping/qdata/
+data/qdata/
+.venv/
+__pycache__/

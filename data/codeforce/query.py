@@ -47,3 +47,4 @@ for i in sorted_indices:
             f"{j}) QN: {QName[i]}\nQL :{QLink[i]}\nSS:{similarity_scores[i]}\n")
         if (j >= 10):
             break
+
