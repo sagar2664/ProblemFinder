@@ -8,7 +8,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 matrix_path = os.path.join(BASE_DIR, 'data/codeforce/matrix.pkl')
 vectorizer_path = os.path.join(BASE_DIR, 'data/codeforce/vectorizer.pkl')
 headings_path = os.path.join(BASE_DIR, 'data/codeforce/headings.txt')
-problem_links_path = os.path.join(BASE_DIR, 'data/codeforce/problem_links.txt')
+problem_links_path = os.path.join(BASE_DIR, 'data/codeforce/urls.txt')
 
 # Load the matrix and vectorizer from files
 with open(matrix_path, 'rb') as f:

@@ -17,7 +17,7 @@ with open("headings.txt", 'r', encoding="utf-8") as f:
         extracted_question_name = text.split('.', 1)[-1]
         QName.append(extracted_question_name)
 
-with open("problem_links.txt", 'r', encoding="utf-8") as f:
+with open("urls.txt", 'r', encoding="utf-8") as f:
     for line in f:
         text = line.strip()
         QLink.append(text)
