@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'django_filters',
     'rest_framework',
     'search',
+    'home',
+    'api',
+    'dataQuery',
 ]
 
 MIDDLEWARE = [

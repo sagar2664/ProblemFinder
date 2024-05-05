@@ -1,6 +1,6 @@
 from django.urls import path
-from search.views import ProblemFind
+from search.views import search
 
 urlpatterns = [
-    path('', ProblemFind.as_view(), name='Finding Problem'),
+    path('', search, name='Search Problem'),
 ]

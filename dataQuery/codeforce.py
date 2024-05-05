@@ -31,7 +31,7 @@ with open(problem_links_path, 'r', encoding="utf-8") as f:
         QLink.append(text)
 
 
-def searchProblems(query, noOfProblems):
+def searchCodeforce(query, noOfProblems):
     # Convert the query into a TF-IDF vector using the loaded vectorizer
     query_vector = vectorizer.transform([query.lower()])
 
