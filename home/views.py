@@ -1,5 +1,9 @@
 from django.http import HttpResponse
-# Create your views here.
+from django.template import loader
+from datetime import datetime
 
 def home(request):
-    return HttpResponse('This is the home page')
+    template = loader.get_template('home.html')
+    timestamp = datetime.now().timestamp()
+    context = {'timestamp': timestamp}
+    return HttpResponse(template.render(context, request))
