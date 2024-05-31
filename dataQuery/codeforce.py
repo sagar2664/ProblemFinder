@@ -31,7 +31,7 @@ with open(problem_links_path, 'r', encoding="utf-8") as f:
         QLink.append(text)
 
 
-def searchCodeforce(query):
+def codeforce(query):
     # Convert the query into a TF-IDF vector using the loaded vectorizer
     query_vector = vectorizer.transform([query.lower()])
 
@@ -41,15 +41,14 @@ def searchCodeforce(query):
     # Sort the similarity scores in descending order and get the corresponding indices
     sorted_indices = similarity_scores.argsort(axis=0)[::-1].squeeze()
     
-    ans = []
+    results = []
 
     for i in sorted_indices:
         if (similarity_scores[i] >= 0.01):
-            ans.append({
+            results.append({
                 "name": QName[i],
                 "url": QLink[i],
+                "score": similarity_scores[i],
             })
         
-
-    return ans
-
+    return results
