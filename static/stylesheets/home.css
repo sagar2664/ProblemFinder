@@ -16,9 +16,9 @@ body {
 
 .transparent-input {
   background-color: transparent !important;
-  border: 1px solid rgba(255, 255, 255, 0.5) !important; /* Semi-transparent border */
-  color: white !important; /* White text color */
-  transition: border-color 0.3s ease-in-out; /* Smooth transition for border color */
+  border: 1px solid rgba(255, 255, 255, 0.5) !important;
+  color: white !important;
+  transition: border-color 0.3s ease-in-out;
 }
 
 .transparent-input:focus {
@@ -27,8 +27,8 @@ body {
     255,
     255,
     0.5
-  ) !important; /* Semi-transparent border color when focused */
-  outline: none; /* Remove the default outline */
+  ) !important;
+  outline: none;
 }
 
 .transparent-input::placeholder {
@@ -37,5 +37,5 @@ body {
     255,
     255,
     0.5
-  ) !important; /* Semi-transparent placeholder color */
+  ) !important;
 }
