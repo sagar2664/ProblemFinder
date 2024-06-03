@@ -9,9 +9,9 @@ def search(request):
         return HttpResponse("Search the Problems by given value")
    
     option = request.GET.get('opt')
-    if option == '1':
+    if option == 'codeforce':
         ans = searchCodeforce(query, 'problem_name')
-    elif option == '2':
+    elif option == 'leetcode':
         ans = searchLeetcode(query, 'problem_code')
     else:
         ans = searchAll(query)
@@ -22,5 +22,3 @@ def search(request):
     paginated_data = paginator.get_page(page)
 
     return render(request, 'search.html', {'ans': paginated_data, 'search_query': query})
-
-

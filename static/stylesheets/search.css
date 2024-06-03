@@ -1,13 +1,21 @@
 body {
   height: 100vh;
   display: flex;
-  align-items: center;
-  background-color: #222;
-  color: #fff;
+  background-color: black;
 }
 
 .custom-opacity {
   opacity: 1;
+}
+
+.title {
+  color: white !important;
+  margin-bottom: 20px;
+  text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5);
+}
+
+.title-text {
+  text-align: center;
 }
 
 .transparent-input {
@@ -18,24 +26,28 @@ body {
 }
 
 .transparent-input:focus {
-  border-color: rgba(
-    255,
-    255,
-    255,
-    0.5
-  ) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
   outline: none;
 }
 
 .transparent-input::placeholder {
-  color: rgba(
-    255,
-    255,
-    255,
-    0.5
-  ) !important;
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.list-group-item {
+  background-color: transparent !important;
 }
 
 a {
   text-decoration: none;
+  color: red;
+}
+
+.list-group-item a:visited {
+  color: mediumseagreen;
+}
+
+.page-link {
+  background-color: transparent;
+  color: mediumseagreen;
 }
