@@ -16,5 +16,3 @@ def search(request):
     paginated_data = paginator.get_page(page)
 
     return render(request, 'search.html', {'ans': paginated_data, 'search_query': search_query})
-
-
