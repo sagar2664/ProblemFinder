@@ -51,3 +51,10 @@ a {
   background-color: transparent;
   color: mediumseagreen;
 }
+
+.form-select {
+  background-color: transparent !important;
+  border: 1px solid rgba(255, 255, 255, 0.5) !important;
+  color: white !important;
+  transition: border-color 0.3s ease-in-out;
+}

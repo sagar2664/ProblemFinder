@@ -1,18 +1,18 @@
 from dataQuery.views import searchAll, searchCodeforce, searchLeetcode
 from django.http import HttpResponse
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.core.paginator import Paginator
 
 def search(request):
     query = request.GET.get('q')
-    if query is None:
-        return HttpResponse("Search the Problems by given value")
-   
+    if not query:
+        return render(request, 'search.html', {'error': "Please enter a search term."})
+
     option = request.GET.get('opt')
     if option == 'codeforce':
-        ans = searchCodeforce(query, 'problem_name')
+        ans = searchCodeforce(query)
     elif option == 'leetcode':
-        ans = searchLeetcode(query, 'problem_code')
+        ans = searchLeetcode(query)
     else:
         ans = searchAll(query)
 
@@ -21,4 +21,9 @@ def search(request):
     paginator = Paginator(ans, per_page)
     paginated_data = paginator.get_page(page)
 
-    return render(request, 'search.html', {'ans': paginated_data, 'search_query': query})
+    return render(request, 'search.html', {
+        'ans': paginated_data,
+        'search_query': query,
+        'option': option
+    })
+

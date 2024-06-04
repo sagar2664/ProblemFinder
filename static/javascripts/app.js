@@ -4,20 +4,19 @@ form.addEventListener("submit", function (e) {
   
     if (form.elements.q) {
       const searchTerm = form.elements.q.value;
+      const searchOption = form.elements.opt.value;
   
       if (searchTerm.trim().length !== 0) {
         const params = new URLSearchParams();
         params.append("q", searchTerm);
-  
-        const baseUrl = "http://127.0.0.1:8000/search/";
-  
+        if (searchOption) {
+            params.append("opt", searchOption);
+        }
         const url = baseUrl + "?" + params.toString();
   
         window.location.href = url;
       } else {
         console.error("Search term is empty.");
       }
-    } else {
-      console.error("Form element with name 'q' not found.");
     }
-  });
+});
