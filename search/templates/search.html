@@ -20,7 +20,7 @@
                 <h1 class="title-text"><a class="title" href="{% url 'home' %}">CodeMaster</a></h1>
             </div>
             <div class="col-md-8">
-                <form action="" class="validated-form" role="search" novalidate id="searchForm">
+                <form action="{% url 'home' %}search/" class="validated-form" role="search" novalidate id="searchForm">
                     <div class="row mb-3">
                         <div class="col">
                             <input class="transparent-input form-control me-1" type="search"
@@ -52,7 +52,8 @@
                     <ul class="pagination justify-content-center">
                         {% if ans.has_previous %}
                         <li class="page-item">
-                            <a class="page-link" href="?q={{ search_query }}&opt={{ option }}&page={{ ans.previous_page_number }}"
+                            <a class="page-link"
+                                href="?q={{ search_query }}&opt={{ option }}&page={{ ans.previous_page_number }}"
                                 aria-label="Previous">
                                 <span aria-hidden="true">&laquo;</span>
                             </a>
@@ -65,7 +66,8 @@
                         </li>
                         {% if ans.has_next %}
                         <li class="page-item">
-                            <a class="page-link" href="?q={{ search_query }}&opt={{ option }}&page={{ ans.next_page_number }}"
+                            <a class="page-link"
+                                href="?q={{ search_query }}&opt={{ option }}&page={{ ans.next_page_number }}"
                                 aria-label="Next">
                                 <span aria-hidden="true">&raquo;</span>
                             </a>
@@ -87,10 +89,6 @@
             const ans = JSON.parse(ansDataElement.textContent);
         }
     </script>
-    <script>
-        const baseUrl = "{% url 'home' %}search/";
-    </script>
-    <script src="{% static 'javascripts/app.js' %}"></script>
 </body>
 
 </html>

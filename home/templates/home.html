@@ -19,7 +19,7 @@ background-position: center;">
     <div class="col-md-6">
         <h1 class="title">CodeMaster</h1>
         <div id="quoteContainer" class="my-4"></div>
-        <form action="" class="validated-form" role="search" novalidate id="searchForm">
+        <form action="{% url 'home' %}search/" class="validated-form" role="search" novalidate id="searchForm">
             <input class="form-control me-2 mb-2 transparent-input" type="search" placeholder="Search Questions"
                 aria-label="Search" name="q" autofocus required>
             <div class="search row mb-3">
@@ -40,11 +40,7 @@ background-position: center;">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
-    <script src="{% static 'javascripts/app.js' %}"></script>
     <script src="{% static 'javascripts/quote.js' %}"></script>
-    <script>
-        const baseUrl = "{% url 'home' %}search/";
-    </script>
 </body>
 
 </html>
